@@ -1,1 +1,1 @@
-# Verified presence for cmake
+4.2.3
