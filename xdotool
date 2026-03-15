@@ -1,1 +1,14 @@
 4.20260303.1
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/libxdo.pc
+/usr/lib/libxdo.so.4
+/usr/lib/libxdo.so
+/usr/share/man/man1
+/usr/share/man/man1/xdotool.1
+/usr/bin
+/usr/bin/xdotool
+/usr/include
+/usr/include/xdo.h
+/etc
+/etc/ld.so.cache
