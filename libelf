@@ -1,0 +1,13 @@
+0.194
+/usr/lib
+/usr/lib/libelf-0.194.so
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/libelf.pc
+/usr/lib/libelf.so
+/usr/lib/libelf.so.1
+/usr/include
+/usr/include/elfutils
+/usr/include/elfutils/elf-knowledge.h
+/usr/include/nlist.h
+/usr/include/libelf.h
+/usr/include/gelf.h
