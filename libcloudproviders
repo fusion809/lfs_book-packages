@@ -1,1 +1,16 @@
 0.3.6
+/usr/lib
+/usr/lib/libcloudproviders.so.0.3.6
+/usr/lib/libcloudproviders.so
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/cloudproviders.pc
+/usr/lib/libcloudproviders.so.0
+/usr/lib/girepository-1.0
+/usr/lib/girepository-1.0/CloudProviders-0.3.typelib
+/usr/share/gir-1.0
+/usr/share/gir-1.0/CloudProviders-0.3.gir
+/usr/share/vala/vapi
+/usr/share/vala/vapi/cloudproviders.deps
+/usr/share/vala/vapi/cloudproviders.vapi
+/usr/include/cloudproviders
+/usr/include/cloudproviders/enums.h

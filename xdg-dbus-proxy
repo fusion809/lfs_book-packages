@@ -1,1 +1,5 @@
 0.1.6
+/usr/share/man/man1
+/usr/share/man/man1/xdg-dbus-proxy.1
+/usr/bin
+/usr/bin/xdg-dbus-proxy

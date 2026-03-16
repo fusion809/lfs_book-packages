@@ -1,1 +1,7 @@
 22.1.0
+/usr/lib
+/usr/lib/libLLVMSPIRVLib.so.22.1
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/LLVMSPIRVLib.pc
+/usr/bin
+/usr/bin/llvm-spirv

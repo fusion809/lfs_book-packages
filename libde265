@@ -1,1 +1,13 @@
 1.0.16
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/libde265.pc
+/usr/lib/libde265.so.0.1.9
+/usr/lib/libde265.so.0
+/usr/lib/libde265.so
+/usr/lib/libde265.la
+/usr/bin
+/usr/bin/dec265
+/usr/include/libde265
+/usr/include/libde265/de265.h
+/usr/include/libde265/de265-version.h
