@@ -1,1 +1,5 @@
 1.2.2
+/usr/bin
+/usr/bin/xrdb
+/usr/share/man/man1
+/usr/share/man/man1/xrdb.1
