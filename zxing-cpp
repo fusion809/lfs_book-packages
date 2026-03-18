@@ -1,1 +1,12 @@
 3.0.2
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/zxing.pc
+/usr/lib/libZXing.so.3.0.2
+/usr/lib/cmake/ZXing
+/usr/lib/cmake/ZXing/ZXingConfig.cmake
+/usr/lib/cmake/ZXing/ZXingConfigVersion.cmake
+/usr/lib/cmake/ZXing/ZXingTargets.cmake
+/usr/lib/cmake/ZXing/ZXingTargets-release.cmake
+/usr/include/ZXing
+/usr/include/ZXing/Version.h

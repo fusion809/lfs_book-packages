@@ -1,6 +1,4 @@
 2.9.0
-/usr/share/doc
-/usr/share/doc/kbd-2.9.0
 /usr/share/doc/kbd-2.9.0/iso8859-1.txt
 /usr/share/doc/kbd-2.9.0/iso8859.info
 /usr/share/doc/kbd-2.9.0/cp1252.txt
@@ -11,7 +9,6 @@
 /usr/share/doc/kbd-2.9.0/iso8859-11.txt
 /usr/share/doc/kbd-2.9.0/iso8859-9.txt
 /usr/share/doc/kbd-2.9.0/iso8859-2.txt
-/usr/share/doc/kbd-2.9.0/font-formats
 /usr/share/doc/kbd-2.9.0/font-formats/font-formats-5.html
 /usr/share/doc/kbd-2.9.0/font-formats/font-formats-2.html
 /usr/share/doc/kbd-2.9.0/font-formats/font-formats-1.html
@@ -21,7 +18,6 @@
 /usr/share/doc/kbd-2.9.0/font-formats/font-formats-4.html
 /usr/share/doc/kbd-2.9.0/iso8859-14.txt
 /usr/share/doc/kbd-2.9.0/iso8859-13.txt
-/usr/share/doc/kbd-2.9.0/pine
 /usr/share/doc/kbd-2.9.0/pine/PP_KB_Front-1024x576.jpg
 /usr/share/doc/kbd-2.9.0/pine/Ppkb_layout2.png
 /usr/share/doc/kbd-2.9.0/pine/README.md
@@ -29,14 +25,12 @@
 /usr/share/doc/kbd-2.9.0/iso8859-6.txt
 /usr/share/doc/kbd-2.9.0/iso8859-7.txt
 /usr/share/doc/kbd-2.9.0/iso8859-3.txt
-/usr/share/doc/kbd-2.9.0/dvorak
 /usr/share/doc/kbd-2.9.0/dvorak/dvorak-l.xmodmap
 /usr/share/doc/kbd-2.9.0/dvorak/ANSI-dvorak.gif
 /usr/share/doc/kbd-2.9.0/dvorak/dvorak.xmodmap
 /usr/share/doc/kbd-2.9.0/dvorak/dvorak.txt
 /usr/share/doc/kbd-2.9.0/dvorak/dvorak-r.xmodmap
 /usr/share/doc/kbd-2.9.0/dvorak/dvorak.diffs
-/usr/share/doc/kbd-2.9.0/A20
 /usr/share/doc/kbd-2.9.0/A20/A20.html
 /usr/share/doc/kbd-2.9.0/A20/xfix-286mode2
 /usr/share/doc/kbd-2.9.0/iso8859-10.txt
