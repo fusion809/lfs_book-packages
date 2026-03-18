@@ -1,4 +1,4 @@
-0.9.5
+0.9.6
 /usr/lib
 /usr/lib/libfyaml.la
 /usr/lib/pkgconfig
@@ -14,6 +14,10 @@
 /usr/share/man/man1/fy-tool.1
 /usr/share/man/man1/fy-compose.1
 /usr/share/man/man1/fy-join.1
+/usr/share/man/man3
+/usr/share/man/man3/libfyaml-misc.3
+/usr/share/man/man3/libfyaml-core.3
+/usr/share/man/man3/libfyaml.3
 /usr/bin
 /usr/bin/fy-testsuite
 /usr/bin/fy-join
@@ -24,3 +28,17 @@
 /usr/bin/fy-tool
 /usr/include
 /usr/include/libfyaml.h
+/usr/include/libfyaml
+/usr/include/libfyaml/libfyaml-docbuild.h
+/usr/include/libfyaml/libfyaml-path-exec.h
+/usr/include/libfyaml/libfyaml-composer.h
+/usr/include/libfyaml/libfyaml-vlsize.h
+/usr/include/libfyaml/libfyaml-endian.h
+/usr/include/libfyaml/libfyaml-thread.h
+/usr/include/libfyaml/libfyaml-atomics.h
+/usr/include/libfyaml/libfyaml-blake3.h
+/usr/include/libfyaml/libfyaml-util.h
+/usr/include/libfyaml/libfyaml-dociter.h
+/usr/include/libfyaml/libfyaml-allocator.h
+/usr/include/libfyaml/libfyaml-align.h
+/usr/include/libfyaml/libfyaml-core.h
