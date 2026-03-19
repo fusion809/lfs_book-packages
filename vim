@@ -5127,3 +5127,7 @@
 /usr/bin/xxd
 /usr/bin/vimtutor
 /usr/bin/gvimtutor
+/usr/share/man/man1/lzip.1
+/usr/share/info/dir
+/usr/share/info/lzip.info
+/usr/bin/lzip
