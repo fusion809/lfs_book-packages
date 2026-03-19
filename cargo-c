@@ -1,1 +1,6 @@
 0.10.21
+/usr/bin
+/usr/bin/cargo-cinstall
+/usr/bin/cargo-cbuild
+/usr/bin/cargo-ctest
+/usr/bin/cargo-capi
