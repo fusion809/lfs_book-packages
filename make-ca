@@ -1,1 +1,9 @@
 1.16.1
+/etc/make-ca/ISRG_Root_X1.pem
+/etc/make-ca/CS.txt
+/etc/make-ca/make-ca.conf.dist
+/usr/lib/systemd/system/update-pki.timer
+/usr/lib/systemd/system/update-pki.service
+/usr/share/man/man8/make-ca.8
+/usr/libexec/make-ca/copy-trust-modifications
+/usr/sbin/make-ca
