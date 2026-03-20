@@ -1,3 +1,4 @@
+6.6.3
 /usr/include/KDecoration3/KDecoration3
 /usr/include/KDecoration3/KDecoration3/DecoratedWindow
 /usr/include/KDecoration3/KDecoration3/Decoration
@@ -141,4 +142,3 @@
 /usr/share/locale/zh_CN/LC_MESSAGES/kdecoration.mo
 /usr/share/locale/zh_TW/LC_MESSAGES
 /usr/share/locale/zh_TW/LC_MESSAGES/kdecoration.mo
-6.6.2
