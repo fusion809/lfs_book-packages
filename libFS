@@ -1,1 +1,12 @@
 1.0.10
+/usr/include/X11/fonts
+/usr/include/X11/fonts/FSlib.h
+/usr/lib
+/usr/lib/libFS.la
+/usr/lib/libFS.so
+/usr/lib/libFS.so.6
+/usr/lib/libFS.so.6.0.0
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/libfs.pc
+/usr/share/doc/libFS-1.0.10
+/usr/share/doc/libFS-1.0.10/FSlib.txt
