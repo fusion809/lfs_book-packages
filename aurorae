@@ -22,7 +22,6 @@
 /usr/libexec/plasma-apply-aurorae
 /usr/share/knsrcfiles
 /usr/share/knsrcfiles/aurorae.knsrc
-/usr/share/kwin/aurorae
 /usr/share/kwin/aurorae/AppMenuButton.qml
 /usr/share/kwin/aurorae/AuroraeButton.qml
 /usr/share/kwin/aurorae/AuroraeButtonGroup.qml
@@ -31,10 +30,7 @@
 /usr/share/kwin/aurorae/DecorationButton.qml
 /usr/share/kwin/aurorae/MenuButton.qml
 /usr/share/kwin/aurorae/aurorae.qml
-/usr/share/kwin/decorations/kwin4_decoration_qml_plastik
-/usr/share/kwin/decorations/kwin4_decoration_qml_plastik/contents/config
 /usr/share/kwin/decorations/kwin4_decoration_qml_plastik/contents/config/main.xml
-/usr/share/kwin/decorations/kwin4_decoration_qml_plastik/contents/ui
 /usr/share/kwin/decorations/kwin4_decoration_qml_plastik/contents/ui/PlastikButton.qml
 /usr/share/kwin/decorations/kwin4_decoration_qml_plastik/contents/ui/config.ui
 /usr/share/kwin/decorations/kwin4_decoration_qml_plastik/contents/ui/main.qml

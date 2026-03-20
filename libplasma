@@ -70,7 +70,6 @@
 /usr/lib/plugins/kf6/packagestructure/plasma_shell.so
 /usr/lib/plugins/kf6/packagestructure/plasma_theme.so
 /usr/lib/plugins/kf6/packagestructure/plasma_wallpaper.so
-/usr/lib/qml/org/kde/kirigami/styles/Plasma
 /usr/lib/qml/org/kde/kirigami/styles/Plasma/AbstractApplicationHeader.qml
 /usr/lib/qml/org/kde/plasma/components
 /usr/lib/qml/org/kde/plasma/components/AbstractButton.qml
@@ -168,7 +167,6 @@
 /usr/lib/qml/org/kde/plasma/extras/Representation.qml
 /usr/lib/qml/org/kde/plasma/extras/SearchField.qml
 /usr/lib/qml/org/kde/plasma/extras/ShadowedLabel.qml
-/usr/lib/qml/org/kde/plasma/extras/animations
 /usr/lib/qml/org/kde/plasma/extras/animations/ActivateAnimation.qml
 /usr/lib/qml/org/kde/plasma/extras/animations/AppearAnimation.qml
 /usr/lib/qml/org/kde/plasma/extras/animations/DisappearAnimation.qml
@@ -177,7 +175,6 @@
 /usr/lib/qml/org/kde/plasma/extras/kde-qmlmodule.version
 /usr/lib/qml/org/kde/plasma/extras/libplasmaextracomponentsplugin.so
 /usr/lib/qml/org/kde/plasma/extras/plasmaextracomponentsplugin.qmltypes
-/usr/lib/qml/org/kde/plasma/extras/private
 /usr/lib/qml/org/kde/plasma/extras/private/BackgroundMetrics.qml
 /usr/lib/qml/org/kde/plasma/extras/qmldir
 /usr/lib/qml/org/kde/plasma/plasmoid

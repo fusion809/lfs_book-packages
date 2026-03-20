@@ -20,12 +20,9 @@
 /usr/libexec/kscreenlocker_greet
 /usr/share/applications
 /usr/share/applications/kcm_screenlocker.desktop
-/usr/share/dbus-1/interfaces
 /usr/share/dbus-1/interfaces/kf6_org.freedesktop.ScreenSaver.xml
 /usr/share/dbus-1/interfaces/org.kde.screensaver.xml
-/usr/share/knotifications6
 /usr/share/knotifications6/ksmserver.notifyrc
-/usr/share/ksmserver/screenlocker/org.kde.passworddialog
 /usr/share/ksmserver/screenlocker/org.kde.passworddialog/metadata.desktop
 /usr/share/locale/ar/LC_MESSAGES
 /usr/share/locale/ar/LC_MESSAGES/kcm_screenlocker.mo
