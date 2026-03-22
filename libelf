@@ -1,4 +1,12 @@
 0.194
+/usr/include/elfutils/elf-knowledge.h
+/usr/include/nlist.h
+/usr/include/gelf.h
+/usr/include/libelf.h
+/usr/lib/libelf.so
+/usr/lib/libelf.so.1
+/usr/lib/libelf-0.194.so
+/usr/lib/libelf.a
 /usr/lib
 /usr/lib/libelf-0.194.so
 /usr/lib/pkgconfig
