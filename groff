@@ -1,6 +1,4 @@
 1.24.0
-/usr/lib
-/usr/lib/X11
 /usr/lib/X11/app-defaults
 /usr/lib/X11/app-defaults/GXditview-color
 /usr/lib/X11/app-defaults/GXditview
@@ -9,7 +7,6 @@
 /usr/share/doc/groff-1.24.0/meref.ps
 /usr/share/doc/groff-1.24.0/me-revisions
 /usr/share/doc/groff-1.24.0/meintro_fr.ps
-/usr/share/doc/groff-1.24.0/html
 /usr/share/doc/groff-1.24.0/html/mom
 /usr/share/doc/groff-1.24.0/html/mom/typesetting.html
 /usr/share/doc/groff-1.24.0/html/mom/definitions.html
@@ -174,7 +171,6 @@
 /usr/share/groff/site-tmac/mdoc.local
 /usr/share/groff/current
 /usr/share/groff/1.24.0
-/usr/share/groff/1.24.0/oldfont
 /usr/share/groff/1.24.0/oldfont/devps
 /usr/share/groff/1.24.0/oldfont/devps/NBI
 /usr/share/groff/1.24.0/oldfont/devps/CBI
