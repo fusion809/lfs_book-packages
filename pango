@@ -1171,8 +1171,6 @@
 /usr/lib/libpangoft2-1.0.so
 /usr/lib/libpango-1.0.so.0
 /usr/lib/libpangoxft-1.0.so
-/usr/share/doc
-/usr/share/doc/pango-1.57.0
 /usr/share/doc/pango-1.57.0/PangoOT
 /usr/share/doc/pango-1.57.0/PangoOT/method.Buffer.output.html
 /usr/share/doc/pango-1.57.0/PangoOT/type_func.Info.get.html

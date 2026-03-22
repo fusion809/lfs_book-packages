@@ -21,9 +21,9 @@
 /usr/lib/libffi.so
 /usr/share/man/man3
 /usr/share/man/man3/ffi.3
-/usr/share/man/man3/ffi_prep_cif_var.3
 /usr/share/man/man3/ffi_call.3
 /usr/share/man/man3/ffi_prep_cif.3
+/usr/share/man/man3/ffi_prep_cif_var.3
 /usr/share/info
 /usr/share/info/libffi.info
 /usr/share/info/dir

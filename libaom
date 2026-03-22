@@ -1,4 +1,4 @@
-3.13.1
+3.13.2
 /usr/bin/aomenc
 /usr/bin/aomdec
 /usr/include/aom/aom_external_partition.h
@@ -13,7 +13,7 @@
 /usr/include/aom/aom.h
 /usr/lib/libaom.so
 /usr/lib/libaom.so.3
-/usr/lib/libaom.so.3.13.1
+/usr/lib/libaom.so.3.13.2
 /usr/lib/pkgconfig/aom.pc
 /usr/lib/cmake/AOM/AOMTargets-release.cmake
 /usr/lib/cmake/AOM/AOMTargets.cmake
@@ -22,7 +22,8 @@
 /usr/lib
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/aom.pc
-/usr/lib/libaom.so.3.13.1
+/usr/lib/libaom.so.3
+/usr/lib/libaom.so.3.13.2
 /usr/lib/cmake/AOM
 /usr/lib/cmake/AOM/AOMConfig.cmake
 /usr/lib/cmake/AOM/AOMTargets.cmake
@@ -31,3 +32,4 @@
 /usr/bin
 /usr/bin/aomdec
 /usr/bin/aomenc
+/usr/include/aom
