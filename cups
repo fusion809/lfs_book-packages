@@ -1,4 +1,4 @@
-2.4.16-source
+2.4.16
 /etc/dbus-1/system.d/cups.conf
 /etc/pam.d/cups
 /etc/cups/snmp.conf.default
@@ -1797,3 +1797,4 @@
 /etc/dbus-1/system.d/cups.conf
 /etc/pam.d
 /etc/pam.d/cups.N
+/etc/pam.d/cups
