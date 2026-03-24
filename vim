@@ -1,4 +1,4 @@
-9.2.0231
+9.2.0235
 /usr/share/applications/gvim.desktop
 /usr/share/applications/vim.desktop
 /usr/share/icons/locolor/16x16/apps/gvim.png
@@ -1078,6 +1078,7 @@
 /usr/share/vim/vim92/ftplugin/xf86conf.vim
 /usr/share/vim/vim92/ftplugin/xdefaults.vim
 /usr/share/vim/vim92/ftplugin/xcompose.vim
+/usr/share/vim/vim92/ftplugin/wks.vim
 /usr/share/vim/vim92/ftplugin/wget2.vim
 /usr/share/vim/vim92/ftplugin/wget.vim
 /usr/share/vim/vim92/ftplugin/wat.vim
@@ -1702,6 +1703,7 @@
 /usr/share/vim/vim92/syntax/wsml.vim
 /usr/share/vim/vim92/syntax/wsh.vim
 /usr/share/vim/vim92/syntax/wml.vim
+/usr/share/vim/vim92/syntax/wks.vim
 /usr/share/vim/vim92/syntax/winbatch.vim
 /usr/share/vim/vim92/syntax/whitespace.vim
 /usr/share/vim/vim92/syntax/wget2.vim
@@ -2687,7 +2689,7 @@
 /usr/bin/vimtutor
 /usr/bin/vim
 /usr/share/doc
-/usr/share/doc/vim-9.2.0231
+/usr/share/doc/vim-9.2.0235
 /usr/share/vim/vim92/doc/gui_x11.txt
 /usr/share/vim/vim92/doc/vi_diff.txt
 /usr/share/vim/vim92/doc/if_lua.txt
@@ -3165,7 +3167,6 @@
 /usr/share/vim/vim92/autoload/python.vim
 /usr/share/vim/vim92/autoload/vimcomplete.vim
 /usr/share/vim/vim92/autoload/ada.vim
-/usr/share/vim/vim92/compiler
 /usr/share/vim/vim92/compiler/tombi.vim
 /usr/share/vim/vim92/compiler/bcc.vim
 /usr/share/vim/vim92/compiler/dartdoc.vim
@@ -3469,6 +3470,7 @@
 /usr/share/vim/vim92/import/dist/vimhelp.vim
 /usr/share/vim/vim92/mswin.vim
 /usr/share/vim/vim92/vimrc_example.vim
+/usr/share/vim/vim92/ftplugin
 /usr/share/vim/vim92/ftplugin/xhtml.vim
 /usr/share/vim/vim92/ftplugin/brightscript.vim
 /usr/share/vim/vim92/ftplugin/yaml.vim
@@ -3741,6 +3743,7 @@
 /usr/share/vim/vim92/ftplugin/ch.vim
 /usr/share/vim/vim92/ftplugin/gyp.vim
 /usr/share/vim/vim92/ftplugin/dune.vim
+/usr/share/vim/vim92/ftplugin/wks.vim
 /usr/share/vim/vim92/ftplugin/mplayerconf.vim
 /usr/share/vim/vim92/ftplugin/dnsmasq.vim
 /usr/share/vim/vim92/ftplugin/rnc.vim
@@ -4235,6 +4238,7 @@
 /usr/share/vim/vim92/colors/slate.vim
 /usr/share/vim/vim92/colors/habamax.vim
 /usr/share/vim/vim92/filetype.vim
+/usr/share/vim/vim92/syntax
 /usr/share/vim/vim92/syntax/ora.vim
 /usr/share/vim/vim92/syntax/xhtml.vim
 /usr/share/vim/vim92/syntax/usserverlog.vim
@@ -4739,6 +4743,7 @@
 /usr/share/vim/vim92/syntax/ch.vim
 /usr/share/vim/vim92/syntax/gyp.vim
 /usr/share/vim/vim92/syntax/dune.vim
+/usr/share/vim/vim92/syntax/wks.vim
 /usr/share/vim/vim92/syntax/ave.vim
 /usr/share/vim/vim92/syntax/mplayerconf.vim
 /usr/share/vim/vim92/syntax/grads.vim
