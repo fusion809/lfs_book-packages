@@ -1,4 +1,4 @@
-4.0.1
+4.1.0
 /usr/bin/SvtAv1ApiTests
 /usr/bin/SvtAv1UnitTests
 /usr/bin/SvtAv1EncApp
@@ -16,11 +16,12 @@
 /usr/lib/pkgconfig/SvtAv1Enc.pc
 /usr/lib/libSvtAv1Enc.so
 /usr/lib/libSvtAv1Enc.so.4
-/usr/lib/libSvtAv1Enc.so.4.0.1
+/usr/lib/libSvtAv1Enc.so.4.1.0
 /usr/lib
+/usr/lib/libSvtAv1Enc.so.4.1.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/SvtAv1Enc.pc
-/usr/lib/libSvtAv1Enc.so.4.0.1
+/usr/lib/libSvtAv1Enc.so.4
 /usr/lib/cmake/SVT-AV1
 /usr/lib/cmake/SVT-AV1/SVT-AV1Config.cmake
 /usr/lib/cmake/SVT-AV1/SVT-AV1-sharedTargets.cmake
@@ -30,3 +31,4 @@
 /usr/bin/SvtAv1EncApp
 /usr/bin/SvtAv1UnitTests
 /usr/bin/SvtAv1ApiTests
+/usr/include/svt-av1
