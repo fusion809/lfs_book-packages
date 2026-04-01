@@ -1,4 +1,7 @@
 6.6.3
+/usr
+/usr/share
+/usr/share/wallpapers
 /usr/share/wallpapers/Altai
 /usr/share/wallpapers/Altai/contents
 /usr/share/wallpapers/Altai/contents/images
@@ -59,6 +62,7 @@
 /usr/share/wallpapers/Cluster/contents/screenshot.png
 /usr/share/wallpapers/Cluster/metadata.json
 /usr/share/wallpapers/Coast
+/usr/share/wallpapers/Coast/contents
 /usr/share/wallpapers/Coast/contents/images
 /usr/share/wallpapers/Coast/contents/images/1440x2960.png
 /usr/share/wallpapers/Coast/contents/images/5120x2880.png
@@ -206,6 +210,7 @@
 /usr/share/wallpapers/IceCold/contents/screenshot.png
 /usr/share/wallpapers/IceCold/metadata.json
 /usr/share/wallpapers/Kay
+/usr/share/wallpapers/Kay/contents
 /usr/share/wallpapers/Kay/contents/images
 /usr/share/wallpapers/Kay/contents/images/1080x1920.png
 /usr/share/wallpapers/Kay/contents/images/5120x2880.png
@@ -244,6 +249,7 @@
 /usr/share/wallpapers/MilkyWay/contents/screenshot.png
 /usr/share/wallpapers/MilkyWay/metadata.json
 /usr/share/wallpapers/Mountain
+/usr/share/wallpapers/Mountain/contents
 /usr/share/wallpapers/Mountain/contents/images
 /usr/share/wallpapers/Mountain/contents/images/1080x1920.png
 /usr/share/wallpapers/Mountain/contents/images/5120x2880.png
@@ -252,6 +258,7 @@
 /usr/share/wallpapers/Mountain/contents/images_dark/5120x2880.png
 /usr/share/wallpapers/Mountain/metadata.json
 /usr/share/wallpapers/Nexus
+/usr/share/wallpapers/Nexus/contents
 /usr/share/wallpapers/Nexus/contents/images
 /usr/share/wallpapers/Nexus/contents/images/1080x1920.png
 /usr/share/wallpapers/Nexus/contents/images/5120x2880.png
@@ -260,6 +267,7 @@
 /usr/share/wallpapers/Nexus/contents/images_dark/5120x2880.png
 /usr/share/wallpapers/Nexus/metadata.json
 /usr/share/wallpapers/Nuvole
+/usr/share/wallpapers/Nuvole/contents
 /usr/share/wallpapers/Nuvole/contents/images
 /usr/share/wallpapers/Nuvole/contents/images/1080x1920.png
 /usr/share/wallpapers/Nuvole/contents/images/5120x2880.png
@@ -293,6 +301,7 @@
 /usr/share/wallpapers/Opal/contents/screenshot.png
 /usr/share/wallpapers/Opal/metadata.json
 /usr/share/wallpapers/Orionids
+/usr/share/wallpapers/Orionids/contents
 /usr/share/wallpapers/Orionids/contents/images
 /usr/share/wallpapers/Orionids/contents/images/1440x2960.png
 /usr/share/wallpapers/Orionids/contents/images/5120x2880.png
@@ -353,6 +362,7 @@
 /usr/share/wallpapers/SafeLanding/contents/screenshot.jpg
 /usr/share/wallpapers/SafeLanding/metadata.json
 /usr/share/wallpapers/ScarletTree
+/usr/share/wallpapers/ScarletTree/contents
 /usr/share/wallpapers/ScarletTree/contents/images
 /usr/share/wallpapers/ScarletTree/contents/images/1080x1920.png
 /usr/share/wallpapers/ScarletTree/contents/images/5120x2880.png
@@ -367,6 +377,12 @@
 /usr/share/wallpapers/Shell/contents/images/720x1440.jpg
 /usr/share/wallpapers/Shell/contents/screenshot.png
 /usr/share/wallpapers/Shell/metadata.json
+/usr/share/wallpapers/Volna
+/usr/share/wallpapers/Volna/contents
+/usr/share/wallpapers/Volna/contents/images
+/usr/share/wallpapers/Volna/contents/images/5120x2880.jpg
+/usr/share/wallpapers/Volna/contents/screenshot.png
+/usr/share/wallpapers/Volna/metadata.json
 /usr/share/wallpapers/summer_1am
 /usr/share/wallpapers/summer_1am/contents
 /usr/share/wallpapers/summer_1am/contents/images
@@ -384,9 +400,3 @@
 /usr/share/wallpapers/summer_1am/contents/images/800x600.jpg
 /usr/share/wallpapers/summer_1am/contents/screenshot.jpg
 /usr/share/wallpapers/summer_1am/metadata.json
-/usr/share/wallpapers/Volna
-/usr/share/wallpapers/Volna/contents
-/usr/share/wallpapers/Volna/contents/images
-/usr/share/wallpapers/Volna/contents/images/5120x2880.jpg
-/usr/share/wallpapers/Volna/contents/screenshot.png
-/usr/share/wallpapers/Volna/metadata.json

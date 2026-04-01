@@ -1,4 +1,7 @@
 6.6.3
+/usr
+/usr/share
+/usr/share/sounds
 /usr/share/sounds/ocean
 /usr/share/sounds/ocean/index.theme
 /usr/share/sounds/ocean/index.theme.license
@@ -12,9 +15,9 @@
 /usr/share/sounds/ocean/stereo/battery-full.oga
 /usr/share/sounds/ocean/stereo/battery-low.oga
 /usr/share/sounds/ocean/stereo/battery-low.oga.license
-/usr/share/sounds/ocean/stereo/bell.oga
 /usr/share/sounds/ocean/stereo/bell-window-system.oga
 /usr/share/sounds/ocean/stereo/bell-window-system.oga.license
+/usr/share/sounds/ocean/stereo/bell.oga
 /usr/share/sounds/ocean/stereo/button-pressed-modifier.oga
 /usr/share/sounds/ocean/stereo/button-pressed-modifier.oga.license
 /usr/share/sounds/ocean/stereo/button-pressed.oga
@@ -38,10 +41,10 @@
 /usr/share/sounds/ocean/stereo/device-removed.oga
 /usr/share/sounds/ocean/stereo/device-removed.oga.license
 /usr/share/sounds/ocean/stereo/dialog-error-critical.oga
-/usr/share/sounds/ocean/stereo/dialog-error.oga
-/usr/share/sounds/ocean/stereo/dialog-error.oga.license
 /usr/share/sounds/ocean/stereo/dialog-error-serious.oga
 /usr/share/sounds/ocean/stereo/dialog-error-serious.oga.license
+/usr/share/sounds/ocean/stereo/dialog-error.oga
+/usr/share/sounds/ocean/stereo/dialog-error.oga.license
 /usr/share/sounds/ocean/stereo/dialog-information.oga
 /usr/share/sounds/ocean/stereo/dialog-information.oga.license
 /usr/share/sounds/ocean/stereo/dialog-question.oga

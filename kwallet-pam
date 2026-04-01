@@ -1,9 +1,14 @@
 6.6.3
+/etc
+/etc/xdg
 /etc/xdg/autostart
 /etc/xdg/autostart/pam_kwallet_init.desktop
-/usr/libexec
-/usr/libexec/pam_kwallet_init
+/usr
+/usr/lib
 /usr/lib/security
 /usr/lib/security/pam_kwallet5.so
+/usr/lib/systemd
 /usr/lib/systemd/user
 /usr/lib/systemd/user/plasma-kwallet-pam.service
+/usr/libexec
+/usr/libexec/pam_kwallet_init

@@ -1,5 +1,8 @@
 6.6.3
+/usr
+/usr/include
 /usr/include/KWayland
+/usr/include/KWayland/KWayland
 /usr/include/KWayland/KWayland/Client
 /usr/include/KWayland/KWayland/Client/appmenu.h
 /usr/include/KWayland/KWayland/Client/blur.h
@@ -44,6 +47,7 @@
 /usr/include/KWayland/KWayland/Client/xdgshell.h
 /usr/include/KWayland/kwayland_version.h
 /usr/lib
+/usr/lib/cmake
 /usr/lib/cmake/KWayland
 /usr/lib/cmake/KWayland/KWaylandConfig.cmake
 /usr/lib/cmake/KWayland/KWaylandConfigVersion.cmake
@@ -54,6 +58,7 @@
 /usr/lib/libKWaylandClient.so.6.6.3
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/KWaylandClient.pc
+/usr/share
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/kwayland.categories
 /usr/share/qlogging-categories6/kwayland.renamecategories
