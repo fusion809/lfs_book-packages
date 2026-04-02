@@ -9,7 +9,6 @@
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/xpresent.pc
 /usr/share/man/man3
-/usr/share/man/man3/Xpresent.3
 /usr/share/man/man3/XPresentFreeInput.3
 /usr/share/man/man3/XPresentNotifyMSC.3
 /usr/share/man/man3/XPresentPixmap.3
@@ -18,3 +17,4 @@
 /usr/share/man/man3/XPresentQueryVersion.3
 /usr/share/man/man3/XPresentSelectInput.3
 /usr/share/man/man3/XPresentVersion.3
+/usr/share/man/man3/Xpresent.3

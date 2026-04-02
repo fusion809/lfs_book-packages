@@ -1,7 +1,7 @@
 1.2.5
 /usr/include/X11/extensions
-/usr/include/X11/extensions/record.h
 /usr/include/X11/extensions/XTest.h
+/usr/include/X11/extensions/record.h
 /usr/lib
 /usr/lib/libXtst.la
 /usr/lib/libXtst.so

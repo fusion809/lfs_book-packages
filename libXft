@@ -1,7 +1,7 @@
 2.3.9
 /usr/include/X11/Xft
-/usr/include/X11/Xft/XftCompat.h
 /usr/include/X11/Xft/Xft.h
+/usr/include/X11/Xft/XftCompat.h
 /usr/lib
 /usr/lib/libXft.la
 /usr/lib/libXft.so
@@ -32,8 +32,8 @@
 /usr/share/man/man3/XftDrawDisplay.3
 /usr/share/man/man3/XftDrawDrawable.3
 /usr/share/man/man3/XftDrawGlyphFontSpec.3
-/usr/share/man/man3/XftDrawGlyphs.3
 /usr/share/man/man3/XftDrawGlyphSpec.3
+/usr/share/man/man3/XftDrawGlyphs.3
 /usr/share/man/man3/XftDrawPicture.3
 /usr/share/man/man3/XftDrawRect.3
 /usr/share/man/man3/XftDrawSetClip.3

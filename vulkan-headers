@@ -1,4 +1,4 @@
 1.4.341.0
 /usr/share/cmake/VulkanHeaders
-/usr/share/cmake/VulkanHeaders/VulkanHeadersConfigVersion.cmake
 /usr/share/cmake/VulkanHeaders/VulkanHeadersConfig.cmake
+/usr/share/cmake/VulkanHeaders/VulkanHeadersConfigVersion.cmake

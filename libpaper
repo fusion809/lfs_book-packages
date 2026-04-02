@@ -1,12 +1,12 @@
 2.2.7
 /etc/paperspecs
-/usr/share/doc/libpaper-2.2.7/README.md
-/usr/share/man/man5/paperspecs.5
-/usr/share/man/man1/paper.1
-/usr/bin/paperconf
 /usr/bin/paper
+/usr/bin/paperconf
 /usr/include/paper.h
 /usr/lib/libpaper.la
 /usr/lib/libpaper.so
 /usr/lib/libpaper.so.2
 /usr/lib/libpaper.so.2.2.7
+/usr/share/doc/libpaper-2.2.7/README.md
+/usr/share/man/man1/paper.1
+/usr/share/man/man5/paperspecs.5

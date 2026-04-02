@@ -1,9 +1,9 @@
 0.30
-/usr/share/polkit-1/actions/power-profiles-daemon.policy
+/usr/bin/powerprofilesctl
+/usr/lib/systemd/system/power-profiles-daemon.service
+/usr/libexec/power-profiles-daemon
 /usr/share/dbus-1/system-services/net.hadess.PowerProfiles.service
 /usr/share/dbus-1/system-services/org.freedesktop.UPower.PowerProfiles.service
 /usr/share/dbus-1/system.d/net.hadess.PowerProfiles.conf
 /usr/share/dbus-1/system.d/org.freedesktop.UPower.PowerProfiles.conf
-/usr/lib/systemd/system/power-profiles-daemon.service
-/usr/bin/powerprofilesctl
-/usr/libexec/power-profiles-daemon
+/usr/share/polkit-1/actions/power-profiles-daemon.policy

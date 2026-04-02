@@ -1,7 +1,7 @@
 1.1.6
 /usr/include/X11/extensions
-/usr/include/X11/extensions/panoramiXext.h
 /usr/include/X11/extensions/Xinerama.h
+/usr/include/X11/extensions/panoramiXext.h
 /usr/lib
 /usr/lib/libXinerama.la
 /usr/lib/libXinerama.so

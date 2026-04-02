@@ -1,7 +1,7 @@
 1.1.7
 /usr/include/X11/extensions
-/usr/include/X11/extensions/xf86dga1.h
 /usr/include/X11/extensions/Xxf86dga.h
+/usr/include/X11/extensions/xf86dga1.h
 /usr/lib
 /usr/lib/libXxf86dga.la
 /usr/lib/libXxf86dga.so

@@ -9,7 +9,6 @@
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/xcomposite.pc
 /usr/share/man/man3
-/usr/share/man/man3/Xcomposite.3
 /usr/share/man/man3/XCompositeCreateRegionFromBorderClip.3
 /usr/share/man/man3/XCompositeGetOverlayWindow.3
 /usr/share/man/man3/XCompositeNameWindowPixmap.3
@@ -21,3 +20,4 @@
 /usr/share/man/man3/XCompositeUnredirectSubwindows.3
 /usr/share/man/man3/XCompositeUnredirectWindow.3
 /usr/share/man/man3/XCompositeVersion.3
+/usr/share/man/man3/Xcomposite.3
