@@ -1,7 +1,9 @@
-3.13.2
+3.13.3
+/usr
 /usr/bin
 /usr/bin/aomdec
 /usr/bin/aomenc
+/usr/include
 /usr/include/aom
 /usr/include/aom/aom.h
 /usr/include/aom/aom_codec.h
@@ -14,6 +16,7 @@
 /usr/include/aom/aomcx.h
 /usr/include/aom/aomdx.h
 /usr/lib
+/usr/lib/cmake
 /usr/lib/cmake/AOM
 /usr/lib/cmake/AOM/AOMConfig.cmake
 /usr/lib/cmake/AOM/AOMConfigVersion.cmake
@@ -21,6 +24,6 @@
 /usr/lib/cmake/AOM/AOMTargets.cmake
 /usr/lib/libaom.so
 /usr/lib/libaom.so.3
-/usr/lib/libaom.so.3.13.2
+/usr/lib/libaom.so.3.13.3
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/aom.pc
