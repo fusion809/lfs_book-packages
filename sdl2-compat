@@ -1,5 +1,9 @@
-2.32.64
+2.32.66
+/usr
+/usr/bin
 /usr/bin/sdl2-config
+/usr/include
+/usr/include/SDL2
 /usr/include/SDL2/SDL.h
 /usr/include/SDL2/SDL_assert.h
 /usr/include/SDL2/SDL_atomic.h
@@ -92,6 +96,9 @@
 /usr/include/SDL2/SDL_vulkan.h
 /usr/include/SDL2/begin_code.h
 /usr/include/SDL2/close_code.h
+/usr/lib
+/usr/lib/cmake
+/usr/lib/cmake/SDL2
 /usr/lib/cmake/SDL2/SDL2Config.cmake
 /usr/lib/cmake/SDL2/SDL2ConfigVersion.cmake
 /usr/lib/cmake/SDL2/SDL2Targets-release.cmake
@@ -104,11 +111,15 @@
 /usr/lib/cmake/SDL2/sdl2-config.cmake
 /usr/lib/libSDL2-2.0.so
 /usr/lib/libSDL2-2.0.so.0
-/usr/lib/libSDL2-2.0.so.0.3200.64
+/usr/lib/libSDL2-2.0.so.0.3200.66
 /usr/lib/libSDL2.so
 /usr/lib/libSDL2_test.a
 /usr/lib/libSDL2main.a
+/usr/lib/pkgconfig
 /usr/lib/pkgconfig/sdl2-compat.pc
+/usr/libexec
+/usr/libexec/installed-tests
+/usr/libexec/installed-tests/SDL2_compat
 /usr/libexec/installed-tests/SDL2_compat/axis.bmp
 /usr/libexec/installed-tests/SDL2_compat/button.bmp
 /usr/libexec/installed-tests/SDL2_compat/checkkeys
@@ -190,7 +201,11 @@
 /usr/libexec/installed-tests/SDL2_compat/torturethread
 /usr/libexec/installed-tests/SDL2_compat/unifont-13.0.06.hex
 /usr/libexec/installed-tests/SDL2_compat/utf8.txt
+/usr/share
+/usr/share/aclocal
 /usr/share/aclocal/sdl2.m4
+/usr/share/installed-tests
+/usr/share/installed-tests/SDL2_compat
 /usr/share/installed-tests/SDL2_compat/testatomic.test
 /usr/share/installed-tests/SDL2_compat/testautomation.test
 /usr/share/installed-tests/SDL2_compat/testerror.test
@@ -204,4 +219,6 @@
 /usr/share/installed-tests/SDL2_compat/testthread.test
 /usr/share/installed-tests/SDL2_compat/testtimer.test
 /usr/share/installed-tests/SDL2_compat/testver.test
+/usr/share/licenses
+/usr/share/licenses/sdl2-compat
 /usr/share/licenses/sdl2-compat/LICENSE.txt

@@ -1,4 +1,7 @@
-1.31.0
+1.31.1
+/etc
+/etc/libinput
+/usr
 /usr/bin
 /usr/bin/libinput
 /usr/include
@@ -16,6 +19,7 @@
 /usr/lib/udev/rules.d
 /usr/lib/udev/rules.d/80-libinput-device-groups.rules
 /usr/lib/udev/rules.d/90-libinput-fuzz-override.rules
+/usr/libexec
 /usr/libexec/libinput
 /usr/libexec/libinput/libinput-analyze
 /usr/libexec/libinput/libinput-analyze-buttons
@@ -37,6 +41,7 @@
 /usr/libexec/libinput/libinput-record
 /usr/libexec/libinput/libinput-replay
 /usr/libexec/libinput/libinput-test
+/usr/share
 /usr/share/libinput
 /usr/share/libinput/10-generic-keyboard.quirks
 /usr/share/libinput/10-generic-mouse.quirks
@@ -87,6 +92,7 @@
 /usr/share/libinput/50-system-starlabs.quirks
 /usr/share/libinput/50-system-system76.quirks
 /usr/share/libinput/50-system-toshiba.quirks
+/usr/share/man
 /usr/share/man/man1
 /usr/share/man/man1/libinput-analyze-buttons.1
 /usr/share/man/man1/libinput-analyze-per-slot-delta.1
@@ -111,5 +117,6 @@
 /usr/share/man/man1/libinput-replay.1
 /usr/share/man/man1/libinput-test.1
 /usr/share/man/man1/libinput.1
+/usr/share/zsh
 /usr/share/zsh/site-functions
 /usr/share/zsh/site-functions/_libinput
