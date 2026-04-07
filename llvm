@@ -1,6 +1,7 @@
-22.1.2
+22.1.3
 /etc/clang/clang++.cfg
 /etc/clang/clang.cfg
+/usr
 /usr/bin
 /usr/bin/FileCheck
 /usr/bin/amdgpu-arch
@@ -117,6 +118,8 @@
 /usr/bin/scan-build-py
 /usr/bin/scan-view
 /usr/bin/verify-uselistorder
+/usr/include
+/usr/include/clang
 /usr/include/clang-c
 /usr/include/clang-c/BuildSystem.h
 /usr/include/clang-c/CXCompilationDatabase.h
@@ -602,6 +605,8 @@
 /usr/include/clang/Basic/Stack.h
 /usr/include/clang/Basic/StackExhaustionHandler.h
 /usr/include/clang/Basic/SyncScope.h
+/usr/include/clang/Basic/Target
+/usr/include/clang/Basic/Target/MSP430
 /usr/include/clang/Basic/TargetBuiltins.h
 /usr/include/clang/Basic/TargetCXXABI.def
 /usr/include/clang/Basic/TargetCXXABI.h
@@ -860,6 +865,7 @@
 /usr/include/clang/Parse/ParseHLSLRootSignature.h
 /usr/include/clang/Parse/Parser.h
 /usr/include/clang/Parse/RAIIObjectsForParser.h
+/usr/include/clang/Rewrite
 /usr/include/clang/Rewrite/Core
 /usr/include/clang/Rewrite/Core/HTMLRewrite.h
 /usr/include/clang/Rewrite/Core/Rewriter.h
@@ -962,6 +968,7 @@
 /usr/include/clang/Serialization/SerializationDiagnostic.h
 /usr/include/clang/Serialization/SourceLocationEncoding.h
 /usr/include/clang/Serialization/TypeBitCodes.def
+/usr/include/clang/StaticAnalyzer
 /usr/include/clang/StaticAnalyzer/Checkers
 /usr/include/clang/StaticAnalyzer/Checkers/BuiltinCheckerRegistration.h
 /usr/include/clang/StaticAnalyzer/Checkers/Checkers.inc
@@ -2306,6 +2313,7 @@
 /usr/include/llvm/ExecutionEngine/SectionMemoryManager.h
 /usr/include/llvm/FileCheck
 /usr/include/llvm/FileCheck/FileCheck.h
+/usr/include/llvm/Frontend
 /usr/include/llvm/Frontend/Atomic
 /usr/include/llvm/Frontend/Atomic/Atomic.h
 /usr/include/llvm/Frontend/Debug
@@ -3030,6 +3038,7 @@
 /usr/include/llvm/Support/Signposts.h
 /usr/include/llvm/Support/SipHash.h
 /usr/include/llvm/Support/SmallVectorMemoryBuffer.h
+/usr/include/llvm/Support/Solaris
 /usr/include/llvm/Support/Solaris/sys
 /usr/include/llvm/Support/Solaris/sys/regset.h
 /usr/include/llvm/Support/SourceMgr.h
@@ -3039,6 +3048,7 @@
 /usr/include/llvm/Support/SuffixTreeNode.h
 /usr/include/llvm/Support/SwapByteOrder.h
 /usr/include/llvm/Support/SystemUtils.h
+/usr/include/llvm/Support/SystemZ
 /usr/include/llvm/Support/SystemZ/zos_wrappers
 /usr/include/llvm/Support/SystemZ/zos_wrappers/string.h
 /usr/include/llvm/Support/TarWriter.h
@@ -3153,6 +3163,7 @@
 /usr/include/llvm/TargetParser/XtensaTargetParser.h
 /usr/include/llvm/Telemetry
 /usr/include/llvm/Telemetry/Telemetry.h
+/usr/include/llvm/Testing
 /usr/include/llvm/Testing/ADT
 /usr/include/llvm/Testing/ADT/StringMap.h
 /usr/include/llvm/Testing/ADT/StringMapEntry.h
@@ -3182,6 +3193,7 @@
 /usr/include/llvm/TextAPI/TextAPIReader.h
 /usr/include/llvm/TextAPI/TextAPIWriter.h
 /usr/include/llvm/TextAPI/Utils.h
+/usr/include/llvm/ToolDrivers
 /usr/include/llvm/ToolDrivers/llvm-dlltool
 /usr/include/llvm/ToolDrivers/llvm-dlltool/DlltoolDriver.h
 /usr/include/llvm/ToolDrivers/llvm-lib
@@ -3519,6 +3531,8 @@
 /usr/include/llvm/XRay/YAMLXRayRecord.h
 /usr/lib
 /usr/lib/LLVMgold.so
+/usr/lib/clang
+/usr/lib/clang/22
 /usr/lib/clang/22/bin
 /usr/lib/clang/22/bin/hwasan_symbolize
 /usr/lib/clang/22/include
@@ -3825,6 +3839,7 @@
 /usr/lib/clang/22/include/yvals_core.h
 /usr/lib/clang/22/include/zos_wrappers
 /usr/lib/clang/22/include/zos_wrappers/builtins.h
+/usr/lib/clang/22/lib
 /usr/lib/clang/22/lib/x86_64-unknown-linux-gnu
 /usr/lib/clang/22/lib/x86_64-unknown-linux-gnu/clang_rt.crtbegin.o
 /usr/lib/clang/22/lib/x86_64-unknown-linux-gnu/clang_rt.crtend.o
@@ -3905,6 +3920,7 @@
 /usr/lib/clang/22/share/dfsan_abilist.txt
 /usr/lib/clang/22/share/hwasan_ignorelist.txt
 /usr/lib/clang/22/share/msan_ignorelist.txt
+/usr/lib/cmake
 /usr/lib/cmake/clang
 /usr/lib/cmake/clang/AddClang.cmake
 /usr/lib/cmake/clang/ClangConfig.cmake
@@ -4084,7 +4100,7 @@
 /usr/lib/libclang-cpp.so.22.1
 /usr/lib/libclang.so
 /usr/lib/libclang.so.22.1
-/usr/lib/libclang.so.22.1.2
+/usr/lib/libclang.so.22.1.3
 /usr/lib/libclangAPINotes.a
 /usr/lib/libclangAST.a
 /usr/lib/libclangASTMatchers.a
@@ -4154,6 +4170,7 @@
 /usr/libexec/ccc-analyzer
 /usr/libexec/intercept-c++
 /usr/libexec/intercept-cc
+/usr/share
 /usr/share/clang
 /usr/share/clang/bash-autocomplete.sh
 /usr/share/clang/clang-format-bbedit.applescript
@@ -4161,6 +4178,7 @@
 /usr/share/clang/clang-format-sublime.py
 /usr/share/clang/clang-format.el
 /usr/share/clang/clang-format.py
+/usr/share/man
 /usr/share/man/man1
 /usr/share/man/man1/scan-build.1
 /usr/share/opt-viewer
