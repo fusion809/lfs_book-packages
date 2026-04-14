@@ -1,4 +1,4 @@
-50.0
+50.1
 /usr
 /usr/include
 /usr/include/gsettings-desktop-schemas
@@ -36,8 +36,8 @@
 /usr/share/glib-2.0/schemas/org.gnome.desktop.notifications.gschema.xml
 /usr/share/glib-2.0/schemas/org.gnome.desktop.peripherals.gschema.xml
 /usr/share/glib-2.0/schemas/org.gnome.desktop.privacy.gschema.xml
-/usr/share/glib-2.0/schemas/org.gnome.desktop.screen-time-limits.gschema.xml
 /usr/share/glib-2.0/schemas/org.gnome.desktop.screensaver.gschema.xml
+/usr/share/glib-2.0/schemas/org.gnome.desktop.screen-time-limits.gschema.xml
 /usr/share/glib-2.0/schemas/org.gnome.desktop.search-providers.gschema.xml
 /usr/share/glib-2.0/schemas/org.gnome.desktop.session.gschema.xml
 /usr/share/glib-2.0/schemas/org.gnome.desktop.sound.gschema.xml
@@ -140,11 +140,11 @@
 /usr/share/locale/ja/LC_MESSAGES
 /usr/share/locale/ja/LC_MESSAGES/gsettings-desktop-schemas.mo
 /usr/share/locale/ka
-/usr/share/locale/ka/LC_MESSAGES
-/usr/share/locale/ka/LC_MESSAGES/gsettings-desktop-schemas.mo
 /usr/share/locale/kab
 /usr/share/locale/kab/LC_MESSAGES
 /usr/share/locale/kab/LC_MESSAGES/gsettings-desktop-schemas.mo
+/usr/share/locale/ka/LC_MESSAGES
+/usr/share/locale/ka/LC_MESSAGES/gsettings-desktop-schemas.mo
 /usr/share/locale/kk
 /usr/share/locale/kk/LC_MESSAGES
 /usr/share/locale/kk/LC_MESSAGES/gsettings-desktop-schemas.mo
@@ -182,11 +182,11 @@
 /usr/share/locale/pl/LC_MESSAGES
 /usr/share/locale/pl/LC_MESSAGES/gsettings-desktop-schemas.mo
 /usr/share/locale/pt
-/usr/share/locale/pt/LC_MESSAGES
-/usr/share/locale/pt/LC_MESSAGES/gsettings-desktop-schemas.mo
 /usr/share/locale/pt_BR
 /usr/share/locale/pt_BR/LC_MESSAGES
 /usr/share/locale/pt_BR/LC_MESSAGES/gsettings-desktop-schemas.mo
+/usr/share/locale/pt/LC_MESSAGES
+/usr/share/locale/pt/LC_MESSAGES/gsettings-desktop-schemas.mo
 /usr/share/locale/ro
 /usr/share/locale/ro/LC_MESSAGES
 /usr/share/locale/ro/LC_MESSAGES/gsettings-desktop-schemas.mo
@@ -200,11 +200,11 @@
 /usr/share/locale/sl/LC_MESSAGES
 /usr/share/locale/sl/LC_MESSAGES/gsettings-desktop-schemas.mo
 /usr/share/locale/sr
-/usr/share/locale/sr/LC_MESSAGES
-/usr/share/locale/sr/LC_MESSAGES/gsettings-desktop-schemas.mo
 /usr/share/locale/sr@latin
 /usr/share/locale/sr@latin/LC_MESSAGES
 /usr/share/locale/sr@latin/LC_MESSAGES/gsettings-desktop-schemas.mo
+/usr/share/locale/sr/LC_MESSAGES
+/usr/share/locale/sr/LC_MESSAGES/gsettings-desktop-schemas.mo
 /usr/share/locale/sv
 /usr/share/locale/sv/LC_MESSAGES
 /usr/share/locale/sv/LC_MESSAGES/gsettings-desktop-schemas.mo
