@@ -1,4 +1,7 @@
-8.2.4
+8.2.5
+/usr
+/usr/include
+/usr/include/fast_float
 /usr/include/fast_float/ascii_number.h
 /usr/include/fast_float/bigint.h
 /usr/include/fast_float/constexpr_feature_detect.h
@@ -8,6 +11,8 @@
 /usr/include/fast_float/fast_table.h
 /usr/include/fast_float/float_common.h
 /usr/include/fast_float/parse_number.h
+/usr/share
+/usr/share/cmake
 /usr/share/cmake/FastFloat
 /usr/share/cmake/FastFloat/FastFloatConfig.cmake
 /usr/share/cmake/FastFloat/FastFloatConfigVersion.cmake
