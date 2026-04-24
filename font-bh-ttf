@@ -1,3 +1,4 @@
+1.0.4
 /etc/fonts/conf.avail
 /etc/fonts/conf.avail/42-luxi-mono.conf
 /etc/fonts/conf.d
@@ -17,4 +18,3 @@
 /usr/share/fonts/X11/TTF/luxisbi.ttf
 /usr/share/fonts/X11/TTF/luxisr.ttf
 /usr/share/fonts/X11/TTF/luxisri.ttf
-1.0.4
