@@ -1,4 +1,4 @@
-2.60.1
+2.60.2
 /etc
 /etc/xdg
 /etc/xdg/Xwayland-session.d
@@ -90,7 +90,7 @@
 /usr/lib/gnome-settings-daemon-3.0/gtk-modules/at-spi2-atk.desktop
 /usr/lib/libatk-1.0.so
 /usr/lib/libatk-1.0.so.0
-/usr/lib/libatk-1.0.so.0.26010.1
+/usr/lib/libatk-1.0.so.0.26011.1
 /usr/lib/libatk-bridge-2.0.so
 /usr/lib/libatk-bridge-2.0.so.0
 /usr/lib/libatk-bridge-2.0.so.0.0.0

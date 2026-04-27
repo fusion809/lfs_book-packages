@@ -1,4 +1,5 @@
-1.33.4
+1.33.5
+/usr
 /usr/bin
 /usr/bin/mpg123
 /usr/bin/mpg123-id3dump
@@ -34,6 +35,8 @@
 /usr/lib/pkgconfig/libmpg123.pc
 /usr/lib/pkgconfig/libout123.pc
 /usr/lib/pkgconfig/libsyn123.pc
+/usr/share
+/usr/share/man
 /usr/share/man/man1
 /usr/share/man/man1/mpg123.1
 /usr/share/man/man1/out123.1
