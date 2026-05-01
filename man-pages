@@ -1,4 +1,6 @@
-6.17
+6.18
+/usr
+/usr/bin
 /usr/bin/diffman-git
 /usr/bin/grepc
 /usr/bin/grepc_c
@@ -7,6 +9,7 @@
 /usr/bin/mansectf
 /usr/bin/pdfman
 /usr/bin/sortman
+/usr/share
 /usr/share/man
 /usr/share/man/man1
 /usr/share/man/man1/diffman-git.1
@@ -134,6 +137,7 @@
 /usr/share/man/man2/ftruncate.2
 /usr/share/man/man2/ftruncate64.2
 /usr/share/man/man2/futex.2
+/usr/share/man/man2/futex_waitv.2
 /usr/share/man/man2/futimesat.2
 /usr/share/man/man2/get_kernel_syms.2
 /usr/share/man/man2/get_mempolicy.2
@@ -1087,6 +1091,7 @@
 /usr/share/man/man3/aligned_alloc.3
 /usr/share/man/man3/alloca.3
 /usr/share/man/man3/alphasort.3
+/usr/share/man/man3/aprintf.3
 /usr/share/man/man3/arc4random.3
 /usr/share/man/man3/arc4random_buf.3
 /usr/share/man/man3/arc4random_uniform.3
@@ -1720,6 +1725,8 @@
 /usr/share/man/man3/innetgr.3
 /usr/share/man/man3/insque.3
 /usr/share/man/man3/intro.3
+/usr/share/man/man3/io_destroy.3
+/usr/share/man/man3/io_setup.3
 /usr/share/man/man3/iruserok.3
 /usr/share/man/man3/iruserok_af.3
 /usr/share/man/man3/isalnum.3
@@ -2352,6 +2359,7 @@
 /usr/share/man/man3/strndup.3
 /usr/share/man/man3/strndupa.3
 /usr/share/man/man3/strnlen.3
+/usr/share/man/man3/strnul.3
 /usr/share/man/man3/strpbrk.3
 /usr/share/man/man3/strptime.3
 /usr/share/man/man3/strrchr.3
@@ -2490,6 +2498,7 @@
 /usr/share/man/man3/va_end.3
 /usr/share/man/man3/va_start.3
 /usr/share/man/man3/valloc.3
+/usr/share/man/man3/vaprintf.3
 /usr/share/man/man3/vasprintf.3
 /usr/share/man/man3/vdprintf.3
 /usr/share/man/man3/verr.3
