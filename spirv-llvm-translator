@@ -1,8 +1,4 @@
-22.1.1
-/etc
-/etc/lfs-release
-/etc/lsb-release
-/etc/os-release
+22.1.2
 /usr
 /usr/bin
 /usr/bin/llvm-spirv

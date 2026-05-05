@@ -1,4 +1,4 @@
-6.6.3
+6.6.4.tar.xz
 /usr
 /usr/include
 /usr/include/KDecoration3
@@ -42,10 +42,10 @@
 /usr/lib/cmake/KDecoration3/KDecoration3Targets.cmake
 /usr/lib/libkdecorations3.so
 /usr/lib/libkdecorations3.so.6
-/usr/lib/libkdecorations3.so.6.6.3
+/usr/lib/libkdecorations3.so.6.6.4
 /usr/lib/libkdecorations3private.so
 /usr/lib/libkdecorations3private.so.2
-/usr/lib/libkdecorations3private.so.6.6.3
+/usr/lib/libkdecorations3private.so.6.6.4
 /usr/share
 /usr/share/locale
 /usr/share/locale/ar

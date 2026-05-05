@@ -1,13 +1,13 @@
-6.6.3
+6.6.4.tar.xz
 /usr
 /usr/bin
 /usr/bin/oxygen-demo6
 /usr/bin/oxygen-settings6
 /usr/lib
 /usr/lib/liboxygenstyle6.so.6
-/usr/lib/liboxygenstyle6.so.6.6.3
+/usr/lib/liboxygenstyle6.so.6.6.4
 /usr/lib/liboxygenstyleconfig6.so.6
-/usr/lib/liboxygenstyleconfig6.so.6.6.3
+/usr/lib/liboxygenstyleconfig6.so.6.6.4
 /usr/lib/plugins
 /usr/lib/plugins/kstyle_config
 /usr/lib/plugins/kstyle_config/kstyle_oxygen_config.so
@@ -1851,6 +1851,7 @@
 /usr/share/plasma/desktoptheme/oxygen/widgets/scrollbar.svgz
 /usr/share/plasma/desktoptheme/oxygen/widgets/scrollwidget.svgz
 /usr/share/plasma/desktoptheme/oxygen/widgets/slider.svgz
+/usr/share/plasma/desktoptheme/oxygen/widgets/switch.svgz
 /usr/share/plasma/desktoptheme/oxygen/widgets/tabbar.svgz
 /usr/share/plasma/desktoptheme/oxygen/widgets/tasks.svgz
 /usr/share/plasma/desktoptheme/oxygen/widgets/timer.svgz

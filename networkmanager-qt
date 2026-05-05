@@ -1,4 +1,7 @@
-6.24.0
+6.25.0
+/usr
+/usr/include
+/usr/include/KF6
 /usr/include/KF6/NetworkManagerQt
 /usr/include/KF6/NetworkManagerQt/NetworkManagerQt
 /usr/include/KF6/NetworkManagerQt/NetworkManagerQt/AccessPoint
@@ -147,6 +150,7 @@
 /usr/include/KF6/NetworkManagerQt/networkmanagerqt/wirelesssetting.h
 /usr/include/KF6/NetworkManagerQt/networkmanagerqt_version.h
 /usr/lib
+/usr/lib/cmake
 /usr/lib/cmake/KF6NetworkManagerQt
 /usr/lib/cmake/KF6NetworkManagerQt/KF6NetworkManagerQtConfig.cmake
 /usr/lib/cmake/KF6NetworkManagerQt/KF6NetworkManagerQtConfigVersion.cmake
@@ -154,12 +158,16 @@
 /usr/lib/cmake/KF6NetworkManagerQt/KF6NetworkManagerQtTargets.cmake
 /usr/lib/libKF6NetworkManagerQt.so
 /usr/lib/libKF6NetworkManagerQt.so.6
-/usr/lib/libKF6NetworkManagerQt.so.6.24.0
+/usr/lib/libKF6NetworkManagerQt.so.6.25.0
+/usr/lib/qml
+/usr/lib/qml/org
+/usr/lib/qml/org/kde
 /usr/lib/qml/org/kde/networkmanager
 /usr/lib/qml/org/kde/networkmanager/kde-qmlmodule.version
 /usr/lib/qml/org/kde/networkmanager/libnetworkmanagerqtqml.so
 /usr/lib/qml/org/kde/networkmanager/networkmanagerqtqml.qmltypes
 /usr/lib/qml/org/kde/networkmanager/qmldir
+/usr/share
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/networkmanagerqt.categories
 /usr/share/qlogging-categories6/networkmanagerqt.renamecategories

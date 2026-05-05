@@ -1,4 +1,4 @@
-6.6.3
+6.6.4
 /usr
 /usr/bin
 /usr/bin/kwin_x11
@@ -299,10 +299,10 @@
 /usr/lib/kconf_update_bin/kwin-6.5-showpaint-changes-x11
 /usr/lib/kconf_update_bin/kwin5_update_default_rules_x11
 /usr/lib/libkcmkwincommon-x11.so.6
-/usr/lib/libkcmkwincommon-x11.so.6.6.3
+/usr/lib/libkcmkwincommon-x11.so.6.6.4
 /usr/lib/libkwin-x11.so
 /usr/lib/libkwin-x11.so.6
-/usr/lib/libkwin-x11.so.6.6.3
+/usr/lib/libkwin-x11.so.6.6.4
 /usr/lib/plugins
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/packagestructure
@@ -1007,6 +1007,7 @@
 /usr/share/locale/ca@valencia/LC_MESSAGES/kwin_x11.mo
 /usr/share/locale/cs
 /usr/share/locale/cs/LC_MESSAGES
+/usr/share/locale/cs/LC_MESSAGES/kcm_animations_x11.mo
 /usr/share/locale/cs/LC_MESSAGES/kcm_kwin_effects_x11.mo
 /usr/share/locale/cs/LC_MESSAGES/kcm_kwin_scripts_x11.mo
 /usr/share/locale/cs/LC_MESSAGES/kcm_kwin_virtualdesktops_x11.mo
@@ -1344,6 +1345,7 @@
 /usr/share/locale/it/LC_MESSAGES/kwin_x11.mo
 /usr/share/locale/ja
 /usr/share/locale/ja/LC_MESSAGES
+/usr/share/locale/ja/LC_MESSAGES/kcm_animations_x11.mo
 /usr/share/locale/ja/LC_MESSAGES/kcm_kwin_effects_x11.mo
 /usr/share/locale/ja/LC_MESSAGES/kcm_kwin_scripts_x11.mo
 /usr/share/locale/ja/LC_MESSAGES/kcm_kwin_virtualdesktops_x11.mo

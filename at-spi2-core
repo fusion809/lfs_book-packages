@@ -1,4 +1,4 @@
-2.60.2
+2.60.3
 /etc
 /etc/xdg
 /etc/xdg/Xwayland-session.d
@@ -90,7 +90,7 @@
 /usr/lib/gnome-settings-daemon-3.0/gtk-modules/at-spi2-atk.desktop
 /usr/lib/libatk-1.0.so
 /usr/lib/libatk-1.0.so.0
-/usr/lib/libatk-1.0.so.0.26011.1
+/usr/lib/libatk-1.0.so.0.26012.1
 /usr/lib/libatk-bridge-2.0.so
 /usr/lib/libatk-bridge-2.0.so.0
 /usr/lib/libatk-bridge-2.0.so.0.0.0
@@ -292,6 +292,9 @@
 /usr/share/locale/li
 /usr/share/locale/li/LC_MESSAGES
 /usr/share/locale/li/LC_MESSAGES/at-spi2-core.mo
+/usr/share/locale/lo
+/usr/share/locale/lo/LC_MESSAGES
+/usr/share/locale/lo/LC_MESSAGES/at-spi2-core.mo
 /usr/share/locale/lt
 /usr/share/locale/lt/LC_MESSAGES
 /usr/share/locale/lt/LC_MESSAGES/at-spi2-core.mo

@@ -1,4 +1,4 @@
-6.6.3
+6.6.4.tar.xz
 /etc
 /etc/xdg
 /etc/xdg/autostart
@@ -18,7 +18,7 @@
 /usr/lib/cmake/KGlobalAccelD/KGlobalAccelDTargets-release.cmake
 /usr/lib/cmake/KGlobalAccelD/KGlobalAccelDTargets.cmake
 /usr/lib/libKGlobalAccelD.so.0
-/usr/lib/libKGlobalAccelD.so.6.6.3
+/usr/lib/libKGlobalAccelD.so.6.6.4
 /usr/lib/plugins
 /usr/lib/plugins/org.kde.kglobalacceld.platforms
 /usr/lib/plugins/org.kde.kglobalacceld.platforms/KGlobalAccelDXcb.so

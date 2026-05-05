@@ -1,4 +1,4 @@
-6.6.3
+6.6.4
 /usr
 /usr/include
 /usr/include/LayerShellQt
@@ -16,7 +16,7 @@
 /usr/lib/cmake/LayerShellQt/LayerShellQtTargets.cmake
 /usr/lib/libLayerShellQtInterface.so
 /usr/lib/libLayerShellQtInterface.so.6
-/usr/lib/libLayerShellQtInterface.so.6.6.3
+/usr/lib/libLayerShellQtInterface.so.6.6.4
 /usr/lib/plugins
 /usr/lib/plugins/wayland-shell-integration
 /usr/lib/plugins/wayland-shell-integration/liblayer-shell.so

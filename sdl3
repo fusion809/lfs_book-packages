@@ -1,4 +1,4 @@
-3.4.4
+3.4.8
 /usr
 /usr/include
 /usr/include/SDL3
@@ -100,7 +100,7 @@
 /usr/lib/cmake/SDL3/SDL3testTargets.cmake
 /usr/lib/libSDL3.so
 /usr/lib/libSDL3.so.0
-/usr/lib/libSDL3.so.0.4.4
+/usr/lib/libSDL3.so.0.4.8
 /usr/lib/libSDL3_test.a
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/sdl3.pc

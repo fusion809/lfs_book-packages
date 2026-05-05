@@ -1,4 +1,4 @@
-6.6.3
+6.6.4
 /usr
 /usr/include
 /usr/include/Plasma
@@ -60,10 +60,10 @@
 /usr/lib/cmake/PlasmaQuick/PlasmaQuickTargets-release.cmake
 /usr/lib/cmake/PlasmaQuick/PlasmaQuickTargets.cmake
 /usr/lib/libPlasma.so
-/usr/lib/libPlasma.so.6.6.3
+/usr/lib/libPlasma.so.6.6.4
 /usr/lib/libPlasma.so.7
 /usr/lib/libPlasmaQuick.so
-/usr/lib/libPlasmaQuick.so.6.6.3
+/usr/lib/libPlasmaQuick.so.6.6.4
 /usr/lib/libPlasmaQuick.so.7
 /usr/lib/plugins
 /usr/lib/plugins/kf6

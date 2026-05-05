@@ -1,4 +1,4 @@
-6.6.3
+6.6.4
 /usr
 /usr/include
 /usr/include/KScreenLocker
@@ -17,7 +17,7 @@
 /usr/lib/cmake/ScreenSaverDBusInterface/ScreenSaverDBusInterfaceConfig.cmake
 /usr/lib/libKScreenLocker.so
 /usr/lib/libKScreenLocker.so.6
-/usr/lib/libKScreenLocker.so.6.6.3
+/usr/lib/libKScreenLocker.so.6.6.4
 /usr/lib/plugins
 /usr/lib/plugins/plasma
 /usr/lib/plugins/plasma/kcms

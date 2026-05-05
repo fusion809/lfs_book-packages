@@ -1,4 +1,4 @@
-6.6.3
+6.6.4
 /usr
 /usr/bin
 /usr/bin/plasma-activities-cli6
@@ -28,7 +28,7 @@
 /usr/lib/cmake/PlasmaActivities/PlasmaActivitiesLibraryTargets-release.cmake
 /usr/lib/cmake/PlasmaActivities/PlasmaActivitiesLibraryTargets.cmake
 /usr/lib/libPlasmaActivities.so
-/usr/lib/libPlasmaActivities.so.6.6.3
+/usr/lib/libPlasmaActivities.so.6.6.4
 /usr/lib/libPlasmaActivities.so.7
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/PlasmaActivities.pc

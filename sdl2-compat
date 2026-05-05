@@ -1,4 +1,4 @@
-2.32.66
+2.32.68
 /usr
 /usr/bin
 /usr/bin/sdl2-config
@@ -111,7 +111,7 @@
 /usr/lib/cmake/SDL2/sdl2-config.cmake
 /usr/lib/libSDL2-2.0.so
 /usr/lib/libSDL2-2.0.so.0
-/usr/lib/libSDL2-2.0.so.0.3200.66
+/usr/lib/libSDL2-2.0.so.0.3200.68
 /usr/lib/libSDL2.so
 /usr/lib/libSDL2_test.a
 /usr/lib/libSDL2main.a

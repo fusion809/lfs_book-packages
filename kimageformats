@@ -1,7 +1,11 @@
-6.24.0
+6.25.0
+/usr
+/usr/lib
+/usr/lib/cmake
 /usr/lib/cmake/KF6ImageFormats
 /usr/lib/cmake/KF6ImageFormats/KF6ImageFormatsConfig.cmake
 /usr/lib/cmake/KF6ImageFormats/KF6ImageFormatsConfigVersion.cmake
+/usr/lib/plugins
 /usr/lib/plugins/imageformats
 /usr/lib/plugins/imageformats/kimg_ani.so
 /usr/lib/plugins/imageformats/kimg_avif.so
@@ -24,4 +28,5 @@
 /usr/lib/plugins/imageformats/kimg_rgb.so
 /usr/lib/plugins/imageformats/kimg_sct.so
 /usr/lib/plugins/imageformats/kimg_tga.so
+/usr/lib/plugins/imageformats/kimg_tim.so
 /usr/lib/plugins/imageformats/kimg_xcf.so

@@ -1,4 +1,7 @@
-6.24.0
+6.25.0
+/usr
+/usr/include
+/usr/include/KF6
 /usr/include/KF6/KItemModels
 /usr/include/KF6/KItemModels/KBreadcrumbSelectionModel
 /usr/include/KF6/KItemModels/KCheckableProxyModel
@@ -23,6 +26,7 @@
 /usr/include/KF6/KItemModels/krearrangecolumnsproxymodel.h
 /usr/include/KF6/KItemModels/kselectionproxymodel.h
 /usr/lib
+/usr/lib/cmake
 /usr/lib/cmake/KF6ItemModels
 /usr/lib/cmake/KF6ItemModels/KF6ItemModelsConfig.cmake
 /usr/lib/cmake/KF6ItemModels/KF6ItemModelsConfigVersion.cmake
@@ -30,12 +34,16 @@
 /usr/lib/cmake/KF6ItemModels/KF6ItemModelsTargets.cmake
 /usr/lib/libKF6ItemModels.so
 /usr/lib/libKF6ItemModels.so.6
-/usr/lib/libKF6ItemModels.so.6.24.0
+/usr/lib/libKF6ItemModels.so.6.25.0
+/usr/lib/qml
+/usr/lib/qml/org
+/usr/lib/qml/org/kde
 /usr/lib/qml/org/kde/kitemmodels
 /usr/lib/qml/org/kde/kitemmodels/itemmodelsplugin.qmltypes
 /usr/lib/qml/org/kde/kitemmodels/kde-qmlmodule.version
 /usr/lib/qml/org/kde/kitemmodels/libitemmodelsplugin.so
 /usr/lib/qml/org/kde/kitemmodels/qmldir
+/usr/share
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/kitemmodels.categories
 /usr/share/qlogging-categories6/kitemmodels.renamecategories
