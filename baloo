@@ -1,10 +1,15 @@
-6.24.0
+6.25.0
+/etc
+/etc/xdg
 /etc/xdg/autostart
 /etc/xdg/autostart/baloo_file.desktop
+/usr
 /usr/bin
 /usr/bin/balooctl6
 /usr/bin/baloosearch6
 /usr/bin/balooshow6
+/usr/include
+/usr/include/KF6
 /usr/include/KF6/Baloo
 /usr/include/KF6/Baloo/Baloo
 /usr/include/KF6/Baloo/Baloo/File
@@ -17,21 +22,39 @@
 /usr/include/KF6/Baloo/baloo
 /usr/include/KF6/Baloo/baloo/baloosettings.h
 /usr/include/KF6/Baloo/baloo/core_export.h
+/usr/include/KF6/Baloo/baloo/file.h
+/usr/include/KF6/Baloo/baloo/filemonitor.h
+/usr/include/KF6/Baloo/baloo/indexerconfig.h
+/usr/include/KF6/Baloo/baloo/query.h
+/usr/include/KF6/Baloo/baloo/queryrunnable.h
+/usr/include/KF6/Baloo/baloo/resultiterator.h
+/usr/include/KF6/Baloo/baloo/taglistjob.h
+/usr/include/KF6/Baloo/baloo_version.h
 /usr/lib
+/usr/lib/cmake
 /usr/lib/cmake/KF6Baloo
 /usr/lib/cmake/KF6Baloo/KF6BalooConfig.cmake
+/usr/lib/cmake/KF6Baloo/KF6BalooConfigVersion.cmake
 /usr/lib/cmake/KF6Baloo/KF6BalooTargets-release.cmake
 /usr/lib/cmake/KF6Baloo/KF6BalooTargets.cmake
-/usr/lib/libKF6Baloo.so.6.24.0
-/usr/lib/libKF6BalooEngine.so.6.24.0
+/usr/lib/libKF6Baloo.so
+/usr/lib/libKF6Baloo.so.6
+/usr/lib/libKF6Baloo.so.6.25.0
+/usr/lib/libKF6BalooEngine.so.6
+/usr/lib/libKF6BalooEngine.so.6.25.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/KF6Baloo.pc
+/usr/lib/plugins
+/usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/kded
 /usr/lib/plugins/kf6/kded/baloosearchmodule.so
 /usr/lib/plugins/kf6/kio
 /usr/lib/plugins/kf6/kio/baloosearch.so
 /usr/lib/plugins/kf6/kio/tags.so
 /usr/lib/plugins/kf6/kio/timeline.so
+/usr/lib/qml
+/usr/lib/qml/org
+/usr/lib/qml/org/kde
 /usr/lib/qml/org/kde/baloo
 /usr/lib/qml/org/kde/baloo/balooplugin.qmltypes
 /usr/lib/qml/org/kde/baloo/experimental
@@ -42,15 +65,23 @@
 /usr/lib/qml/org/kde/baloo/kde-qmlmodule.version
 /usr/lib/qml/org/kde/baloo/libbalooplugin.so
 /usr/lib/qml/org/kde/baloo/qmldir
+/usr/lib/systemd
 /usr/lib/systemd/user
 /usr/lib/systemd/user/kde-baloo.service
+/usr/libexec
 /usr/libexec/kf6
 /usr/libexec/kf6/baloo_file
 /usr/libexec/kf6/baloo_file_extractor
+/usr/share
+/usr/share/dbus-1
 /usr/share/dbus-1/interfaces
+/usr/share/dbus-1/interfaces/org.kde.BalooWatcherApplication.xml
+/usr/share/dbus-1/interfaces/org.kde.baloo.file.indexer.xml
 /usr/share/dbus-1/interfaces/org.kde.baloo.fileindexer.xml
 /usr/share/dbus-1/interfaces/org.kde.baloo.main.xml
 /usr/share/dbus-1/interfaces/org.kde.baloo.scheduler.xml
+/usr/share/locale
+/usr/share/locale/ar
 /usr/share/locale/ar/LC_MESSAGES
 /usr/share/locale/ar/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/ar/LC_MESSAGES/baloo_file_extractor6.mo
@@ -62,6 +93,7 @@
 /usr/share/locale/ar/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/ar/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/ar/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/ast
 /usr/share/locale/ast/LC_MESSAGES
 /usr/share/locale/ast/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/ast/LC_MESSAGES/baloo_file_extractor6.mo
@@ -73,6 +105,7 @@
 /usr/share/locale/ast/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/ast/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/ast/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/az
 /usr/share/locale/az/LC_MESSAGES
 /usr/share/locale/az/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/az/LC_MESSAGES/baloo_file_extractor6.mo
@@ -84,6 +117,7 @@
 /usr/share/locale/az/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/az/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/az/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/bg
 /usr/share/locale/bg/LC_MESSAGES
 /usr/share/locale/bg/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/bg/LC_MESSAGES/baloo_file_extractor6.mo
@@ -95,6 +129,7 @@
 /usr/share/locale/bg/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/bg/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/bg/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/bs
 /usr/share/locale/bs/LC_MESSAGES
 /usr/share/locale/bs/LC_MESSAGES/balooctl6.mo
 /usr/share/locale/bs/LC_MESSAGES/baloosearch6.mo
@@ -102,6 +137,7 @@
 /usr/share/locale/bs/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/bs/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/bs/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/ca
 /usr/share/locale/ca/LC_MESSAGES
 /usr/share/locale/ca/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/ca/LC_MESSAGES/baloo_file_extractor6.mo
@@ -113,6 +149,7 @@
 /usr/share/locale/ca/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/ca/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/ca/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/ca@valencia
 /usr/share/locale/ca@valencia/LC_MESSAGES
 /usr/share/locale/ca@valencia/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/ca@valencia/LC_MESSAGES/baloo_file_extractor6.mo
@@ -124,6 +161,7 @@
 /usr/share/locale/ca@valencia/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/ca@valencia/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/ca@valencia/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/cs
 /usr/share/locale/cs/LC_MESSAGES
 /usr/share/locale/cs/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/cs/LC_MESSAGES/baloo_file_extractor6.mo
@@ -135,6 +173,7 @@
 /usr/share/locale/cs/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/cs/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/cs/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/da
 /usr/share/locale/da/LC_MESSAGES
 /usr/share/locale/da/LC_MESSAGES/balooctl6.mo
 /usr/share/locale/da/LC_MESSAGES/baloodb6.mo
@@ -144,6 +183,7 @@
 /usr/share/locale/da/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/da/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/da/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/de
 /usr/share/locale/de/LC_MESSAGES
 /usr/share/locale/de/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/de/LC_MESSAGES/baloo_file_extractor6.mo
@@ -155,6 +195,7 @@
 /usr/share/locale/de/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/de/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/de/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/el
 /usr/share/locale/el/LC_MESSAGES
 /usr/share/locale/el/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/el/LC_MESSAGES/baloo_file_extractor6.mo
@@ -166,6 +207,7 @@
 /usr/share/locale/el/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/el/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/el/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/en_GB
 /usr/share/locale/en_GB/LC_MESSAGES
 /usr/share/locale/en_GB/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/en_GB/LC_MESSAGES/baloo_file_extractor6.mo
@@ -177,6 +219,7 @@
 /usr/share/locale/en_GB/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/en_GB/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/en_GB/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/eo
 /usr/share/locale/eo/LC_MESSAGES
 /usr/share/locale/eo/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/eo/LC_MESSAGES/baloo_file_extractor6.mo
@@ -188,6 +231,7 @@
 /usr/share/locale/eo/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/eo/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/eo/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/es
 /usr/share/locale/es/LC_MESSAGES
 /usr/share/locale/es/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/es/LC_MESSAGES/baloo_file_extractor6.mo
@@ -199,6 +243,7 @@
 /usr/share/locale/es/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/es/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/es/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/et
 /usr/share/locale/et/LC_MESSAGES
 /usr/share/locale/et/LC_MESSAGES/balooctl6.mo
 /usr/share/locale/et/LC_MESSAGES/baloodb6.mo
@@ -208,6 +253,7 @@
 /usr/share/locale/et/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/et/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/et/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/eu
 /usr/share/locale/eu/LC_MESSAGES
 /usr/share/locale/eu/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/eu/LC_MESSAGES/baloo_file_extractor6.mo
@@ -219,6 +265,7 @@
 /usr/share/locale/eu/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/eu/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/eu/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/fi
 /usr/share/locale/fi/LC_MESSAGES
 /usr/share/locale/fi/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/fi/LC_MESSAGES/baloo_file_extractor6.mo
@@ -230,6 +277,7 @@
 /usr/share/locale/fi/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/fi/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/fi/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/fr
 /usr/share/locale/fr/LC_MESSAGES
 /usr/share/locale/fr/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/fr/LC_MESSAGES/baloo_file_extractor6.mo
@@ -241,6 +289,7 @@
 /usr/share/locale/fr/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/fr/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/fr/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/ga
 /usr/share/locale/ga/LC_MESSAGES
 /usr/share/locale/ga/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/ga/LC_MESSAGES/baloo_file_extractor6.mo
@@ -252,6 +301,7 @@
 /usr/share/locale/ga/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/ga/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/ga/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/gd
 /usr/share/locale/gd/LC_MESSAGES
 /usr/share/locale/gd/LC_MESSAGES/balooctl6.mo
 /usr/share/locale/gd/LC_MESSAGES/baloosearch6.mo
@@ -259,6 +309,7 @@
 /usr/share/locale/gd/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/gd/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/gd/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/gl
 /usr/share/locale/gl/LC_MESSAGES
 /usr/share/locale/gl/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/gl/LC_MESSAGES/baloo_file_extractor6.mo
@@ -270,6 +321,7 @@
 /usr/share/locale/gl/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/gl/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/gl/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/he
 /usr/share/locale/he/LC_MESSAGES
 /usr/share/locale/he/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/he/LC_MESSAGES/baloo_file_extractor6.mo
@@ -281,6 +333,7 @@
 /usr/share/locale/he/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/he/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/he/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/hi
 /usr/share/locale/hi/LC_MESSAGES
 /usr/share/locale/hi/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/hi/LC_MESSAGES/baloo_file_extractor6.mo
@@ -292,6 +345,7 @@
 /usr/share/locale/hi/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/hi/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/hi/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/hu
 /usr/share/locale/hu/LC_MESSAGES
 /usr/share/locale/hu/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/hu/LC_MESSAGES/baloo_file_extractor6.mo
@@ -303,6 +357,7 @@
 /usr/share/locale/hu/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/hu/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/hu/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/ia
 /usr/share/locale/ia/LC_MESSAGES
 /usr/share/locale/ia/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/ia/LC_MESSAGES/baloo_file_extractor6.mo
@@ -314,6 +369,7 @@
 /usr/share/locale/ia/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/ia/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/ia/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/id
 /usr/share/locale/id/LC_MESSAGES
 /usr/share/locale/id/LC_MESSAGES/balooctl6.mo
 /usr/share/locale/id/LC_MESSAGES/baloodb6.mo
@@ -323,11 +379,13 @@
 /usr/share/locale/id/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/id/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/id/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/ie
 /usr/share/locale/ie/LC_MESSAGES
 /usr/share/locale/ie/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/ie/LC_MESSAGES/baloo_file_extractor6.mo
 /usr/share/locale/ie/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/ie/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/is
 /usr/share/locale/is/LC_MESSAGES
 /usr/share/locale/is/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/is/LC_MESSAGES/baloo_file_extractor6.mo
@@ -339,6 +397,7 @@
 /usr/share/locale/is/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/is/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/is/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/it
 /usr/share/locale/it/LC_MESSAGES
 /usr/share/locale/it/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/it/LC_MESSAGES/baloo_file_extractor6.mo
@@ -350,6 +409,7 @@
 /usr/share/locale/it/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/it/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/it/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/ja
 /usr/share/locale/ja/LC_MESSAGES
 /usr/share/locale/ja/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/ja/LC_MESSAGES/baloo_file_extractor6.mo
@@ -361,6 +421,7 @@
 /usr/share/locale/ja/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/ja/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/ja/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/ka
 /usr/share/locale/ka/LC_MESSAGES
 /usr/share/locale/ka/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/ka/LC_MESSAGES/baloo_file_extractor6.mo
@@ -372,6 +433,7 @@
 /usr/share/locale/ka/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/ka/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/ka/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/ko
 /usr/share/locale/ko/LC_MESSAGES
 /usr/share/locale/ko/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/ko/LC_MESSAGES/baloo_file_extractor6.mo
@@ -383,6 +445,7 @@
 /usr/share/locale/ko/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/ko/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/ko/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/lt
 /usr/share/locale/lt/LC_MESSAGES
 /usr/share/locale/lt/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/lt/LC_MESSAGES/baloo_file_extractor6.mo
@@ -394,6 +457,7 @@
 /usr/share/locale/lt/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/lt/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/lt/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/lv
 /usr/share/locale/lv/LC_MESSAGES
 /usr/share/locale/lv/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/lv/LC_MESSAGES/baloo_file_extractor6.mo
@@ -405,6 +469,7 @@
 /usr/share/locale/lv/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/lv/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/lv/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/ml
 /usr/share/locale/ml/LC_MESSAGES
 /usr/share/locale/ml/LC_MESSAGES/balooctl6.mo
 /usr/share/locale/ml/LC_MESSAGES/baloodb6.mo
@@ -414,6 +479,7 @@
 /usr/share/locale/ml/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/ml/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/ml/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/nb
 /usr/share/locale/nb/LC_MESSAGES
 /usr/share/locale/nb/LC_MESSAGES/balooctl6.mo
 /usr/share/locale/nb/LC_MESSAGES/baloosearch6.mo
@@ -421,6 +487,7 @@
 /usr/share/locale/nb/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/nb/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/nb/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/nds
 /usr/share/locale/nds/LC_MESSAGES
 /usr/share/locale/nds/LC_MESSAGES/balooctl6.mo
 /usr/share/locale/nds/LC_MESSAGES/baloosearch6.mo
@@ -428,6 +495,7 @@
 /usr/share/locale/nds/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/nds/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/nds/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/nl
 /usr/share/locale/nl/LC_MESSAGES
 /usr/share/locale/nl/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/nl/LC_MESSAGES/baloo_file_extractor6.mo
@@ -439,6 +507,7 @@
 /usr/share/locale/nl/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/nl/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/nl/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/nn
 /usr/share/locale/nn/LC_MESSAGES
 /usr/share/locale/nn/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/nn/LC_MESSAGES/baloo_file_extractor6.mo
@@ -450,6 +519,7 @@
 /usr/share/locale/nn/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/nn/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/nn/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/pa
 /usr/share/locale/pa/LC_MESSAGES
 /usr/share/locale/pa/LC_MESSAGES/balooctl6.mo
 /usr/share/locale/pa/LC_MESSAGES/baloosearch6.mo
@@ -457,6 +527,7 @@
 /usr/share/locale/pa/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/pa/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/pa/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/pl
 /usr/share/locale/pl/LC_MESSAGES
 /usr/share/locale/pl/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/pl/LC_MESSAGES/baloo_file_extractor6.mo
@@ -468,6 +539,7 @@
 /usr/share/locale/pl/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/pl/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/pl/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/pt
 /usr/share/locale/pt/LC_MESSAGES
 /usr/share/locale/pt/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/pt/LC_MESSAGES/baloo_file_extractor6.mo
@@ -479,6 +551,7 @@
 /usr/share/locale/pt/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/pt/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/pt/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/pt_BR
 /usr/share/locale/pt_BR/LC_MESSAGES
 /usr/share/locale/pt_BR/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/pt_BR/LC_MESSAGES/baloo_file_extractor6.mo
@@ -490,6 +563,7 @@
 /usr/share/locale/pt_BR/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/pt_BR/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/pt_BR/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/ro
 /usr/share/locale/ro/LC_MESSAGES
 /usr/share/locale/ro/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/ro/LC_MESSAGES/baloo_file_extractor6.mo
@@ -501,6 +575,7 @@
 /usr/share/locale/ro/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/ro/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/ro/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/ru
 /usr/share/locale/ru/LC_MESSAGES
 /usr/share/locale/ru/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/ru/LC_MESSAGES/baloo_file_extractor6.mo
@@ -512,6 +587,7 @@
 /usr/share/locale/ru/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/ru/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/ru/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/sa
 /usr/share/locale/sa/LC_MESSAGES
 /usr/share/locale/sa/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/sa/LC_MESSAGES/baloo_file_extractor6.mo
@@ -523,6 +599,7 @@
 /usr/share/locale/sa/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/sa/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/sa/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/sk
 /usr/share/locale/sk/LC_MESSAGES
 /usr/share/locale/sk/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/sk/LC_MESSAGES/baloo_file_extractor6.mo
@@ -534,6 +611,7 @@
 /usr/share/locale/sk/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/sk/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/sk/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/sl
 /usr/share/locale/sl/LC_MESSAGES
 /usr/share/locale/sl/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/sl/LC_MESSAGES/baloo_file_extractor6.mo
@@ -545,6 +623,7 @@
 /usr/share/locale/sl/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/sl/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/sl/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/sr
 /usr/share/locale/sr/LC_MESSAGES
 /usr/share/locale/sr/LC_MESSAGES/balooctl6.mo
 /usr/share/locale/sr/LC_MESSAGES/baloosearch6.mo
@@ -552,6 +631,7 @@
 /usr/share/locale/sr/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/sr/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/sr/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/sr@ijekavian
 /usr/share/locale/sr@ijekavian/LC_MESSAGES
 /usr/share/locale/sr@ijekavian/LC_MESSAGES/balooctl6.mo
 /usr/share/locale/sr@ijekavian/LC_MESSAGES/baloosearch6.mo
@@ -559,6 +639,7 @@
 /usr/share/locale/sr@ijekavian/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/sr@ijekavian/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/sr@ijekavian/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/sr@ijekavianlatin
 /usr/share/locale/sr@ijekavianlatin/LC_MESSAGES
 /usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/balooctl6.mo
 /usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/baloosearch6.mo
@@ -566,6 +647,7 @@
 /usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/sr@ijekavianlatin/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/sr@latin
 /usr/share/locale/sr@latin/LC_MESSAGES
 /usr/share/locale/sr@latin/LC_MESSAGES/balooctl6.mo
 /usr/share/locale/sr@latin/LC_MESSAGES/baloosearch6.mo
@@ -573,6 +655,7 @@
 /usr/share/locale/sr@latin/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/sr@latin/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/sr@latin/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/sv
 /usr/share/locale/sv/LC_MESSAGES
 /usr/share/locale/sv/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/sv/LC_MESSAGES/baloo_file_extractor6.mo
@@ -584,6 +667,7 @@
 /usr/share/locale/sv/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/sv/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/sv/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/ta
 /usr/share/locale/ta/LC_MESSAGES
 /usr/share/locale/ta/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/ta/LC_MESSAGES/baloo_file_extractor6.mo
@@ -595,6 +679,7 @@
 /usr/share/locale/ta/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/ta/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/ta/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/tg
 /usr/share/locale/tg/LC_MESSAGES
 /usr/share/locale/tg/LC_MESSAGES/balooctl6.mo
 /usr/share/locale/tg/LC_MESSAGES/baloodb6.mo
@@ -604,6 +689,7 @@
 /usr/share/locale/tg/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/tg/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/tg/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/tr
 /usr/share/locale/tr/LC_MESSAGES
 /usr/share/locale/tr/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/tr/LC_MESSAGES/baloo_file_extractor6.mo
@@ -615,6 +701,7 @@
 /usr/share/locale/tr/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/tr/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/tr/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/uk
 /usr/share/locale/uk/LC_MESSAGES
 /usr/share/locale/uk/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/uk/LC_MESSAGES/baloo_file_extractor6.mo
@@ -626,6 +713,7 @@
 /usr/share/locale/uk/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/uk/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/uk/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/zh_CN
 /usr/share/locale/zh_CN/LC_MESSAGES
 /usr/share/locale/zh_CN/LC_MESSAGES/baloo_file6.mo
 /usr/share/locale/zh_CN/LC_MESSAGES/baloo_file_extractor6.mo
@@ -637,6 +725,7 @@
 /usr/share/locale/zh_CN/LC_MESSAGES/kio6_baloosearch.mo
 /usr/share/locale/zh_CN/LC_MESSAGES/kio6_tags.mo
 /usr/share/locale/zh_CN/LC_MESSAGES/kio6_timeline.mo
+/usr/share/locale/zh_TW
 /usr/share/locale/zh_TW/LC_MESSAGES
 /usr/share/locale/zh_TW/LC_MESSAGES/baloo_file_extractor6.mo
 /usr/share/locale/zh_TW/LC_MESSAGES/balooctl6.mo
