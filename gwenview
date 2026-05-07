@@ -1,4 +1,4 @@
-26.04.0
+26.04.1
 /usr
 /usr/bin
 /usr/bin/gwenview
@@ -49,6 +49,10 @@
 /usr/share/doc/HTML/es/gwenview
 /usr/share/doc/HTML/es/gwenview/index.cache.bz2
 /usr/share/doc/HTML/es/gwenview/index.docbook
+/usr/share/doc/HTML/fr
+/usr/share/doc/HTML/fr/gwenview
+/usr/share/doc/HTML/fr/gwenview/index.cache.bz2
+/usr/share/doc/HTML/fr/gwenview/index.docbook
 /usr/share/doc/HTML/id
 /usr/share/doc/HTML/id/gwenview
 /usr/share/doc/HTML/id/gwenview/index.cache.bz2

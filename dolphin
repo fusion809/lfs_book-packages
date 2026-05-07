@@ -1,4 +1,4 @@
-26.04.0
+26.04.1
 /usr
 /usr/bin
 /usr/bin/dolphin
@@ -20,10 +20,10 @@
 /usr/lib/kconf_update_bin
 /usr/lib/kconf_update_bin/dolphin_25.04_update_statusandlocationbarssettings
 /usr/lib/kconf_update_bin/dolphin_update_splitviewsettings
-/usr/lib/libdolphinprivate.so.26.04.0
+/usr/lib/libdolphinprivate.so.26.04.1
 /usr/lib/libdolphinprivate.so.6
 /usr/lib/libdolphinvcs.so
-/usr/lib/libdolphinvcs.so.26.04.0
+/usr/lib/libdolphinvcs.so.26.04.1
 /usr/lib/libdolphinvcs.so.6
 /usr/lib/plugins
 /usr/lib/plugins/dolphin
