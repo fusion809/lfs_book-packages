@@ -1,13 +1,13 @@
-6.6.4
+6.6.5
 /usr
 /usr/bin
 /usr/bin/oxygen-demo6
 /usr/bin/oxygen-settings6
 /usr/lib
 /usr/lib/liboxygenstyle6.so.6
-/usr/lib/liboxygenstyle6.so.6.6.4
+/usr/lib/liboxygenstyle6.so.6.6.5
 /usr/lib/liboxygenstyleconfig6.so.6
-/usr/lib/liboxygenstyleconfig6.so.6.6.4
+/usr/lib/liboxygenstyleconfig6.so.6.6.5
 /usr/lib/plugins
 /usr/lib/plugins/kstyle_config
 /usr/lib/plugins/kstyle_config/kstyle_oxygen_config.so
@@ -1332,7 +1332,6 @@
 /usr/share/icons/hicolor/256x256
 /usr/share/icons/hicolor/256x256/apps
 /usr/share/icons/hicolor/256x256/apps/oxygen-settings.png
-/usr/share/icons/hicolor/icon-theme.cache
 /usr/share/kstyle
 /usr/share/kstyle/themes
 /usr/share/kstyle/themes/oxygen.themerc

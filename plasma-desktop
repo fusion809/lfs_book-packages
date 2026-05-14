@@ -1,5 +1,9 @@
-6.6.4
+6.6.5
 /etc
+/etc/ld.so.cache
+/etc/pam.d/kde
+/etc/pam.d/kde-np
+/etc/pam.d/kscreensaver
 /etc/xdg
 /etc/xdg/autostart
 /etc/xdg/autostart/kaccess.desktop
@@ -15,7 +19,7 @@
 /usr/bin/tastenbrett
 /usr/lib
 /usr/lib/libkglobalaccelmodel.so.6
-/usr/lib/libkglobalaccelmodel.so.6.6.4
+/usr/lib/libkglobalaccelmodel.so.6.6.5
 /usr/lib/plugins
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/kded
@@ -238,6 +242,11 @@
 /usr/share/doc/HTML/ca/plasma-desktop/application-menu.png
 /usr/share/doc/HTML/ca/plasma-desktop/index.cache.bz2
 /usr/share/doc/HTML/ca/plasma-desktop/index.docbook
+/usr/share/doc/HTML/cs
+/usr/share/doc/HTML/cs/kcontrol
+/usr/share/doc/HTML/cs/kcontrol/keyboard
+/usr/share/doc/HTML/cs/kcontrol/keyboard/index.cache.bz2
+/usr/share/doc/HTML/cs/kcontrol/keyboard/index.docbook
 /usr/share/doc/HTML/de
 /usr/share/doc/HTML/de/kcontrol
 /usr/share/doc/HTML/de/kcontrol/baloo
@@ -3726,6 +3735,7 @@
 /usr/share/locale/sk/LC_MESSAGES/plasma_applet_org.kde.plasma.taskmanager.mo
 /usr/share/locale/sk/LC_MESSAGES/plasma_applet_org.kde.plasma.trash.mo
 /usr/share/locale/sk/LC_MESSAGES/plasma_applet_org.kde.plasma.windowlist.mo
+/usr/share/locale/sk/LC_MESSAGES/plasma_runner_keys.mo
 /usr/share/locale/sk/LC_MESSAGES/plasma_runner_kwin.mo
 /usr/share/locale/sk/LC_MESSAGES/plasma_runner_plasma-desktop.mo
 /usr/share/locale/sk/LC_MESSAGES/plasma_shell_org.kde.plasma.desktop.mo

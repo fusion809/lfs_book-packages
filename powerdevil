@@ -1,5 +1,9 @@
-6.6.4
+6.6.5
 /etc
+/etc/ld.so.cache
+/etc/pam.d/kde
+/etc/pam.d/kde-np
+/etc/pam.d/kscreensaver
 /etc/xdg
 /etc/xdg/autostart
 /etc/xdg/autostart/powerdevil.desktop
@@ -7,7 +11,7 @@
 /usr/lib
 /usr/lib/libpowerdevilcore.so
 /usr/lib/libpowerdevilcore.so.2
-/usr/lib/libpowerdevilcore.so.6.6.4
+/usr/lib/libpowerdevilcore.so.6.6.5
 /usr/lib/plugins
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/krunner

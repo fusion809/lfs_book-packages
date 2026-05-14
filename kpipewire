@@ -1,4 +1,9 @@
-6.6.4
+6.6.5
+/etc
+/etc/ld.so.cache
+/etc/pam.d/kde
+/etc/pam.d/kde-np
+/etc/pam.d/kscreensaver
 /usr
 /usr/include
 /usr/include/KPipeWire
@@ -26,13 +31,13 @@
 /usr/lib/cmake/KPipeWire/KPipeWireTargets.cmake
 /usr/lib/libKPipeWire.so
 /usr/lib/libKPipeWire.so.6
-/usr/lib/libKPipeWire.so.6.6.4
+/usr/lib/libKPipeWire.so.6.6.5
 /usr/lib/libKPipeWireDmaBuf.so
 /usr/lib/libKPipeWireDmaBuf.so.6
-/usr/lib/libKPipeWireDmaBuf.so.6.6.4
+/usr/lib/libKPipeWireDmaBuf.so.6.6.5
 /usr/lib/libKPipeWireRecord.so
 /usr/lib/libKPipeWireRecord.so.6
-/usr/lib/libKPipeWireRecord.so.6.6.4
+/usr/lib/libKPipeWireRecord.so.6.6.5
 /usr/lib/qml
 /usr/lib/qml/org
 /usr/lib/qml/org/kde

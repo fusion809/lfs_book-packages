@@ -1,4 +1,9 @@
-6.6.4
+6.6.5
+/etc
+/etc/ld.so.cache
+/etc/pam.d/kde
+/etc/pam.d/kde-np
+/etc/pam.d/kscreensaver
 /usr
 /usr/include
 /usr/include/KWayland
@@ -55,7 +60,7 @@
 /usr/lib/cmake/KWayland/KWaylandTargets.cmake
 /usr/lib/libKWaylandClient.so
 /usr/lib/libKWaylandClient.so.6
-/usr/lib/libKWaylandClient.so.6.6.4
+/usr/lib/libKWaylandClient.so.6.6.5
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/KWaylandClient.pc
 /usr/share

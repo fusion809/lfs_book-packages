@@ -1,4 +1,4 @@
-6.6.4
+6.6.5
 /usr
 /usr/bin
 /usr/bin/spectacle
@@ -92,7 +92,6 @@
 /usr/share/doc/HTML/uk/spectacle/index.docbook
 /usr/share/icons
 /usr/share/icons/hicolor
-/usr/share/icons/hicolor/icon-theme.cache
 /usr/share/icons/hicolor/scalable
 /usr/share/icons/hicolor/scalable/apps
 /usr/share/icons/hicolor/scalable/apps/spectacle.svg

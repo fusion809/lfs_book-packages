@@ -1,4 +1,9 @@
-6.6.4
+6.6.5
+/etc
+/etc/ld.so.cache
+/etc/pam.d/kde
+/etc/pam.d/kde-np
+/etc/pam.d/kscreensaver
 /usr
 /usr/include
 /usr/include/KNightTime
@@ -16,7 +21,7 @@
 /usr/lib/cmake/KNightTime/KNightTimeTargets.cmake
 /usr/lib/libKNightTime.so
 /usr/lib/libKNightTime.so.0
-/usr/lib/libKNightTime.so.6.6.4
+/usr/lib/libKNightTime.so.6.6.5
 /usr/lib/systemd
 /usr/lib/systemd/user
 /usr/lib/systemd/user/plasma-knighttimed.service

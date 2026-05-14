@@ -1,4 +1,4 @@
-6.6.4
+6.6.5
 /usr
 /usr/include
 /usr/include/plasma
@@ -17,10 +17,10 @@
 /usr/lib/libplasmapotdprovidercore.so.2.0.0
 /usr/lib/libplasmaweatherdata.so
 /usr/lib/libplasmaweatherdata.so.6
-/usr/lib/libplasmaweatherdata.so.6.6.4
+/usr/lib/libplasmaweatherdata.so.6.6.5
 /usr/lib/libplasmaweatherion.so
 /usr/lib/libplasmaweatherion.so.6
-/usr/lib/libplasmaweatherion.so.6.6.4
+/usr/lib/libplasmaweatherion.so.6.6.5
 /usr/lib/plugins
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/kded
@@ -127,7 +127,6 @@
 /usr/share/dbus-1/system.d/org.kde.kameleonhelper.conf
 /usr/share/icons
 /usr/share/icons/hicolor
-/usr/share/icons/hicolor/icon-theme.cache
 /usr/share/icons/hicolor/scalable
 /usr/share/icons/hicolor/scalable/apps
 /usr/share/icons/hicolor/scalable/apps/accessories-dictionary.svgz
@@ -1791,6 +1790,7 @@
 /usr/share/locale/sk/LC_MESSAGES/plasma_calendar_alternatecalendar.mo
 /usr/share/locale/sk/LC_MESSAGES/plasma_calendar_astronomicalevents.mo
 /usr/share/locale/sk/LC_MESSAGES/plasma_runner_CharacterRunner.mo
+/usr/share/locale/sk/LC_MESSAGES/plasma_runner_colors.mo
 /usr/share/locale/sk/LC_MESSAGES/plasma_runner_converterrunner.mo
 /usr/share/locale/sk/LC_MESSAGES/plasma_runner_datetime.mo
 /usr/share/locale/sk/LC_MESSAGES/plasma_runner_katesessions.mo
@@ -1798,6 +1798,7 @@
 /usr/share/locale/sk/LC_MESSAGES/plasma_runner_krunner_dictionary.mo
 /usr/share/locale/sk/LC_MESSAGES/plasma_runner_spellcheckrunner.mo
 /usr/share/locale/sk/LC_MESSAGES/plasma_wallpaper_org.kde.potd.mo
+/usr/share/locale/sk/LC_MESSAGES/plasma_wallpaper_org.kde.tiled.mo
 /usr/share/locale/sl
 /usr/share/locale/sl/LC_MESSAGES
 /usr/share/locale/sl/LC_MESSAGES/kwin_effect_cube.mo

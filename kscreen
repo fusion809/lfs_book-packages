@@ -1,4 +1,9 @@
-6.6.4
+6.6.5
+/etc
+/etc/ld.so.cache
+/etc/pam.d/kde
+/etc/pam.d/kde-np
+/etc/pam.d/kscreensaver
 /usr
 /usr/bin
 /usr/bin/hdrcalibrator
@@ -295,8 +300,10 @@
 /usr/share/locale/sa/LC_MESSAGES/plasma_applet_org.kde.kscreen.mo
 /usr/share/locale/sk
 /usr/share/locale/sk/LC_MESSAGES
+/usr/share/locale/sk/LC_MESSAGES/hdrcalibrator.mo
 /usr/share/locale/sk/LC_MESSAGES/kcm_kscreen.mo
 /usr/share/locale/sk/LC_MESSAGES/kscreen_common.mo
+/usr/share/locale/sk/LC_MESSAGES/kscreen_osd.mo
 /usr/share/locale/sk/LC_MESSAGES/plasma_applet_org.kde.kscreen.mo
 /usr/share/locale/sl
 /usr/share/locale/sl/LC_MESSAGES

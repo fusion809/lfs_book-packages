@@ -1,4 +1,9 @@
-6.6.4
+6.6.5
+/etc
+/etc/ld.so.cache
+/etc/pam.d/kde
+/etc/pam.d/kde-np
+/etc/pam.d/kscreensaver
 /usr
 /usr/bin
 /usr/bin/plasma-keyboard
@@ -135,6 +140,10 @@
 /usr/share/locale/ro/LC_MESSAGES
 /usr/share/locale/ro/LC_MESSAGES/kcm_plasmakeyboard.mo
 /usr/share/locale/ro/LC_MESSAGES/plasma-keyboard.mo
+/usr/share/locale/sk
+/usr/share/locale/sk/LC_MESSAGES
+/usr/share/locale/sk/LC_MESSAGES/kcm_plasmakeyboard.mo
+/usr/share/locale/sk/LC_MESSAGES/plasma-keyboard.mo
 /usr/share/locale/sl
 /usr/share/locale/sl/LC_MESSAGES
 /usr/share/locale/sl/LC_MESSAGES/kcm_plasmakeyboard.mo

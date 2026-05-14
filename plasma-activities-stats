@@ -1,4 +1,9 @@
-6.6.4
+6.6.5
+/etc
+/etc/ld.so.cache
+/etc/pam.d/kde
+/etc/pam.d/kde-np
+/etc/pam.d/kscreensaver
 /usr
 /usr/include
 /usr/include/PlasmaActivitiesStats
@@ -28,7 +33,7 @@
 /usr/lib/cmake/PlasmaActivitiesStats/PlasmaActivitiesStatsLibraryTargets.cmake
 /usr/lib/libPlasmaActivitiesStats.so
 /usr/lib/libPlasmaActivitiesStats.so.1
-/usr/lib/libPlasmaActivitiesStats.so.6.6.4
+/usr/lib/libPlasmaActivitiesStats.so.6.6.5
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/PlasmaActivitiesStats.pc
 /usr/share

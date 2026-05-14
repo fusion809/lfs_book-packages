@@ -1,4 +1,9 @@
-6.6.4
+6.6.5
+/etc
+/etc/ld.so.cache
+/etc/pam.d/kde
+/etc/pam.d/kde-np
+/etc/pam.d/kscreensaver
 /usr
 /usr/bin
 /usr/bin/kwin_x11
@@ -299,10 +304,10 @@
 /usr/lib/kconf_update_bin/kwin-6.5-showpaint-changes-x11
 /usr/lib/kconf_update_bin/kwin5_update_default_rules_x11
 /usr/lib/libkcmkwincommon-x11.so.6
-/usr/lib/libkcmkwincommon-x11.so.6.6.4
+/usr/lib/libkcmkwincommon-x11.so.6.6.5
 /usr/lib/libkwin-x11.so
 /usr/lib/libkwin-x11.so.6
-/usr/lib/libkwin-x11.so.6.6.4
+/usr/lib/libkwin-x11.so.6.6.5
 /usr/lib/plugins
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/packagestructure
@@ -1696,6 +1701,7 @@
 /usr/share/locale/si/LC_MESSAGES/kwin_x11.mo
 /usr/share/locale/sk
 /usr/share/locale/sk/LC_MESSAGES
+/usr/share/locale/sk/LC_MESSAGES/kcm_animations_x11.mo
 /usr/share/locale/sk/LC_MESSAGES/kcm_kwin_effects_x11.mo
 /usr/share/locale/sk/LC_MESSAGES/kcm_kwin_scripts_x11.mo
 /usr/share/locale/sk/LC_MESSAGES/kcm_kwin_virtualdesktops_x11.mo

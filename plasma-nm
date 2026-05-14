@@ -1,4 +1,9 @@
-6.6.4
+6.6.5
+/etc
+/etc/ld.so.cache
+/etc/pam.d/kde
+/etc/pam.d/kde-np
+/etc/pam.d/kscreensaver
 /usr
 /usr/lib
 /usr/lib/libplasmanm_editor.so
@@ -972,6 +977,7 @@
 /usr/share/locale/sk/LC_MESSAGES/kcm_cellular_network.mo
 /usr/share/locale/sk/LC_MESSAGES/kcm_mobile_hotspot.mo
 /usr/share/locale/sk/LC_MESSAGES/kcm_mobile_wifi.mo
+/usr/share/locale/sk/LC_MESSAGES/kcm_mobile_wired.mo
 /usr/share/locale/sk/LC_MESSAGES/plasma_applet_org.kde.plasma.networkmanagement.mo
 /usr/share/locale/sk/LC_MESSAGES/plasmanetworkmanagement-kcm.mo
 /usr/share/locale/sk/LC_MESSAGES/plasmanetworkmanagement-kded.mo
@@ -1103,6 +1109,7 @@
 /usr/share/locale/ta/LC_MESSAGES/plasma_applet_org.kde.plasma.networkmanagement.mo
 /usr/share/locale/ta/LC_MESSAGES/plasmanetworkmanagement-kcm.mo
 /usr/share/locale/ta/LC_MESSAGES/plasmanetworkmanagement-libs.mo
+/usr/share/locale/ta/LC_MESSAGES/plasmanetworkmanagement_openconnectui.mo
 /usr/share/locale/tg
 /usr/share/locale/tg/LC_MESSAGES
 /usr/share/locale/tg/LC_MESSAGES/kcm_mobile_wifi.mo

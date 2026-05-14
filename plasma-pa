@@ -1,8 +1,13 @@
-6.6.4
+6.6.5
+/etc
+/etc/ld.so.cache
+/etc/pam.d/kde
+/etc/pam.d/kde-np
+/etc/pam.d/kscreensaver
 /usr
 /usr/lib
 /usr/lib/libplasma-volume.so.6
-/usr/lib/libplasma-volume.so.6.6.4
+/usr/lib/libplasma-volume.so.6.6.5
 /usr/lib/plugins
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/kded

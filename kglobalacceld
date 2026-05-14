@@ -1,5 +1,9 @@
-6.6.4
+6.6.5
 /etc
+/etc/ld.so.cache
+/etc/pam.d/kde
+/etc/pam.d/kde-np
+/etc/pam.d/kscreensaver
 /etc/xdg
 /etc/xdg/autostart
 /etc/xdg/autostart/kglobalacceld.desktop
@@ -18,7 +22,7 @@
 /usr/lib/cmake/KGlobalAccelD/KGlobalAccelDTargets-release.cmake
 /usr/lib/cmake/KGlobalAccelD/KGlobalAccelDTargets.cmake
 /usr/lib/libKGlobalAccelD.so.0
-/usr/lib/libKGlobalAccelD.so.6.6.4
+/usr/lib/libKGlobalAccelD.so.6.6.5
 /usr/lib/plugins
 /usr/lib/plugins/org.kde.kglobalacceld.platforms
 /usr/lib/plugins/org.kde.kglobalacceld.platforms/KGlobalAccelDXcb.so
