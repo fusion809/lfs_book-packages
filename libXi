@@ -1,4 +1,4 @@
-1.8.2
+1.8.3
 /usr/include/X11/extensions
 /usr/include/X11/extensions/XInput.h
 /usr/include/X11/extensions/XInput2.h
@@ -9,10 +9,11 @@
 /usr/lib/libXi.so.6.1.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/xi.pc
-/usr/share/doc/libXi-1.8.2
-/usr/share/doc/libXi-1.8.2/encoding.xml
-/usr/share/doc/libXi-1.8.2/inputlib.xml
-/usr/share/doc/libXi-1.8.2/library.xml
+/usr/share/doc
+/usr/share/doc/libXi-1.8.3
+/usr/share/doc/libXi-1.8.3/encoding.xml
+/usr/share/doc/libXi-1.8.3/inputlib.xml
+/usr/share/doc/libXi-1.8.3/library.xml
 /usr/share/man/man3
 /usr/share/man/man3/XAllowDeviceEvents.3
 /usr/share/man/man3/XChangeDeviceControl.3
