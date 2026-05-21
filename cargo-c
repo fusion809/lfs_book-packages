@@ -1,4 +1,8 @@
-0.10.21
+0.10.22
+/etc
+/etc/lfs-release
+/etc/lsb-release
+/etc/os-release
 /usr/bin
 /usr/bin/cargo-capi
 /usr/bin/cargo-cbuild
