@@ -83,6 +83,7 @@
 /usr/share/locale/zh_CN/LC_MESSAGES/cryptsetup.mo
 /usr/share/man
 /usr/share/man/man8
+/usr/share/man/man8/cryptsetup.8
 /usr/share/man/man8/cryptsetup-benchmark.8
 /usr/share/man/man8/cryptsetup-bitlkDump.8
 /usr/share/man/man8/cryptsetup-bitlkOpen.8
@@ -119,6 +120,5 @@
 /usr/share/man/man8/cryptsetup-tcryptDump.8
 /usr/share/man/man8/cryptsetup-tcryptOpen.8
 /usr/share/man/man8/cryptsetup-token.8
-/usr/share/man/man8/cryptsetup.8
 /usr/share/man/man8/integritysetup.8
 /usr/share/man/man8/veritysetup.8

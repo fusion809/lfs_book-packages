@@ -1,7 +1,8 @@
 1.16.1
+/usr
 /usr/include
-/usr/include/libnvme-mi.h
 /usr/include/libnvme.h
+/usr/include/libnvme-mi.h
 /usr/include/nvme
 /usr/include/nvme/api-types.h
 /usr/include/nvme/fabrics.h
@@ -24,10 +25,12 @@
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/libnvme-mi.pc
 /usr/lib/pkgconfig/libnvme.pc
+/usr/lib/python3.14
+/usr/lib/python3.14/site-packages
 /usr/lib/python3.14/site-packages/libnvme
 /usr/lib/python3.14/site-packages/libnvme/__init__.py
+/usr/lib/python3.14/site-packages/libnvme/_nvme.cpython-314-x86_64-linux-gnu.so
+/usr/lib/python3.14/site-packages/libnvme/nvme.py
 /usr/lib/python3.14/site-packages/libnvme/__pycache__
 /usr/lib/python3.14/site-packages/libnvme/__pycache__/__init__.cpython-314.pyc
 /usr/lib/python3.14/site-packages/libnvme/__pycache__/nvme.cpython-314.pyc
-/usr/lib/python3.14/site-packages/libnvme/_nvme.cpython-314-x86_64-linux-gnu.so
-/usr/lib/python3.14/site-packages/libnvme/nvme.py

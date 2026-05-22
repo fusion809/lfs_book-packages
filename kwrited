@@ -1,9 +1,5 @@
 6.6.5
 /etc
-/etc/ld.so.cache
-/etc/pam.d/kde
-/etc/pam.d/kde-np
-/etc/pam.d/kscreensaver
 /etc/xdg
 /etc/xdg/autostart
 /etc/xdg/autostart/kwrited-autostart.desktop

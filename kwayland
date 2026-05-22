@@ -1,9 +1,4 @@
 6.6.5
-/etc
-/etc/ld.so.cache
-/etc/pam.d/kde
-/etc/pam.d/kde-np
-/etc/pam.d/kscreensaver
 /usr
 /usr/include
 /usr/include/KWayland
@@ -30,9 +25,9 @@
 /usr/include/KWayland/KWayland/Client/plasmavirtualdesktop.h
 /usr/include/KWayland/KWayland/Client/plasmawindowmanagement.h
 /usr/include/KWayland/KWayland/Client/plasmawindowmodel.h
-/usr/include/KWayland/KWayland/Client/pointer.h
 /usr/include/KWayland/KWayland/Client/pointerconstraints.h
 /usr/include/KWayland/KWayland/Client/pointergestures.h
+/usr/include/KWayland/KWayland/Client/pointer.h
 /usr/include/KWayland/KWayland/Client/region.h
 /usr/include/KWayland/KWayland/Client/registry.h
 /usr/include/KWayland/KWayland/Client/relativepointer.h
@@ -56,8 +51,8 @@
 /usr/lib/cmake/KWayland
 /usr/lib/cmake/KWayland/KWaylandConfig.cmake
 /usr/lib/cmake/KWayland/KWaylandConfigVersion.cmake
-/usr/lib/cmake/KWayland/KWaylandTargets-release.cmake
 /usr/lib/cmake/KWayland/KWaylandTargets.cmake
+/usr/lib/cmake/KWayland/KWaylandTargets-release.cmake
 /usr/lib/libKWaylandClient.so
 /usr/lib/libKWaylandClient.so.6
 /usr/lib/libKWaylandClient.so.6.6.5

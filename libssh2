@@ -1,4 +1,5 @@
 1.11.1
+/usr
 /usr/include
 /usr/include/libssh2.h
 /usr/include/libssh2_publickey.h
@@ -10,6 +11,8 @@
 /usr/lib/libssh2.so.1.0.1
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/libssh2.pc
+/usr/share
+/usr/share/man
 /usr/share/man/man3
 /usr/share/man/man3/libssh2_agent_connect.3
 /usr/share/man/man3/libssh2_agent_disconnect.3
@@ -39,8 +42,8 @@
 /usr/share/man/man3/libssh2_channel_free.3
 /usr/share/man/man3/libssh2_channel_get_exit_signal.3
 /usr/share/man/man3/libssh2_channel_get_exit_status.3
-/usr/share/man/man3/libssh2_channel_handle_extended_data.3
 /usr/share/man/man3/libssh2_channel_handle_extended_data2.3
+/usr/share/man/man3/libssh2_channel_handle_extended_data.3
 /usr/share/man/man3/libssh2_channel_ignore_extended_data.3
 /usr/share/man/man3/libssh2_channel_open_ex.3
 /usr/share/man/man3/libssh2_channel_open_session.3
@@ -48,8 +51,8 @@
 /usr/share/man/man3/libssh2_channel_read.3
 /usr/share/man/man3/libssh2_channel_read_ex.3
 /usr/share/man/man3/libssh2_channel_read_stderr.3
-/usr/share/man/man3/libssh2_channel_receive_window_adjust.3
 /usr/share/man/man3/libssh2_channel_receive_window_adjust2.3
+/usr/share/man/man3/libssh2_channel_receive_window_adjust.3
 /usr/share/man/man3/libssh2_channel_request_auth_agent.3
 /usr/share/man/man3/libssh2_channel_request_pty.3
 /usr/share/man/man3/libssh2_channel_request_pty_ex.3
@@ -102,8 +105,8 @@
 /usr/share/man/man3/libssh2_publickey_remove.3
 /usr/share/man/man3/libssh2_publickey_remove_ex.3
 /usr/share/man/man3/libssh2_publickey_shutdown.3
-/usr/share/man/man3/libssh2_scp_recv.3
 /usr/share/man/man3/libssh2_scp_recv2.3
+/usr/share/man/man3/libssh2_scp_recv.3
 /usr/share/man/man3/libssh2_scp_send.3
 /usr/share/man/man3/libssh2_scp_send64.3
 /usr/share/man/man3/libssh2_scp_send_ex.3
@@ -111,8 +114,8 @@
 /usr/share/man/man3/libssh2_session_banner_get.3
 /usr/share/man/man3/libssh2_session_banner_set.3
 /usr/share/man/man3/libssh2_session_block_directions.3
-/usr/share/man/man3/libssh2_session_callback_set.3
 /usr/share/man/man3/libssh2_session_callback_set2.3
+/usr/share/man/man3/libssh2_session_callback_set.3
 /usr/share/man/man3/libssh2_session_disconnect.3
 /usr/share/man/man3/libssh2_session_disconnect_ex.3
 /usr/share/man/man3/libssh2_session_flag.3
@@ -135,8 +138,8 @@
 /usr/share/man/man3/libssh2_session_startup.3
 /usr/share/man/man3/libssh2_session_supported_algs.3
 /usr/share/man/man3/libssh2_sftp_close.3
-/usr/share/man/man3/libssh2_sftp_close_handle.3
 /usr/share/man/man3/libssh2_sftp_closedir.3
+/usr/share/man/man3/libssh2_sftp_close_handle.3
 /usr/share/man/man3/libssh2_sftp_fsetstat.3
 /usr/share/man/man3/libssh2_sftp_fstat.3
 /usr/share/man/man3/libssh2_sftp_fstat_ex.3
@@ -149,10 +152,10 @@
 /usr/share/man/man3/libssh2_sftp_mkdir.3
 /usr/share/man/man3/libssh2_sftp_mkdir_ex.3
 /usr/share/man/man3/libssh2_sftp_open.3
+/usr/share/man/man3/libssh2_sftp_opendir.3
 /usr/share/man/man3/libssh2_sftp_open_ex.3
 /usr/share/man/man3/libssh2_sftp_open_ex_r.3
 /usr/share/man/man3/libssh2_sftp_open_r.3
-/usr/share/man/man3/libssh2_sftp_opendir.3
 /usr/share/man/man3/libssh2_sftp_posix_rename.3
 /usr/share/man/man3/libssh2_sftp_posix_rename_ex.3
 /usr/share/man/man3/libssh2_sftp_read.3

@@ -1,9 +1,4 @@
 6.6.5
-/etc
-/etc/ld.so.cache
-/etc/pam.d/kde
-/etc/pam.d/kde-np
-/etc/pam.d/kscreensaver
 /usr
 /usr/share
 /usr/share/wallpapers
@@ -382,12 +377,6 @@
 /usr/share/wallpapers/Shell/contents/images/720x1440.jpg
 /usr/share/wallpapers/Shell/contents/screenshot.png
 /usr/share/wallpapers/Shell/metadata.json
-/usr/share/wallpapers/Volna
-/usr/share/wallpapers/Volna/contents
-/usr/share/wallpapers/Volna/contents/images
-/usr/share/wallpapers/Volna/contents/images/5120x2880.jpg
-/usr/share/wallpapers/Volna/contents/screenshot.png
-/usr/share/wallpapers/Volna/metadata.json
 /usr/share/wallpapers/summer_1am
 /usr/share/wallpapers/summer_1am/contents
 /usr/share/wallpapers/summer_1am/contents/images
@@ -405,3 +394,9 @@
 /usr/share/wallpapers/summer_1am/contents/images/800x600.jpg
 /usr/share/wallpapers/summer_1am/contents/screenshot.jpg
 /usr/share/wallpapers/summer_1am/metadata.json
+/usr/share/wallpapers/Volna
+/usr/share/wallpapers/Volna/contents
+/usr/share/wallpapers/Volna/contents/images
+/usr/share/wallpapers/Volna/contents/images/5120x2880.jpg
+/usr/share/wallpapers/Volna/contents/screenshot.png
+/usr/share/wallpapers/Volna/metadata.json

@@ -1,11 +1,8 @@
 6.6.5
-/etc
-/etc/ld.so.cache
-/etc/pam.d/kde
-/etc/pam.d/kde-np
-/etc/pam.d/kscreensaver
 /usr
 /usr/lib
+/usr/libexec
+/usr/libexec/gtk3_preview
 /usr/lib/gtk-3.0
 /usr/lib/gtk-3.0/modules
 /usr/lib/gtk-3.0/modules/libcolorreload-gtk-module.so
@@ -17,8 +14,6 @@
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/kded
 /usr/lib/plugins/kf6/kded/gtkconfig.so
-/usr/libexec
-/usr/libexec/gtk3_preview
 /usr/share
 /usr/share/kcm-gtk-module
 /usr/share/kcm-gtk-module/preview.ui

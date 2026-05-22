@@ -1,4 +1,7 @@
-4.4
+4.6
+/usr
+/usr/lib
+/usr/lib/udev
 /usr/lib/udev/rules.d
 /usr/lib/udev/rules.d/01-md-raid-creating.rules
 /usr/lib/udev/rules.d/63-md-raid-arrays.rules
@@ -7,6 +10,8 @@
 /usr/sbin
 /usr/sbin/mdadm
 /usr/sbin/mdmon
+/usr/share
+/usr/share/man
 /usr/share/man/man4
 /usr/share/man/man4/md.4
 /usr/share/man/man5

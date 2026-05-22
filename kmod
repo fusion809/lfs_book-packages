@@ -1,12 +1,18 @@
 34.2
+/etc
+/etc/depmod.d
+/etc/modprobe.d
+/usr
 /usr/bin
 /usr/bin/kmod
 /usr/include
 /usr/include/libkmod.h
 /usr/lib
+/usr/lib/depmod.d
 /usr/lib/libkmod.so
 /usr/lib/libkmod.so.2
 /usr/lib/libkmod.so.2.5.1
+/usr/lib/modprobe.d
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/libkmod.pc
 /usr/sbin
@@ -16,6 +22,8 @@
 /usr/sbin/modinfo
 /usr/sbin/modprobe
 /usr/sbin/rmmod
+/usr/share
+/usr/share/bash-completion
 /usr/share/bash-completion/completions
 /usr/share/bash-completion/completions/insmod
 /usr/share/bash-completion/completions/kmod
@@ -28,6 +36,7 @@
 /usr/share/fish/vendor_functions.d/rmmod.fish
 /usr/share/pkgconfig
 /usr/share/pkgconfig/kmod.pc
+/usr/share/zsh
 /usr/share/zsh/site-functions
 /usr/share/zsh/site-functions/_insmod
 /usr/share/zsh/site-functions/_lsmod
