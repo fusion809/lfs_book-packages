@@ -16,12 +16,12 @@
 /usr/include/blockdev/exec.h
 /usr/include/blockdev/extra_arg.h
 /usr/include/blockdev/fs
-/usr/include/blockdev/fs.h
 /usr/include/blockdev/fs/btrfs.h
 /usr/include/blockdev/fs/exfat.h
 /usr/include/blockdev/fs/ext.h
 /usr/include/blockdev/fs/f2fs.h
 /usr/include/blockdev/fs/generic.h
+/usr/include/blockdev/fs.h
 /usr/include/blockdev/fs/mount.h
 /usr/include/blockdev/fs/nilfs.h
 /usr/include/blockdev/fs/ntfs.h
@@ -96,8 +96,8 @@
 /usr/lib/libblockdev.so.3
 /usr/lib/libblockdev.so.3.0.0
 /usr/lib/pkgconfig
-/usr/lib/pkgconfig/blockdev-utils.pc
 /usr/lib/pkgconfig/blockdev.pc
+/usr/lib/pkgconfig/blockdev-utils.pc
 /usr/lib/python3.14
 /usr/lib/python3.14/site-packages
 /usr/lib/python3.14/site-packages/gi
