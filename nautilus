@@ -1,4 +1,4 @@
-50.1
+50.2
 /usr
 /usr/bin
 /usr/bin/nautilus
@@ -419,6 +419,9 @@
 /usr/share/locale/ln
 /usr/share/locale/ln/LC_MESSAGES
 /usr/share/locale/ln/LC_MESSAGES/nautilus.mo
+/usr/share/locale/lo
+/usr/share/locale/lo/LC_MESSAGES
+/usr/share/locale/lo/LC_MESSAGES/nautilus.mo
 /usr/share/locale/lt
 /usr/share/locale/lt/LC_MESSAGES
 /usr/share/locale/lt/LC_MESSAGES/nautilus.mo
