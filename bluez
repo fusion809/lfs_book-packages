@@ -61,7 +61,6 @@
 /usr/share/dbus-1/system.d/obex.conf
 /usr/share/dbus-1/system-services
 /usr/share/dbus-1/system-services/org.bluez.service
-/usr/share/doc
 /usr/share/doc/bluez-5.86
 /usr/share/doc/bluez-5.86/btsnoop.txt
 /usr/share/doc/bluez-5.86/pics-opp.txt

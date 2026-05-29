@@ -1,42 +1,32 @@
-2.3.10
-/opt/qt6/bin
-/opt/qt6/bin/mozcerts-qt6
-/opt/qt6/bin/qcatool-qt6
-/opt/qt6/include/Qca-qt6/QtCrypto
-/opt/qt6/include/Qca-qt6/QtCrypto/QtCrypto
-/opt/qt6/include/Qca-qt6/QtCrypto/qca.h
-/opt/qt6/include/Qca-qt6/QtCrypto/qca_basic.h
-/opt/qt6/include/Qca-qt6/QtCrypto/qca_cert.h
-/opt/qt6/include/Qca-qt6/QtCrypto/qca_core.h
-/opt/qt6/include/Qca-qt6/QtCrypto/qca_export.h
-/opt/qt6/include/Qca-qt6/QtCrypto/qca_keystore.h
-/opt/qt6/include/Qca-qt6/QtCrypto/qca_publickey.h
-/opt/qt6/include/Qca-qt6/QtCrypto/qca_safetimer.h
-/opt/qt6/include/Qca-qt6/QtCrypto/qca_securelayer.h
-/opt/qt6/include/Qca-qt6/QtCrypto/qca_securemessage.h
-/opt/qt6/include/Qca-qt6/QtCrypto/qca_support.h
-/opt/qt6/include/Qca-qt6/QtCrypto/qca_textfilter.h
-/opt/qt6/include/Qca-qt6/QtCrypto/qca_tools.h
-/opt/qt6/include/Qca-qt6/QtCrypto/qca_version.h
-/opt/qt6/include/Qca-qt6/QtCrypto/qcaprovider.h
-/opt/qt6/include/Qca-qt6/QtCrypto/qpipe.h
-/opt/qt6/lib
-/opt/qt6/lib/cmake/Qca-qt6
-/opt/qt6/lib/cmake/Qca-qt6/Qca-qt6Config.cmake
-/opt/qt6/lib/cmake/Qca-qt6/Qca-qt6ConfigVersion.cmake
-/opt/qt6/lib/cmake/Qca-qt6/Qca-qt6Targets-release.cmake
-/opt/qt6/lib/cmake/Qca-qt6/Qca-qt6Targets.cmake
-/opt/qt6/lib/libqca-qt6.so
-/opt/qt6/lib/libqca-qt6.so.2
-/opt/qt6/lib/libqca-qt6.so.2.3.10
-/opt/qt6/plugins/crypto
-/opt/qt6/plugins/crypto/libqca-cyrus-sasl.so
-/opt/qt6/plugins/crypto/libqca-gcrypt.so
-/opt/qt6/plugins/crypto/libqca-gnupg.so
-/opt/qt6/plugins/crypto/libqca-logger.so
-/opt/qt6/plugins/crypto/libqca-nss.so
-/opt/qt6/plugins/crypto/libqca-ossl.so
-/opt/qt6/plugins/crypto/libqca-softstore.so
-/usr/lib
-/usr/share/man/man1
-/usr/share/man/man1/qcatool-qt6.1
+BUILD_FAILED
+--- ERROR LOG (Last 30 lines) ---
+      |                                                  |
+      |                                                  const X509_EXTENSION* {aka const X509_extension_st*}
+/sources/qca-2.3.10/plugins/qca-ossl/qca-ossl.cpp:4465:50: error: invalid conversion from ‘const X509_EXTENSION*’ {aka ‘const X509_extension_st*’} to ‘X509_EXTENSION*’ {aka ‘X509_extension_st*’} [-fpermissive]
+ 4465 |             X509_EXTENSION *ex = X509_CRL_get_ext(x, pos);
+      |                                  ~~~~~~~~~~~~~~~~^~~~~~~~
+      |                                                  |
+      |                                                  const X509_EXTENSION* {aka const X509_extension_st*}
+/sources/qca-2.3.10/plugins/qca-ossl/qca-ossl.cpp: In member function ‘virtual QStringList opensslQCAPlugin::MyTLSContext::supportedCipherSuites(const QCA::TLS::Version&) const’:
+/sources/qca-2.3.10/plugins/qca-ossl/qca-ossl.cpp:4999:31: error: ‘SSLv3_client_method’ was not declared in this scope; did you mean ‘SSLv23_client_method’?
+ 4999 |             ctx = SSL_CTX_new(SSLv3_client_method());
+      |                               ^~~~~~~~~~~~~~~~~~~
+      |                               SSLv23_client_method
+make[2]: *** [plugins/qca-ossl/CMakeFiles/qca-ossl.dir/build.make:99: plugins/qca-ossl/CMakeFiles/qca-ossl.dir/qca-ossl.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:2252: plugins/qca-ossl/CMakeFiles/qca-ossl.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+[ 37%] Building CXX object plugins/qca-gnupg/CMakeFiles/qca-gnupg.dir/gpgproc/sprocess.cpp.o
+[ 38%] Building CXX object plugins/qca-gnupg/CMakeFiles/qca-gnupg.dir/mypgpkeycontext.cpp.o
+[ 38%] Building CXX object plugins/qca-gnupg/CMakeFiles/qca-gnupg.dir/mykeystoreentry.cpp.o
+[ 38%] Linking CXX shared module ../../lib/qca-qt6/crypto/libqca-softstore.so
+[ 39%] Built target qca-softstore
+[ 39%] Building CXX object plugins/qca-gnupg/CMakeFiles/qca-gnupg.dir/myopenpgpcontext.cpp.o
+[ 40%] Building CXX object plugins/qca-gnupg/CMakeFiles/qca-gnupg.dir/mykeystorelist.cpp.o
+[ 40%] Building CXX object plugins/qca-gnupg/CMakeFiles/qca-gnupg.dir/mymessagecontext.cpp.o
+[ 40%] Building CXX object plugins/qca-gnupg/CMakeFiles/qca-gnupg.dir/ringwatch.cpp.o
+[ 40%] Building CXX object plugins/qca-gnupg/CMakeFiles/qca-gnupg.dir/lineconverter.cpp.o
+[ 41%] Building CXX object plugins/qca-gnupg/CMakeFiles/qca-gnupg.dir/gpgaction.cpp.o
+[ 41%] Building CXX object plugins/qca-gnupg/CMakeFiles/qca-gnupg.dir/gpgproc/gpgproc.cpp.o
+[ 41%] Linking CXX shared module ../../lib/qca-qt6/crypto/libqca-gnupg.so
+[ 41%] Built target qca-gnupg
+make: *** [Makefile:146: all] Error 2
