@@ -1,32 +1,32 @@
 BUILD_FAILED
 --- ERROR LOG (Last 30 lines) ---
-      |                                                  |
-      |                                                  const X509_EXTENSION* {aka const X509_extension_st*}
-/sources/qca-2.3.10/plugins/qca-ossl/qca-ossl.cpp:4465:50: error: invalid conversion from ‘const X509_EXTENSION*’ {aka ‘const X509_extension_st*’} to ‘X509_EXTENSION*’ {aka ‘X509_extension_st*’} [-fpermissive]
- 4465 |             X509_EXTENSION *ex = X509_CRL_get_ext(x, pos);
-      |                                  ~~~~~~~~~~~~~~~~^~~~~~~~
-      |                                                  |
-      |                                                  const X509_EXTENSION* {aka const X509_extension_st*}
-/sources/qca-2.3.10/plugins/qca-ossl/qca-ossl.cpp: In member function ‘virtual QStringList opensslQCAPlugin::MyTLSContext::supportedCipherSuites(const QCA::TLS::Version&) const’:
-/sources/qca-2.3.10/plugins/qca-ossl/qca-ossl.cpp:4999:31: error: ‘SSLv3_client_method’ was not declared in this scope; did you mean ‘SSLv23_client_method’?
- 4999 |             ctx = SSL_CTX_new(SSLv3_client_method());
-      |                               ^~~~~~~~~~~~~~~~~~~
-      |                               SSLv23_client_method
-make[2]: *** [plugins/qca-ossl/CMakeFiles/qca-ossl.dir/build.make:99: plugins/qca-ossl/CMakeFiles/qca-ossl.dir/qca-ossl.cpp.o] Error 1
-make[1]: *** [CMakeFiles/Makefile2:2252: plugins/qca-ossl/CMakeFiles/qca-ossl.dir/all] Error 2
-make[1]: *** Waiting for unfinished jobs....
-[ 37%] Building CXX object plugins/qca-gnupg/CMakeFiles/qca-gnupg.dir/gpgproc/sprocess.cpp.o
-[ 38%] Building CXX object plugins/qca-gnupg/CMakeFiles/qca-gnupg.dir/mypgpkeycontext.cpp.o
-[ 38%] Building CXX object plugins/qca-gnupg/CMakeFiles/qca-gnupg.dir/mykeystoreentry.cpp.o
-[ 38%] Linking CXX shared module ../../lib/qca-qt6/crypto/libqca-softstore.so
-[ 39%] Built target qca-softstore
-[ 39%] Building CXX object plugins/qca-gnupg/CMakeFiles/qca-gnupg.dir/myopenpgpcontext.cpp.o
-[ 40%] Building CXX object plugins/qca-gnupg/CMakeFiles/qca-gnupg.dir/mykeystorelist.cpp.o
-[ 40%] Building CXX object plugins/qca-gnupg/CMakeFiles/qca-gnupg.dir/mymessagecontext.cpp.o
-[ 40%] Building CXX object plugins/qca-gnupg/CMakeFiles/qca-gnupg.dir/ringwatch.cpp.o
-[ 40%] Building CXX object plugins/qca-gnupg/CMakeFiles/qca-gnupg.dir/lineconverter.cpp.o
-[ 41%] Building CXX object plugins/qca-gnupg/CMakeFiles/qca-gnupg.dir/gpgaction.cpp.o
-[ 41%] Building CXX object plugins/qca-gnupg/CMakeFiles/qca-gnupg.dir/gpgproc/gpgproc.cpp.o
-[ 41%] Linking CXX shared module ../../lib/qca-qt6/crypto/libqca-gnupg.so
-[ 41%] Built target qca-gnupg
+  Value of QCA_FEATURE_INSTALL_DIR contained a newline; truncating
+
+
+CMake Warning:
+  Value of QCA_INCLUDE_INSTALL_DIR contained a newline; truncating
+
+
+CMake Warning:
+  Value of QCA_LIBRARY_INSTALL_DIR contained a newline; truncating
+
+
+CMake Warning:
+  Value of QCA_PLUGINS_INSTALL_DIR contained a newline; truncating
+
+
+CMake Warning:
+  Value of QCA_PREFIX_INSTALL_DIR contained a newline; truncating
+
+
+CMake Warning:
+  Value of QCA_PRIVATE_INCLUDE_INSTALL_DIR contained a newline; truncating
+
+
+-- Build files have been written to: /sources/qca-2.3.10/build
+[  0%] Built target qca-qt6_autogen_timestamp_deps
+[  0%] Automatic MOC for target qca-qt6
+[  0%] Built target qca-qt6_autogen
+src/CMakeFiles/qca-qt6.dir/flags.make:6: *** missing separator.  Stop.
+make[1]: *** [CMakeFiles/Makefile2:1663: src/CMakeFiles/qca-qt6.dir/all] Error 2
 make: *** [Makefile:146: all] Error 2

@@ -1,32 +1,32 @@
 BUILD_FAILED
 --- ERROR LOG (Last 30 lines) ---
-/sources/qt-everywhere-src-6.11.1/qtbase/src/plugins/tls/openssl/qsslsocket_openssl_symbols_p.h:160:9: error: ambiguating new declaration of ‘X509_EXTENSION* q_X509_get_ext(X509*, int)’
-  160 |     ret q_##func(arg1, arg2) { funcret (ret)func(a, b); }
-      |         ^~
-/sources/qt-everywhere-src-6.11.1/qtbase/src/plugins/tls/openssl/qsslsocket_openssl_symbols.cpp:352:1: note: in expansion of macro ‘DEFINEFUNC2’
-  352 | DEFINEFUNC2(X509_EXTENSION *, X509_get_ext, X509 *a, a, int b, b, return nullptr, return)
-      | ^~~~~~~~~~~
-/sources/qt-everywhere-src-6.11.1/qtbase/src/plugins/tls/openssl/qsslsocket_openssl_symbols_p.h:472:35: note: old declaration ‘const X509_EXTENSION* q_X509_get_ext(X509*, int)’
-  472 | QT_OPENSSL4_CONST X509_EXTENSION *q_X509_get_ext(X509 *a, int b);
-      |                                   ^~~~~~~~~~~~~~
-/sources/qt-everywhere-src-6.11.1/qtbase/src/plugins/tls/openssl/qsslsocket_openssl_symbols_p.h:156:9: error: ambiguating new declaration of ‘X509_NAME* q_X509_get_issuer_name(X509*)’
-  156 |     ret q_##func(arg) { funcret (ret)func(a); }
-      |         ^~
-/sources/qt-everywhere-src-6.11.1/qtbase/src/plugins/tls/openssl/qsslsocket_openssl_symbols.cpp:364:1: note: in expansion of macro ‘DEFINEFUNC’
-  364 | DEFINEFUNC(X509_NAME *, X509_get_issuer_name, X509 *a, a, return nullptr, return)
-      | ^~~~~~~~~~
-/sources/qt-everywhere-src-6.11.1/qtbase/src/plugins/tls/openssl/qsslsocket_openssl_symbols_p.h:483:30: note: old declaration ‘const X509_NAME* q_X509_get_issuer_name(X509*)’
-  483 | QT_OPENSSL4_CONST X509_NAME *q_X509_get_issuer_name(X509 *a);
-      |                              ^~~~~~~~~~~~~~~~~~~~~~
-/sources/qt-everywhere-src-6.11.1/qtbase/src/plugins/tls/openssl/qsslsocket_openssl_symbols_p.h:156:9: error: ambiguating new declaration of ‘X509_NAME* q_X509_get_subject_name(X509*)’
-  156 |     ret q_##func(arg) { funcret (ret)func(a); }
-      |         ^~
-/sources/qt-everywhere-src-6.11.1/qtbase/src/plugins/tls/openssl/qsslsocket_openssl_symbols.cpp:365:1: note: in expansion of macro ‘DEFINEFUNC’
-  365 | DEFINEFUNC(X509_NAME *, X509_get_subject_name, X509 *a, a, return nullptr, return)
-      | ^~~~~~~~~~
-/sources/qt-everywhere-src-6.11.1/qtbase/src/plugins/tls/openssl/qsslsocket_openssl_symbols_p.h:484:30: note: old declaration ‘const X509_NAME* q_X509_get_subject_name(X509*)’
-  484 | QT_OPENSSL4_CONST X509_NAME *q_X509_get_subject_name(X509 *a);
-      |                              ^~~~~~~~~~~~~~~~~~~~~~~
-[10405/12003] Building CXX object qtbase/src/plugins/tls/openssl/CMakeFiles/QTlsBackendOpenSSLPlugin.dir/__/shared/qdtls_base.cpp.o
-[10406/12003] Building CXX object qtbase/src/plugins/tls/openssl/CMakeFiles/QTlsBackendOpenSSLPlugin.dir/qdtls_openssl.cpp.o
+[11489/12003] Linking CXX shared module qtbase/plugins/networkinformation/libqnetworkmanager.so
+[11490/12003] Linking CXX shared module qtbase/plugins/printsupport/libcupsprintersupport.so
+[11491/12003] Linking CXX shared module qtbase/plugins/networkinformation/libqconnman.so
+[11492/12003] Linking CXX shared module qtbase/plugins/networkinformation/libqglib.so
+[11493/12003] Linking CXX shared module qtbase/plugins/tls/libqcertonlybackend.so
+[11494/12003] Linking CXX shared module qtbase/plugins/tls/libqopensslbackend.so
+FAILED: [code=1] qtbase/plugins/tls/libqopensslbackend.so 
+: && /usr/bin/c++ -fPIC -DNDEBUG -O2  -shared -Wl,--no-undefined -Wl,--version-script,/sources/qt-everywhere-src-6.11.1/qtbase/src/plugins/tls/openssl/QTlsBackendOpenSSLPlugin.version -Wl,-z,relro,-z,now -Wl,--enable-new-dtags  -o qtbase/plugins/tls/libqopensslbackend.so qtbase/src/plugins/tls/openssl/CMakeFiles/QTlsBackendOpenSSLPlugin.dir/QTlsBackendOpenSSLPlugin_autogen/mocs_compilation.cpp.o qtbase/src/plugins/tls/openssl/CMakeFiles/QTlsBackendOpenSSLPlugin.dir/__/shared/qx509_base.cpp.o qtbase/src/plugins/tls/openssl/CMakeFiles/QTlsBackendOpenSSLPlugin.dir/__/shared/qtlskey_base.cpp.o qtbase/src/plugins/tls/openssl/CMakeFiles/QTlsBackendOpenSSLPlugin.dir/__/shared/qasn1element.cpp.o qtbase/src/plugins/tls/openssl/CMakeFiles/QTlsBackendOpenSSLPlugin.dir/qtlsbackend_openssl.cpp.o qtbase/src/plugins/tls/openssl/CMakeFiles/QTlsBackendOpenSSLPlugin.dir/qx509_openssl.cpp.o qtbase/src/plugins/tls/openssl/CMakeFiles/QTlsBackendOpenSSLPlugin.dir/qtlskey_openssl.cpp.o qtbase/src/plugins/tls/openssl/CMakeFiles/QTlsBackendOpenSSLPlugin.dir/qtls_openssl.cpp.o qtbase/src/plugins/tls/openssl/CMakeFiles/QTlsBackendOpenSSLPlugin.dir/qssldiffiehellmanparameters_openssl.cpp.o qtbase/src/plugins/tls/openssl/CMakeFiles/QTlsBackendOpenSSLPlugin.dir/qsslcontext_openssl.cpp.o qtbase/src/plugins/tls/openssl/CMakeFiles/QTlsBackendOpenSSLPlugin.dir/qsslsocket_openssl_symbols.cpp.o qtbase/src/plugins/tls/openssl/CMakeFiles/QTlsBackendOpenSSLPlugin.dir/qdtls_openssl.cpp.o qtbase/src/plugins/tls/openssl/CMakeFiles/QTlsBackendOpenSSLPlugin.dir/__/shared/qdtls_base.cpp.o  -Wl,-rpath,/sources/qt-everywhere-src-6.11.1/qtbase/lib:  qtbase/lib/libQt6Network.so.6.11.1  qtbase/lib/libQt6Core.so.6.11.1  /usr/lib/libssl.so  /usr/lib/libcrypto.so && :
+/usr/bin/ld: qtbase/src/plugins/tls/openssl/CMakeFiles/QTlsBackendOpenSSLPlugin.dir/qx509_openssl.cpp.o: in function `QTlsPrivate::(anonymous namespace)::mapFromX509Name(X509_name_st const*)':
+qx509_openssl.cpp:(.text+0x2a1d): undefined reference to `q_X509_NAME_entry_count(X509_name_st const*)'
+/usr/bin/ld: qx509_openssl.cpp:(.text+0x2a44): undefined reference to `q_X509_NAME_get_entry(X509_name_st const*, int)'
+/usr/bin/ld: qx509_openssl.cpp:(.text+0x2a6b): undefined reference to `q_X509_NAME_ENTRY_get_object(X509_name_entry_st const*)'
+/usr/bin/ld: qx509_openssl.cpp:(.text+0x2a8f): undefined reference to `q_X509_NAME_ENTRY_get_data(X509_name_entry_st const*)'
+/usr/bin/ld: qx509_openssl.cpp:(.text+0x2f15): undefined reference to `q_X509_NAME_entry_count(X509_name_st const*)'
+/usr/bin/ld: qtbase/src/plugins/tls/openssl/CMakeFiles/QTlsBackendOpenSSLPlugin.dir/qx509_openssl.cpp.o: in function `QTlsPrivate::X509CertificateOpenSSL::convertExtension(X509_extension_st const*)':
+qx509_openssl.cpp:(.text+0x32cf): undefined reference to `q_X509_EXTENSION_get_object(X509_extension_st const*)'
+/usr/bin/ld: qx509_openssl.cpp:(.text+0x34a9): undefined reference to `q_X509_EXTENSION_get_critical(X509_extension_st const*)'
+/usr/bin/ld: qx509_openssl.cpp:(.text+0x34d7): undefined reference to `q_X509_EXTENSION_get_object(X509_extension_st const*)'
+/usr/bin/ld: qx509_openssl.cpp:(.text+0x34ea): undefined reference to `q_X509V3_EXT_get(X509_extension_st const*)'
+/usr/bin/ld: qx509_openssl.cpp:(.text+0x3519): undefined reference to `q_X509V3_EXT_d2i(X509_extension_st const*)'
+/usr/bin/ld: qx509_openssl.cpp:(.text+0x38a4): undefined reference to `q_X509V3_EXT_d2i(X509_extension_st const*)'
+/usr/bin/ld: qx509_openssl.cpp:(.text+0x3b8c): undefined reference to `q_X509V3_EXT_d2i(X509_extension_st const*)'
+/usr/bin/ld: qx509_openssl.cpp:(.text+0x3cb1): undefined reference to `q_X509V3_EXT_d2i(X509_extension_st const*)'
+/usr/bin/ld: qx509_openssl.cpp:(.text+0x3fe0): undefined reference to `q_X509V3_EXT_get(X509_extension_st const*)'
+/usr/bin/ld: qx509_openssl.cpp:(.text+0x3ff6): undefined reference to `q_X509V3_EXT_d2i(X509_extension_st const*)'
+/usr/bin/ld: qx509_openssl.cpp:(.text+0x4659): undefined reference to `q_X509_EXTENSION_get_data(X509_extension_st const*)'
+collect2: error: ld returned 1 exit status
+[11495/12003] Linking CXX executable qtbase/bin/qmake
+[11496/12003] Linking CXX shared module qtbase/plugins/imageformats/libqtga.so
 ninja: build stopped: subcommand failed.
