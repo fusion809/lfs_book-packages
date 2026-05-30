@@ -1,32 +1,32 @@
 BUILD_FAILED
 --- ERROR LOG (Last 30 lines) ---
-  cargo:rustc-cfg=ossl102f
-  cargo:rustc-cfg=ossl102h
-  cargo:rustc-cfg=ossl110
-  cargo:rustc-cfg=ossl110f
-  cargo:rustc-cfg=ossl110g
-  cargo:rustc-cfg=ossl110h
-  cargo:rustc-cfg=ossl111
-  cargo:rustc-cfg=ossl111b
-  cargo:rustc-cfg=ossl111c
-  cargo:rustc-cfg=ossl111d
-  cargo:rustc-cfg=ossl300
-  cargo:rustc-cfg=ossl320
-  cargo:rustc-cfg=ossl330
-  cargo:rustc-cfg=ossl340
-  cargo:rustc-cfg=ossl350
-  cargo:version_number=40000000
+   Compiling rustc_codegen_llvm v0.0.0 (/sources/rustc-1.96.0-src/compiler/rustc_codegen_llvm)
+   Compiling tracing-tree v0.3.1
+   Compiling rustc_mir_build v0.0.0 (/sources/rustc-1.96.0-src/compiler/rustc_mir_build)
+   Compiling rustc_passes v0.0.0 (/sources/rustc-1.96.0-src/compiler/rustc_passes)
+   Compiling rustc_borrowck v0.0.0 (/sources/rustc-1.96.0-src/compiler/rustc_borrowck)
+   Compiling rustc_hir_typeck v0.0.0 (/sources/rustc-1.96.0-src/compiler/rustc_hir_typeck)
+   Compiling rustc_mir_transform v0.0.0 (/sources/rustc-1.96.0-src/compiler/rustc_mir_transform)
+   Compiling rustc_resolve v0.0.0 (/sources/rustc-1.96.0-src/compiler/rustc_resolve)
+   Compiling rustc_builtin_macros v0.0.0 (/sources/rustc-1.96.0-src/compiler/rustc_builtin_macros)
+   Compiling rustc_monomorphize v0.0.0 (/sources/rustc-1.96.0-src/compiler/rustc_monomorphize)
+   Compiling rustc_query_impl v0.0.0 (/sources/rustc-1.96.0-src/compiler/rustc_query_impl)
+   Compiling rustc_public_bridge v0.0.0 (/sources/rustc-1.96.0-src/compiler/rustc_public_bridge)
+   Compiling rustc_public v0.1.0-preview (/sources/rustc-1.96.0-src/compiler/rustc_public)
+   Compiling rustc_interface v0.0.0 (/sources/rustc-1.96.0-src/compiler/rustc_interface)
+   Compiling ctrlc v3.5.1
+   Compiling rustc_log v0.0.0 (/sources/rustc-1.96.0-src/compiler/rustc_log)
+   Compiling rustc_driver v0.0.0 (/sources/rustc-1.96.0-src/compiler/rustc_driver)
+   Compiling jiff v0.2.16
+   Compiling rustc_driver_impl v0.0.0 (/sources/rustc-1.96.0-src/compiler/rustc_driver_impl)
+   Compiling rustc-main v0.0.0 (/sources/rustc-1.96.0-src/compiler/rustc)
+    Finished `release` profile [optimized] target(s) in 31m 40s
+Creating a sysroot for stage2 compiler (use `rustup toolchain link 'name' build/host/stage2`)
+Uplifting library (stage1 -> stage2)
+Building stage2 cargo (stage1 -> stage2, x86_64-unknown-linux-gnu)
+error: the listed checksum of `/sources/rustc-1.96.0-src/vendor/openssl-sys-0.9.112/build/main.rs` has changed:
+expected: 342928b9516d20cf21850581af2377fe2d8f67c15da645d106fc83fc30395623
+actual:   1598f006c32331b90c04c145b935fb9de78321a982392a2cff98771779d93755
 
-  --- stderr
-
-  thread 'main' (1096487) panicked at /rust/deps/openssl-sys-0.9.112/build/main.rs:460:5:
-
-
-  This crate is only compatible with OpenSSL (version 1.1.0, 1.1.1, or 3.x), or LibreSSL 3.5.0
-  through 4.2.x, but a different version of OpenSSL was found. The build is now aborting
-  due to this version mismatch.
-
-
-  note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
-warning: build failed, waiting for other jobs to finish...
-Build completed unsuccessfully in 0:40:41
+directory sources are not intended to be edited, if modifications are required then it is recommended that `[patch]` is used with a forked copy of the source
+Build completed unsuccessfully in 0:48:57
