@@ -1,4 +1,4 @@
-50.1
+50.2
 /usr
 /usr/bin
 /usr/bin/gnome-control-center
@@ -348,6 +348,7 @@
 /usr/share/locale/lo
 /usr/share/locale/lo/LC_MESSAGES
 /usr/share/locale/lo/LC_MESSAGES/gnome-control-center-2.0-timezones.mo
+/usr/share/locale/lo/LC_MESSAGES/gnome-control-center-2.0.mo
 /usr/share/locale/lt
 /usr/share/locale/lt/LC_MESSAGES
 /usr/share/locale/lt/LC_MESSAGES/gnome-control-center-2.0-timezones.mo
