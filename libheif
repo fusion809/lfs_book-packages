@@ -1,4 +1,4 @@
-1.22.2
+1.23.0
 /usr
 /usr/bin
 /usr/bin/heif-convert
@@ -20,6 +20,7 @@
 /usr/include/libheif/heif_encoding.h
 /usr/include/libheif/heif_entity_groups.h
 /usr/include/libheif/heif_error.h
+/usr/include/libheif/heif_export.h
 /usr/include/libheif/heif_image.h
 /usr/include/libheif/heif_image_handle.h
 /usr/include/libheif/heif_items.h
@@ -45,7 +46,7 @@
 /usr/lib/libheif
 /usr/lib/libheif.so
 /usr/lib/libheif.so.1
-/usr/lib/libheif.so.1.22.2
+/usr/lib/libheif.so.1.23.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/libheif.pc
 /usr/share
