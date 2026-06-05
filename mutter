@@ -1,32 +1,29 @@
-BUILD_FAILED
---- ERROR LOG (Last 30 lines) ---
-Installing /sources/mutter-50.2/data/mutter-schemas.convert to /usr/share/GConf/gsettings
-Installing /sources/mutter-50.2/data/61-mutter.rules to /usr/lib/udev/rules.d
-Installing /sources/mutter-50.2/tools/gdctl to /usr/bin
-Installing /sources/mutter-50.2/tools/gnome-service-client to /usr/bin
-Installing /sources/mutter-50.2/build/src/helpers/org.gnome.mutter.backlight-helper.policy to /usr/share/polkit-1/actions
-Installing /sources/mutter-50.2/build/meson-private/libmutter-18.pc to /usr/lib/pkgconfig
-Installing /sources/mutter-50.2/build/mdk/data/org.gnome.mutter.devkit.gschema.xml to /usr/share/glib-2.0/schemas
-Installing symlink pointing to libmutter-mtk-18.so.0.0.0 to /usr/lib/mutter-18/libmutter-mtk-18.so.0
-Installing symlink pointing to libmutter-mtk-18.so.0 to /usr/lib/mutter-18/libmutter-mtk-18.so
-Installing symlink pointing to libmutter-cogl-18.so.0.0.0 to /usr/lib/mutter-18/libmutter-cogl-18.so.0
-Installing symlink pointing to libmutter-cogl-18.so.0 to /usr/lib/mutter-18/libmutter-cogl-18.so
-Installing symlink pointing to libmutter-clutter-18.so.0.0.0 to /usr/lib/mutter-18/libmutter-clutter-18.so.0
-Installing symlink pointing to libmutter-clutter-18.so.0 to /usr/lib/mutter-18/libmutter-clutter-18.so
-Installing symlink pointing to libmutter-18.so.0.0.0 to /usr/lib/libmutter-18.so.0
-Installing symlink pointing to libmutter-18.so.0 to /usr/lib/libmutter-18.so
-Running custom install script '/usr/bin/glib-compile-schemas /usr/share/glib-2.0/schemas'
-Running custom install script '/usr/bin/gtk4-update-icon-cache -q -t -f /usr/share/icons/hicolor'
-libmutter-Message: 20:49:29.322: Running Mutter (using mutter 50.2) as a Wayland display server
-libmutter-Message: 20:49:29.333: No seat assigned, running headlessly
-libmutter-Message: 20:49:29.452: Added device '/dev/dri/renderD128' (virtio_gpu) using no mode setting.
-libmutter-Message: 20:49:29.452: Failed to initialize accelerated iGPU/dGPU framebuffer sharing: Not hardware accelerated
-libmutter-Message: 20:49:29.452: Created gbm renderer for '/dev/dri/renderD128'
-libmutter-Message: 20:49:29.452: Boot VGA GPU /dev/dri/renderD128 selected as primary
-libmutter-Message: 20:49:29.495: Using public X11 display :3, (using unix:/tmp/.X11-unix/X4 for managed services)
-
-(mutter:112829): libmutter-WARNING **: 20:49:29.496: WL: error: XDG_RUNTIME_DIR is invalid or not set in the environment
-
-
-(mutter:112829): libmutter-ERROR **: 20:49:29.496: Failed to create socket
-/bin/bash: line 16: 112829 Aborted                    (core dumped) mutter --wayland -- vte-2.91
+50.2
+/usr/include/mutter-18/meta
+/usr/share/man/man1
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig
+/usr/share/gnome-control-center/keybindings
+/usr/share/gnome-control-center/keybindings
+/usr/share/gnome-control-center/keybindings
+/usr/share/gnome-control-center/keybindings
+/usr/share/glib-2.0/schemas
+/usr/share/glib-2.0/schemas
+/usr/share/GConf/gsettings
+/usr/lib/udev/rules.d
+/usr/bin
+/usr/bin
+/usr/share/polkit-1/actions
+/usr/lib/pkgconfig
+/usr/share/glib-2.0/schemas
+/usr/lib/mutter-18/libmutter-mtk-18.so.0
+/usr/lib/mutter-18/libmutter-mtk-18.so
+/usr/lib/mutter-18/libmutter-cogl-18.so.0
+/usr/lib/mutter-18/libmutter-cogl-18.so
+/usr/lib/mutter-18/libmutter-clutter-18.so.0
+/usr/lib/mutter-18/libmutter-clutter-18.so
+/usr/lib/libmutter-18.so.0
+/usr/lib/libmutter-18.so
+/usr/share/glib-2.0/schemas'
+/usr/share/icons/hicolor'
