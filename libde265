@@ -1,4 +1,4 @@
-1.1.0
+1.1.1
 /usr
 /usr/bin
 /usr/bin/dec265
@@ -14,6 +14,6 @@
 /usr/lib/cmake/libde265/libde265-config.cmake
 /usr/lib/libde265.so
 /usr/lib/libde265.so.0
-/usr/lib/libde265.so.0.2.0
+/usr/lib/libde265.so.0.2.1
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/libde265.pc
