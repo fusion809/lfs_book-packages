@@ -1,7 +1,10 @@
 1.5.2
+/usr
 /usr/bin
 /usr/bin/protoc-c
 /usr/bin/protoc-gen-c
+/usr/include
+/usr/include/google
 /usr/include/google/protobuf-c
 /usr/include/google/protobuf-c/protobuf-c.h
 /usr/include/protobuf-c

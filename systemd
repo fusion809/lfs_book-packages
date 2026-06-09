@@ -9,6 +9,7 @@
 /etc/pam.d
 /etc/pam.d/systemd-run0
 /etc/pam.d/systemd-user
+/etc/pam.d/system-session
 /etc/profile.d
 /etc/profile.d/70-systemd-shell-extra.sh
 /etc/profile.d/80-systemd-osc-context.sh

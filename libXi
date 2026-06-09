@@ -1,7 +1,7 @@
 1.8.3
 /usr/include/X11/extensions
-/usr/include/X11/extensions/XInput.h
 /usr/include/X11/extensions/XInput2.h
+/usr/include/X11/extensions/XInput.h
 /usr/lib
 /usr/lib/libXi.la
 /usr/lib/libXi.so
@@ -9,7 +9,6 @@
 /usr/lib/libXi.so.6.1.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/xi.pc
-/usr/share/doc
 /usr/share/doc/libXi-1.8.3
 /usr/share/doc/libXi-1.8.3/encoding.xml
 /usr/share/doc/libXi-1.8.3/inputlib.xml
