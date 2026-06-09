@@ -1,18 +1,32 @@
-0.4.0
-/usr/include/KDSoapWSDiscoveryClient/WSDiscoveryClient
-/usr/include/KDSoapWSDiscoveryClient/WSDiscoveryProbeJob
-/usr/include/KDSoapWSDiscoveryClient/WSDiscoveryServiceAggregator
-/usr/include/KDSoapWSDiscoveryClient/WSDiscoveryTargetService
-/usr/include/KDSoapWSDiscoveryClient/kdsoap_wsdiscovery_client_version.h
-/usr/include/KDSoapWSDiscoveryClient/wsdiscoveryclient.h
-/usr/include/KDSoapWSDiscoveryClient/wsdiscoveryclient_export.h
-/usr/include/KDSoapWSDiscoveryClient/wsdiscoveryprobejob.h
-/usr/include/KDSoapWSDiscoveryClient/wsdiscoveryserviceaggregator.h
-/usr/include/KDSoapWSDiscoveryClient/wsdiscoverytargetservice.h
-/usr/lib/cmake/KDSoapWSDiscoveryClient/KDSoapWSDiscoveryClientConfig.cmake
-/usr/lib/cmake/KDSoapWSDiscoveryClient/KDSoapWSDiscoveryClientConfigVersion.cmake
-/usr/lib/cmake/KDSoapWSDiscoveryClient/KDSoapWSDiscoveryClientTargets-release.cmake
-/usr/lib/cmake/KDSoapWSDiscoveryClient/KDSoapWSDiscoveryClientTargets.cmake
-/usr/lib/libKDSoapWSDiscoveryClient.so
-/usr/lib/libKDSoapWSDiscoveryClient.so.0
-/usr/lib/libKDSoapWSDiscoveryClient.so.0.4.0
+BUILD_FAILED
+--- ERROR LOG (Last 30 lines) ---
+[  3%] Built target KDSoapWSDiscoveryClient_autogen
+[ 63%] Built target KDSoapWSDiscoveryClient
+[ 63%] Built target onvif-discover_autogen_timestamp_deps
+[ 66%] Built target onvif-discover_autogen
+[ 83%] Built target onvif-discover
+[ 83%] Built target test_wsdiscoveryclient_autogen_timestamp_deps
+[ 86%] Built target test_wsdiscoveryclient_autogen
+[100%] Built target test_wsdiscoveryclient
+Install the project...
+-- Install configuration: "Release"
+-- Installing: /usr/include/KDSoapWSDiscoveryClient/kdsoap_wsdiscovery_client_version.h
+-- Installing: /usr/lib/cmake/KDSoapWSDiscoveryClient/KDSoapWSDiscoveryClientConfig.cmake
+-- Installing: /usr/lib/cmake/KDSoapWSDiscoveryClient/KDSoapWSDiscoveryClientConfigVersion.cmake
+-- Old export file "/usr/lib/cmake/KDSoapWSDiscoveryClient/KDSoapWSDiscoveryClientTargets.cmake" will be replaced.  Removing files [/usr/lib/cmake/KDSoapWSDiscoveryClient/KDSoapWSDiscoveryClientTargets-release.cmake].
+-- Installing: /usr/lib/cmake/KDSoapWSDiscoveryClient/KDSoapWSDiscoveryClientTargets.cmake
+-- Installing: /usr/lib/cmake/KDSoapWSDiscoveryClient/KDSoapWSDiscoveryClientTargets-release.cmake
+-- Installing: /usr/lib/libKDSoapWSDiscoveryClient.so.0.4.0
+-- Up-to-date: /usr/lib/libKDSoapWSDiscoveryClient.so.0
+-- Set non-toolchain portion of runtime path of "/usr/lib/libKDSoapWSDiscoveryClient.so.0.4.0" to ""
+-- Up-to-date: /usr/lib/libKDSoapWSDiscoveryClient.so
+-- Installing: /usr/include/KDSoapWSDiscoveryClient/wsdiscoveryclient_export.h
+-- Installing: /usr/include/KDSoapWSDiscoveryClient/WSDiscoveryClient
+-- Installing: /usr/include/KDSoapWSDiscoveryClient/WSDiscoveryProbeJob
+-- Installing: /usr/include/KDSoapWSDiscoveryClient/WSDiscoveryTargetService
+-- Installing: /usr/include/KDSoapWSDiscoveryClient/WSDiscoveryServiceAggregator
+-- Up-to-date: /usr/include/KDSoapWSDiscoveryClient/wsdiscoveryclient.h
+-- Up-to-date: /usr/include/KDSoapWSDiscoveryClient/wsdiscoveryprobejob.h
+-- Up-to-date: /usr/include/KDSoapWSDiscoveryClient/wsdiscoverytargetservice.h
+-- Up-to-date: /usr/include/KDSoapWSDiscoveryClient/wsdiscoveryserviceaggregator.h
+mv: cannot stat '/usr/share/doc/KDSoapWSDiscoveryClient': No such file or directory
