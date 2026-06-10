@@ -4,6 +4,8 @@
 /usr/bin/kstatsviewer
 /usr/bin/ksystemstats
 /usr/lib
+/usr/libexec
+/usr/libexec/ksystemstats_intel_helper
 /usr/lib/plugins
 /usr/lib/plugins/ksystemstats
 /usr/lib/plugins/ksystemstats/ksystemstats_plugin_cpu.so
@@ -18,8 +20,6 @@
 /usr/lib/systemd
 /usr/lib/systemd/user
 /usr/lib/systemd/user/plasma-ksystemstats.service
-/usr/libexec
-/usr/libexec/ksystemstats_intel_helper
 /usr/share
 /usr/share/dbus-1
 /usr/share/dbus-1/services
@@ -125,11 +125,11 @@
 /usr/share/locale/pl/LC_MESSAGES
 /usr/share/locale/pl/LC_MESSAGES/ksystemstats_plugins.mo
 /usr/share/locale/pt
-/usr/share/locale/pt/LC_MESSAGES
-/usr/share/locale/pt/LC_MESSAGES/ksystemstats_plugins.mo
 /usr/share/locale/pt_BR
 /usr/share/locale/pt_BR/LC_MESSAGES
 /usr/share/locale/pt_BR/LC_MESSAGES/ksystemstats_plugins.mo
+/usr/share/locale/pt/LC_MESSAGES
+/usr/share/locale/pt/LC_MESSAGES/ksystemstats_plugins.mo
 /usr/share/locale/ro
 /usr/share/locale/ro/LC_MESSAGES
 /usr/share/locale/ro/LC_MESSAGES/ksystemstats_plugins.mo

@@ -1,29 +1,32 @@
-50.2
-/usr/include/mutter-18/meta
-/usr/share/man/man1
-/usr/lib/pkgconfig
-/usr/lib/pkgconfig
-/usr/lib/pkgconfig
-/usr/share/gnome-control-center/keybindings
-/usr/share/gnome-control-center/keybindings
-/usr/share/gnome-control-center/keybindings
-/usr/share/gnome-control-center/keybindings
-/usr/share/glib-2.0/schemas
-/usr/share/glib-2.0/schemas
-/usr/share/GConf/gsettings
-/usr/lib/udev/rules.d
-/usr/bin
-/usr/bin
-/usr/share/polkit-1/actions
-/usr/lib/pkgconfig
-/usr/share/glib-2.0/schemas
-/usr/lib/mutter-18/libmutter-mtk-18.so.0
-/usr/lib/mutter-18/libmutter-mtk-18.so
-/usr/lib/mutter-18/libmutter-cogl-18.so.0
-/usr/lib/mutter-18/libmutter-cogl-18.so
-/usr/lib/mutter-18/libmutter-clutter-18.so.0
-/usr/lib/mutter-18/libmutter-clutter-18.so
-/usr/lib/libmutter-18.so.0
-/usr/lib/libmutter-18.so
-/usr/share/glib-2.0/schemas'
-/usr/share/icons/hicolor'
+BUILD_FAILED
+--- ERROR LOG (Last 30 lines) ---
+Installing /sources/mutter-50.2/src/meta/meta-x11-group.h to /usr/include/mutter-18/meta
+Installing /sources/mutter-50.2/doc/man/mutter.1 to /usr/share/man/man1
+Installing /sources/mutter-50.2/build/meson-private/mutter-mtk-18.pc to /usr/lib/pkgconfig
+Installing /sources/mutter-50.2/build/meson-private/mutter-cogl-18.pc to /usr/lib/pkgconfig
+Installing /sources/mutter-50.2/build/meson-private/mutter-clutter-18.pc to /usr/lib/pkgconfig
+Installing /sources/mutter-50.2/data/50-mutter-navigation.xml to /usr/share/gnome-control-center/keybindings
+Installing /sources/mutter-50.2/data/50-mutter-system.xml to /usr/share/gnome-control-center/keybindings
+Installing /sources/mutter-50.2/data/50-mutter-windows.xml to /usr/share/gnome-control-center/keybindings
+Installing /sources/mutter-50.2/data/50-mutter-wayland.xml to /usr/share/gnome-control-center/keybindings
+Installing /sources/mutter-50.2/build/data/org.gnome.mutter.gschema.xml to /usr/share/glib-2.0/schemas
+Installing /sources/mutter-50.2/build/data/org.gnome.mutter.wayland.gschema.xml to /usr/share/glib-2.0/schemas
+Installing /sources/mutter-50.2/data/mutter-schemas.convert to /usr/share/GConf/gsettings
+Installing /sources/mutter-50.2/data/61-mutter.rules to /usr/lib/udev/rules.d
+Installing /sources/mutter-50.2/tools/gdctl to /usr/bin
+Installing /sources/mutter-50.2/tools/gnome-service-client to /usr/bin
+Installing /sources/mutter-50.2/build/src/helpers/org.gnome.mutter.backlight-helper.policy to /usr/share/polkit-1/actions
+Installing /sources/mutter-50.2/build/meson-private/libmutter-18.pc to /usr/lib/pkgconfig
+Installing /sources/mutter-50.2/build/mdk/data/org.gnome.mutter.devkit.gschema.xml to /usr/share/glib-2.0/schemas
+Installing symlink pointing to libmutter-mtk-18.so.0.0.0 to /usr/lib/mutter-18/libmutter-mtk-18.so.0
+Installing symlink pointing to libmutter-mtk-18.so.0 to /usr/lib/mutter-18/libmutter-mtk-18.so
+Installing symlink pointing to libmutter-cogl-18.so.0.0.0 to /usr/lib/mutter-18/libmutter-cogl-18.so.0
+Installing symlink pointing to libmutter-cogl-18.so.0 to /usr/lib/mutter-18/libmutter-cogl-18.so
+Installing symlink pointing to libmutter-clutter-18.so.0.0.0 to /usr/lib/mutter-18/libmutter-clutter-18.so.0
+Installing symlink pointing to libmutter-clutter-18.so.0 to /usr/lib/mutter-18/libmutter-clutter-18.so
+Installing symlink pointing to libmutter-18.so.0.0.0 to /usr/lib/libmutter-18.so.0
+Installing symlink pointing to libmutter-18.so.0 to /usr/lib/libmutter-18.so
+Running custom install script '/usr/bin/glib-compile-schemas /usr/share/glib-2.0/schemas'
+Running custom install script '/usr/bin/gtk4-update-icon-cache -q -t -f /usr/share/icons/hicolor'
+libmutter-Message: 22:21:09.287: Running Mutter (using mutter 50.2) as a Wayland display server
+Failed to setup: Failed to find any matching session
