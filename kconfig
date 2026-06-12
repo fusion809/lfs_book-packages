@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/bin
 /usr/bin/kreadconfig6
@@ -70,13 +70,13 @@
 /usr/libexec/kf6/kconf_update
 /usr/lib/libKF6ConfigCore.so
 /usr/lib/libKF6ConfigCore.so.6
-/usr/lib/libKF6ConfigCore.so.6.26.0
+/usr/lib/libKF6ConfigCore.so.6.27.0
 /usr/lib/libKF6ConfigGui.so
 /usr/lib/libKF6ConfigGui.so.6
-/usr/lib/libKF6ConfigGui.so.6.26.0
+/usr/lib/libKF6ConfigGui.so.6.27.0
 /usr/lib/libKF6ConfigQml.so
 /usr/lib/libKF6ConfigQml.so.6
-/usr/lib/libKF6ConfigQml.so.6.26.0
+/usr/lib/libKF6ConfigQml.so.6.27.0
 /usr/lib/qml
 /usr/lib/qml/org
 /usr/lib/qml/org/kde
@@ -85,6 +85,9 @@
 /usr/lib/qml/org/kde/config/KF6ConfigQml.qmltypes
 /usr/lib/qml/org/kde/config/libKF6ConfigQmlplugin.so
 /usr/lib/qml/org/kde/config/qmldir
+/usr/metatypes
+/usr/metatypes/qt6kf6configcore_metatypes.json
+/usr/metatypes/qt6kf6configgui_metatypes.json
 /usr/share
 /usr/share/locale
 /usr/share/locale/af

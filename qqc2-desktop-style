@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/lib
 /usr/lib/cmake
@@ -204,6 +204,9 @@
 /usr/share/locale/tr
 /usr/share/locale/tr/LC_MESSAGES
 /usr/share/locale/tr/LC_MESSAGES/qqc2desktopstyle_qt.qm
+/usr/share/locale/ug
+/usr/share/locale/ug/LC_MESSAGES
+/usr/share/locale/ug/LC_MESSAGES/qqc2desktopstyle_qt.qm
 /usr/share/locale/uk
 /usr/share/locale/uk/LC_MESSAGES
 /usr/share/locale/uk/LC_MESSAGES/qqc2desktopstyle_qt.qm

@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -22,7 +22,7 @@
 /usr/lib/cmake/KF6Plotting/KF6PlottingTargets-release.cmake
 /usr/lib/libKF6Plotting.so
 /usr/lib/libKF6Plotting.so.6
-/usr/lib/libKF6Plotting.so.6.26.0
+/usr/lib/libKF6Plotting.so.6.27.0
 /usr/lib/plugins
 /usr/lib/plugins/designer
 /usr/lib/plugins/designer/kplotting6widgets.so

@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/bin
 /usr/bin/kfilemetadata_dump6
@@ -50,7 +50,7 @@
 /usr/lib/cmake/KF6FileMetaData/KF6FileMetaDataTargets-release.cmake
 /usr/lib/libKF6FileMetaData.so
 /usr/lib/libKF6FileMetaData.so.3
-/usr/lib/libKF6FileMetaData.so.6.26.0
+/usr/lib/libKF6FileMetaData.so.6.27.0
 /usr/lib/plugins
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/kfilemetadata
@@ -240,6 +240,9 @@
 /usr/share/locale/tr
 /usr/share/locale/tr/LC_MESSAGES
 /usr/share/locale/tr/LC_MESSAGES/kfilemetadata6.mo
+/usr/share/locale/ug
+/usr/share/locale/ug/LC_MESSAGES
+/usr/share/locale/ug/LC_MESSAGES/kfilemetadata6.mo
 /usr/share/locale/uk
 /usr/share/locale/uk/LC_MESSAGES
 /usr/share/locale/uk/LC_MESSAGES/kfilemetadata6.mo

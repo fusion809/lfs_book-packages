@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -33,7 +33,9 @@
 /usr/lib/cmake/KF6Runner/KF6RunnerTargets-release.cmake
 /usr/lib/libKF6Runner.so
 /usr/lib/libKF6Runner.so.6
-/usr/lib/libKF6Runner.so.6.26.0
+/usr/lib/libKF6Runner.so.6.27.0
+/usr/metatypes
+/usr/metatypes/qt6kf6runner_metatypes.json
 /usr/share
 /usr/share/dbus-1
 /usr/share/dbus-1/interfaces

@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/bin
 /usr/bin/kbuildsycoca6
@@ -31,7 +31,7 @@
 /usr/lib/cmake/KF6Service/KF6ServiceTargets-release.cmake
 /usr/lib/libKF6Service.so
 /usr/lib/libKF6Service.so.6
-/usr/lib/libKF6Service.so.6.26.0
+/usr/lib/libKF6Service.so.6.27.0
 /usr/share
 /usr/share/locale
 /usr/share/locale/af

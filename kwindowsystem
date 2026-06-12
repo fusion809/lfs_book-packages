@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -49,7 +49,7 @@
 /usr/lib/cmake/KF6WindowSystem/KF6WindowSystemTargets-release.cmake
 /usr/lib/libKF6WindowSystem.so
 /usr/lib/libKF6WindowSystem.so.6
-/usr/lib/libKF6WindowSystem.so.6.26.0
+/usr/lib/libKF6WindowSystem.so.6.27.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/KF6WindowSystem.pc
 /usr/lib/plugins

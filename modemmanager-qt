@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -60,7 +60,7 @@
 /usr/lib/cmake/KF6ModemManagerQt/KF6ModemManagerQtTargets-release.cmake
 /usr/lib/libKF6ModemManagerQt.so
 /usr/lib/libKF6ModemManagerQt.so.6
-/usr/lib/libKF6ModemManagerQt.so.6.26.0
+/usr/lib/libKF6ModemManagerQt.so.6.27.0
 /usr/share
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/modemmanagerqt.categories

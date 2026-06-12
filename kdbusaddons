@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/bin
 /usr/bin/kquitapp6
@@ -24,7 +24,7 @@
 /usr/lib/cmake/KF6DBusAddons/KF6dbus.service.in
 /usr/lib/libKF6DBusAddons.so
 /usr/lib/libKF6DBusAddons.so.6
-/usr/lib/libKF6DBusAddons.so.6.26.0
+/usr/lib/libKF6DBusAddons.so.6.27.0
 /usr/share
 /usr/share/locale
 /usr/share/locale/ar
@@ -195,6 +195,9 @@
 /usr/share/locale/tr
 /usr/share/locale/tr/LC_MESSAGES
 /usr/share/locale/tr/LC_MESSAGES/kdbusaddons6_qt.qm
+/usr/share/locale/ug
+/usr/share/locale/ug/LC_MESSAGES
+/usr/share/locale/ug/LC_MESSAGES/kdbusaddons6_qt.qm
 /usr/share/locale/uk
 /usr/share/locale/uk/LC_MESSAGES
 /usr/share/locale/uk/LC_MESSAGES/kdbusaddons6_qt.qm

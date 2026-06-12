@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -42,7 +42,7 @@
 /usr/lib/cmake/KF6ConfigWidgets/KF6ConfigWidgetsTargets-release.cmake
 /usr/lib/libKF6ConfigWidgets.so
 /usr/lib/libKF6ConfigWidgets.so.6
-/usr/lib/libKF6ConfigWidgets.so.6.26.0
+/usr/lib/libKF6ConfigWidgets.so.6.27.0
 /usr/lib/plugins
 /usr/lib/plugins/designer
 /usr/lib/plugins/designer/kconfigwidgets6widgets.so
@@ -52,6 +52,8 @@
 /usr/share/locale/af/kf6_entry.desktop
 /usr/share/locale/af/LC_MESSAGES
 /usr/share/locale/af/LC_MESSAGES/kconfigwidgets6.mo
+/usr/share/locale/am
+/usr/share/locale/am/kf6_entry.desktop
 /usr/share/locale/ar
 /usr/share/locale/ar/kf6_entry.desktop
 /usr/share/locale/ar/LC_MESSAGES

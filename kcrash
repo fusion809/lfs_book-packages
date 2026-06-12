@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -16,7 +16,7 @@
 /usr/lib/cmake/KF6Crash/KF6CrashTargets-release.cmake
 /usr/lib/libKF6Crash.so
 /usr/lib/libKF6Crash.so.6
-/usr/lib/libKF6Crash.so.6.26.0
+/usr/lib/libKF6Crash.so.6.27.0
 /usr/share
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/kcrash.categories

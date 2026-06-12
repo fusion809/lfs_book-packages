@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -30,7 +30,7 @@
 /usr/lib/cmake/KF6JobWidgets/KF6JobWidgetsTargets-release.cmake
 /usr/lib/libKF6JobWidgets.so
 /usr/lib/libKF6JobWidgets.so.6
-/usr/lib/libKF6JobWidgets.so.6.26.0
+/usr/lib/libKF6JobWidgets.so.6.27.0
 /usr/share
 /usr/share/dbus-1
 /usr/share/dbus-1/interfaces

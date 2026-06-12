@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -56,13 +56,13 @@
 /usr/lib/cmake/KF6People/KPeopleTargets-release.cmake
 /usr/lib/libKF6PeopleBackend.so
 /usr/lib/libKF6PeopleBackend.so.6
-/usr/lib/libKF6PeopleBackend.so.6.26.0
+/usr/lib/libKF6PeopleBackend.so.6.27.0
 /usr/lib/libKF6People.so
 /usr/lib/libKF6People.so.6
-/usr/lib/libKF6People.so.6.26.0
+/usr/lib/libKF6People.so.6.27.0
 /usr/lib/libKF6PeopleWidgets.so
 /usr/lib/libKF6PeopleWidgets.so.6
-/usr/lib/libKF6PeopleWidgets.so.6.26.0
+/usr/lib/libKF6PeopleWidgets.so.6.27.0
 /usr/lib/plugins
 /usr/lib/plugins/kpeople
 /usr/lib/plugins/kpeople/datasource
@@ -239,6 +239,9 @@
 /usr/share/locale/tr
 /usr/share/locale/tr/LC_MESSAGES
 /usr/share/locale/tr/LC_MESSAGES/kpeople6.mo
+/usr/share/locale/ug
+/usr/share/locale/ug/LC_MESSAGES
+/usr/share/locale/ug/LC_MESSAGES/kpeople6.mo
 /usr/share/locale/uk
 /usr/share/locale/uk/LC_MESSAGES
 /usr/share/locale/uk/LC_MESSAGES/kpeople6.mo

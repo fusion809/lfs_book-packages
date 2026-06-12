@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -82,7 +82,7 @@
 /usr/lib/cmake/KF6Syndication/KF6SyndicationTargets-release.cmake
 /usr/lib/libKF6Syndication.so
 /usr/lib/libKF6Syndication.so.6
-/usr/lib/libKF6Syndication.so.6.26.0
+/usr/lib/libKF6Syndication.so.6.27.0
 /usr/share
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/syndication.categories

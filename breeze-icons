@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -16,7 +16,7 @@
 /usr/lib/cmake/KF6BreezeIcons/KF6BreezeIconsTargets-noconfig.cmake
 /usr/lib/libKF6BreezeIcons.so
 /usr/lib/libKF6BreezeIcons.so.6
-/usr/lib/libKF6BreezeIcons.so.6.26.0
+/usr/lib/libKF6BreezeIcons.so.6.27.0
 /usr/share
 /usr/share/icons
 /usr/share/icons/breeze
@@ -1560,8 +1560,6 @@
 /usr/share/icons/breeze/actions/16/im-ban-kick-user-symbolic.svg
 /usr/share/icons/breeze/actions/16/im-ban-user.svg
 /usr/share/icons/breeze/actions/16/im-ban-user-symbolic.svg
-/usr/share/icons/breeze/actions/16/im-facebook.svg
-/usr/share/icons/breeze/actions/16/im-facebook-symbolic.svg
 /usr/share/icons/breeze/actions/16/im-icq.svg
 /usr/share/icons/breeze/actions/16/im-icq-symbolic.svg
 /usr/share/icons/breeze/actions/16/im-identi.ca.svg
@@ -1576,12 +1574,6 @@
 /usr/share/icons/breeze/actions/16/im-kick-user-symbolic.svg
 /usr/share/icons/breeze/actions/16/im-msn.svg
 /usr/share/icons/breeze/actions/16/im-msn-symbolic.svg
-/usr/share/icons/breeze/actions/16/im-qq.svg
-/usr/share/icons/breeze/actions/16/im-qq-symbolic.svg
-/usr/share/icons/breeze/actions/16/im-skype.svg
-/usr/share/icons/breeze/actions/16/im-skype-symbolic.svg
-/usr/share/icons/breeze/actions/16/im-twitter.svg
-/usr/share/icons/breeze/actions/16/im-twitter-symbolic.svg
 /usr/share/icons/breeze/actions/16/im-user-away.svg
 /usr/share/icons/breeze/actions/16/im-user-away-symbolic.svg
 /usr/share/icons/breeze/actions/16/im-user-busy.svg
@@ -1594,8 +1586,6 @@
 /usr/share/icons/breeze/actions/16/im-user-symbolic.svg
 /usr/share/icons/breeze/actions/16/im-yahoo.svg
 /usr/share/icons/breeze/actions/16/im-yahoo-symbolic.svg
-/usr/share/icons/breeze/actions/16/im-youtube.svg
-/usr/share/icons/breeze/actions/16/im-youtube-symbolic.svg
 /usr/share/icons/breeze/actions/16/Info-amarok.svg
 /usr/share/icons/breeze/actions/16/Info-amarok-symbolic.svg
 /usr/share/icons/breeze/actions/16/info.svg
@@ -5241,14 +5231,6 @@
 /usr/share/icons/breeze/actions/22/im-ban-kick-user-symbolic.svg
 /usr/share/icons/breeze/actions/22/im-ban-user.svg
 /usr/share/icons/breeze/actions/22/im-ban-user-symbolic.svg
-/usr/share/icons/breeze/actions/22/im-facebook.svg
-/usr/share/icons/breeze/actions/22/im-facebook-symbolic.svg
-/usr/share/icons/breeze/actions/22/im-gadugadu.svg
-/usr/share/icons/breeze/actions/22/im-gadugadu-symbolic.svg
-/usr/share/icons/breeze/actions/22/im-google.svg
-/usr/share/icons/breeze/actions/22/im-google-symbolic.svg
-/usr/share/icons/breeze/actions/22/im-google-talk.svg
-/usr/share/icons/breeze/actions/22/im-google-talk-symbolic.svg
 /usr/share/icons/breeze/actions/22/im-icq.svg
 /usr/share/icons/breeze/actions/22/im-icq-symbolic.svg
 /usr/share/icons/breeze/actions/22/im-identi.ca.svg
@@ -5263,12 +5245,6 @@
 /usr/share/icons/breeze/actions/22/im-kick-user-symbolic.svg
 /usr/share/icons/breeze/actions/22/im-msn.svg
 /usr/share/icons/breeze/actions/22/im-msn-symbolic.svg
-/usr/share/icons/breeze/actions/22/im-qq.svg
-/usr/share/icons/breeze/actions/22/im-qq-symbolic.svg
-/usr/share/icons/breeze/actions/22/im-skype.svg
-/usr/share/icons/breeze/actions/22/im-skype-symbolic.svg
-/usr/share/icons/breeze/actions/22/im-twitter.svg
-/usr/share/icons/breeze/actions/22/im-twitter-symbolic.svg
 /usr/share/icons/breeze/actions/22/im-user-away.svg
 /usr/share/icons/breeze/actions/22/im-user-away-symbolic.svg
 /usr/share/icons/breeze/actions/22/im-user-busy.svg
@@ -5281,8 +5257,6 @@
 /usr/share/icons/breeze/actions/22/im-user-symbolic.svg
 /usr/share/icons/breeze/actions/22/im-yahoo.svg
 /usr/share/icons/breeze/actions/22/im-yahoo-symbolic.svg
-/usr/share/icons/breeze/actions/22/im-youtube.svg
-/usr/share/icons/breeze/actions/22/im-youtube-symbolic.svg
 /usr/share/icons/breeze/actions/22/Info-amarok.svg
 /usr/share/icons/breeze/actions/22/Info-amarok-symbolic.svg
 /usr/share/icons/breeze/actions/22/info.svg
@@ -8560,7 +8534,6 @@
 /usr/share/icons/breeze/apps/48/accessories-character-map.svg
 /usr/share/icons/breeze/apps/48/accessories-screenshot-tool.svg
 /usr/share/icons/breeze/apps/48/accessories-text-editor.svg
-/usr/share/icons/breeze/apps/48/acroread.svg
 /usr/share/icons/breeze/apps/48/akregator.svg
 /usr/share/icons/breeze/apps/48/alligator.svg
 /usr/share/icons/breeze/apps/48/amarok.svg
@@ -10494,8 +10467,6 @@
 /usr/share/icons/breeze-dark/actions/16/im-ban-kick-user-symbolic.svg
 /usr/share/icons/breeze-dark/actions/16/im-ban-user.svg
 /usr/share/icons/breeze-dark/actions/16/im-ban-user-symbolic.svg
-/usr/share/icons/breeze-dark/actions/16/im-facebook.svg
-/usr/share/icons/breeze-dark/actions/16/im-facebook-symbolic.svg
 /usr/share/icons/breeze-dark/actions/16/im-icq.svg
 /usr/share/icons/breeze-dark/actions/16/im-icq-symbolic.svg
 /usr/share/icons/breeze-dark/actions/16/im-identi.ca.svg
@@ -10510,12 +10481,6 @@
 /usr/share/icons/breeze-dark/actions/16/im-kick-user-symbolic.svg
 /usr/share/icons/breeze-dark/actions/16/im-msn.svg
 /usr/share/icons/breeze-dark/actions/16/im-msn-symbolic.svg
-/usr/share/icons/breeze-dark/actions/16/im-qq.svg
-/usr/share/icons/breeze-dark/actions/16/im-qq-symbolic.svg
-/usr/share/icons/breeze-dark/actions/16/im-skype.svg
-/usr/share/icons/breeze-dark/actions/16/im-skype-symbolic.svg
-/usr/share/icons/breeze-dark/actions/16/im-twitter.svg
-/usr/share/icons/breeze-dark/actions/16/im-twitter-symbolic.svg
 /usr/share/icons/breeze-dark/actions/16/im-user-away.svg
 /usr/share/icons/breeze-dark/actions/16/im-user-away-symbolic.svg
 /usr/share/icons/breeze-dark/actions/16/im-user-busy.svg
@@ -10528,8 +10493,6 @@
 /usr/share/icons/breeze-dark/actions/16/im-user-symbolic.svg
 /usr/share/icons/breeze-dark/actions/16/im-yahoo.svg
 /usr/share/icons/breeze-dark/actions/16/im-yahoo-symbolic.svg
-/usr/share/icons/breeze-dark/actions/16/im-youtube.svg
-/usr/share/icons/breeze-dark/actions/16/im-youtube-symbolic.svg
 /usr/share/icons/breeze-dark/actions/16/Info-amarok.svg
 /usr/share/icons/breeze-dark/actions/16/Info-amarok-symbolic.svg
 /usr/share/icons/breeze-dark/actions/16/info.svg
@@ -14175,14 +14138,6 @@
 /usr/share/icons/breeze-dark/actions/22/im-ban-kick-user-symbolic.svg
 /usr/share/icons/breeze-dark/actions/22/im-ban-user.svg
 /usr/share/icons/breeze-dark/actions/22/im-ban-user-symbolic.svg
-/usr/share/icons/breeze-dark/actions/22/im-facebook.svg
-/usr/share/icons/breeze-dark/actions/22/im-facebook-symbolic.svg
-/usr/share/icons/breeze-dark/actions/22/im-gadugadu.svg
-/usr/share/icons/breeze-dark/actions/22/im-gadugadu-symbolic.svg
-/usr/share/icons/breeze-dark/actions/22/im-google.svg
-/usr/share/icons/breeze-dark/actions/22/im-google-symbolic.svg
-/usr/share/icons/breeze-dark/actions/22/im-google-talk.svg
-/usr/share/icons/breeze-dark/actions/22/im-google-talk-symbolic.svg
 /usr/share/icons/breeze-dark/actions/22/im-icq.svg
 /usr/share/icons/breeze-dark/actions/22/im-icq-symbolic.svg
 /usr/share/icons/breeze-dark/actions/22/im-identi.ca.svg
@@ -14197,12 +14152,6 @@
 /usr/share/icons/breeze-dark/actions/22/im-kick-user-symbolic.svg
 /usr/share/icons/breeze-dark/actions/22/im-msn.svg
 /usr/share/icons/breeze-dark/actions/22/im-msn-symbolic.svg
-/usr/share/icons/breeze-dark/actions/22/im-qq.svg
-/usr/share/icons/breeze-dark/actions/22/im-qq-symbolic.svg
-/usr/share/icons/breeze-dark/actions/22/im-skype.svg
-/usr/share/icons/breeze-dark/actions/22/im-skype-symbolic.svg
-/usr/share/icons/breeze-dark/actions/22/im-twitter.svg
-/usr/share/icons/breeze-dark/actions/22/im-twitter-symbolic.svg
 /usr/share/icons/breeze-dark/actions/22/im-user-away.svg
 /usr/share/icons/breeze-dark/actions/22/im-user-away-symbolic.svg
 /usr/share/icons/breeze-dark/actions/22/im-user-busy.svg
@@ -14215,8 +14164,6 @@
 /usr/share/icons/breeze-dark/actions/22/im-user-symbolic.svg
 /usr/share/icons/breeze-dark/actions/22/im-yahoo.svg
 /usr/share/icons/breeze-dark/actions/22/im-yahoo-symbolic.svg
-/usr/share/icons/breeze-dark/actions/22/im-youtube.svg
-/usr/share/icons/breeze-dark/actions/22/im-youtube-symbolic.svg
 /usr/share/icons/breeze-dark/actions/22/Info-amarok.svg
 /usr/share/icons/breeze-dark/actions/22/Info-amarok-symbolic.svg
 /usr/share/icons/breeze-dark/actions/22/info.svg
@@ -17494,7 +17441,6 @@
 /usr/share/icons/breeze-dark/apps/48/accessories-character-map.svg
 /usr/share/icons/breeze-dark/apps/48/accessories-screenshot-tool.svg
 /usr/share/icons/breeze-dark/apps/48/accessories-text-editor.svg
-/usr/share/icons/breeze-dark/apps/48/acroread.svg
 /usr/share/icons/breeze-dark/apps/48/akregator.svg
 /usr/share/icons/breeze-dark/apps/48/alligator.svg
 /usr/share/icons/breeze-dark/apps/48/amarok.svg

@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -88,7 +88,7 @@
 /usr/lib/cmake/KF6CoreAddons/KF6CoreAddonsTargets-release.cmake
 /usr/lib/libKF6CoreAddons.so
 /usr/lib/libKF6CoreAddons.so.6
-/usr/lib/libKF6CoreAddons.so.6.26.0
+/usr/lib/libKF6CoreAddons.so.6.27.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/KF6CoreAddons.pc
 /usr/lib/qml
@@ -99,6 +99,8 @@
 /usr/lib/qml/org/kde/coreaddons/kde-qmlmodule.version
 /usr/lib/qml/org/kde/coreaddons/libkcoreaddonsplugin.so
 /usr/lib/qml/org/kde/coreaddons/qmldir
+/usr/metatypes
+/usr/metatypes/qt6kf6coreaddons_metatypes.json
 /usr/share
 /usr/share/kf6
 /usr/share/kf6/jsonschema
@@ -107,6 +109,9 @@
 /usr/share/locale/af
 /usr/share/locale/af/LC_MESSAGES
 /usr/share/locale/af/LC_MESSAGES/kcoreaddons6_qt.qm
+/usr/share/locale/am
+/usr/share/locale/am/LC_MESSAGES
+/usr/share/locale/am/LC_MESSAGES/kcoreaddons6_qt.qm
 /usr/share/locale/ar
 /usr/share/locale/ar/LC_MESSAGES
 /usr/share/locale/ar/LC_MESSAGES/kcoreaddons6_qt.qm

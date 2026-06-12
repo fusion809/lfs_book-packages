@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/bin
 /usr/bin/ksecretd
@@ -19,10 +19,10 @@
 /usr/lib/cmake/KF6Wallet/KF6WalletTargets.cmake
 /usr/lib/cmake/KF6Wallet/KF6WalletTargets-release.cmake
 /usr/lib/libKF6WalletBackend.so.6
-/usr/lib/libKF6WalletBackend.so.6.26.0
+/usr/lib/libKF6WalletBackend.so.6.27.0
 /usr/lib/libKF6Wallet.so
 /usr/lib/libKF6Wallet.so.6
-/usr/lib/libKF6Wallet.so.6.26.0
+/usr/lib/libKF6Wallet.so.6.27.0
 /usr/share
 /usr/share/applications
 /usr/share/applications/org.kde.ksecretd.desktop
@@ -315,6 +315,7 @@
 /usr/share/locale/tr/LC_MESSAGES/kwalletd6.mo
 /usr/share/locale/ug
 /usr/share/locale/ug/LC_MESSAGES
+/usr/share/locale/ug/LC_MESSAGES/kwallet6-query.mo
 /usr/share/locale/ug/LC_MESSAGES/kwalletd6.mo
 /usr/share/locale/uk
 /usr/share/locale/uk/LC_MESSAGES

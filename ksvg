@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -22,7 +22,7 @@
 /usr/lib/cmake/KF6Svg/KF6SvgTargets-release.cmake
 /usr/lib/libKF6Svg.so
 /usr/lib/libKF6Svg.so.6
-/usr/lib/libKF6Svg.so.6.26.0
+/usr/lib/libKF6Svg.so.6.27.0
 /usr/lib/qml
 /usr/lib/qml/org
 /usr/lib/qml/org/kde

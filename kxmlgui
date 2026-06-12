@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -54,7 +54,7 @@
 /usr/lib/cmake/KF6XmlGui/KF6XmlGuiTargets-release.cmake
 /usr/lib/libKF6XmlGui.so
 /usr/lib/libKF6XmlGui.so.6
-/usr/lib/libKF6XmlGui.so.6.26.0
+/usr/lib/libKF6XmlGui.so.6.27.0
 /usr/lib/plugins
 /usr/lib/plugins/designer
 /usr/lib/plugins/designer/kxmlgui6widgets.so
@@ -63,6 +63,9 @@
 /usr/share/locale/af
 /usr/share/locale/af/LC_MESSAGES
 /usr/share/locale/af/LC_MESSAGES/kxmlgui6.mo
+/usr/share/locale/am
+/usr/share/locale/am/LC_MESSAGES
+/usr/share/locale/am/LC_MESSAGES/kxmlgui6.mo
 /usr/share/locale/ar
 /usr/share/locale/ar/LC_MESSAGES
 /usr/share/locale/ar/LC_MESSAGES/kxmlgui6.mo

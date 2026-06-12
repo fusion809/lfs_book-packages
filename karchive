@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -38,7 +38,7 @@
 /usr/lib/cmake/KF6Archive/KF6ArchiveTargets-release.cmake
 /usr/lib/libKF6Archive.so
 /usr/lib/libKF6Archive.so.6
-/usr/lib/libKF6Archive.so.6.26.0
+/usr/lib/libKF6Archive.so.6.27.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/KF6Archive.pc
 /usr/share
@@ -163,6 +163,9 @@
 /usr/share/locale/tr
 /usr/share/locale/tr/LC_MESSAGES
 /usr/share/locale/tr/LC_MESSAGES/karchive6_qt.qm
+/usr/share/locale/ug
+/usr/share/locale/ug/LC_MESSAGES
+/usr/share/locale/ug/LC_MESSAGES/karchive6_qt.qm
 /usr/share/locale/uk
 /usr/share/locale/uk/LC_MESSAGES
 /usr/share/locale/uk/LC_MESSAGES/karchive6_qt.qm

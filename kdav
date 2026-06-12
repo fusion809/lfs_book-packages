@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -6,6 +6,8 @@
 /usr/include/KF6/KDAV/kdav
 /usr/include/KF6/KDAV/KDAV
 /usr/include/KF6/KDAV/KDAV/DavCollection
+/usr/include/KF6/KDAV/KDAV/DavCollectionCreateJob
+/usr/include/KF6/KDAV/kdav/davcollectioncreatejob.h
 /usr/include/KF6/KDAV/KDAV/DavCollectionDeleteJob
 /usr/include/KF6/KDAV/kdav/davcollectiondeletejob.h
 /usr/include/KF6/KDAV/kdav/davcollection.h
@@ -56,7 +58,7 @@
 /usr/lib/cmake/KF6DAV/KF6DAVTargets-release.cmake
 /usr/lib/libKF6DAV.so
 /usr/lib/libKF6DAV.so.6
-/usr/lib/libKF6DAV.so.6.26.0
+/usr/lib/libKF6DAV.so.6.27.0
 /usr/share
 /usr/share/locale
 /usr/share/locale/ar
@@ -197,6 +199,9 @@
 /usr/share/locale/tr
 /usr/share/locale/tr/LC_MESSAGES
 /usr/share/locale/tr/LC_MESSAGES/libkdav6.mo
+/usr/share/locale/ug
+/usr/share/locale/ug/LC_MESSAGES
+/usr/share/locale/ug/LC_MESSAGES/libkdav6.mo
 /usr/share/locale/uk
 /usr/share/locale/uk/LC_MESSAGES
 /usr/share/locale/uk/LC_MESSAGES/libkdav6.mo

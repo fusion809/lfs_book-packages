@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/lib
 /usr/lib/cmake
@@ -11,6 +11,7 @@
 /usr/lib/plugins/imageformats/kimg_avif.so
 /usr/lib/plugins/imageformats/kimg_dds.so
 /usr/lib/plugins/imageformats/kimg_eps.so
+/usr/lib/plugins/imageformats/kimg_ff.so
 /usr/lib/plugins/imageformats/kimg_hdr.so
 /usr/lib/plugins/imageformats/kimg_iff.so
 /usr/lib/plugins/imageformats/kimg_jp2.so

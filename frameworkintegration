@@ -1,4 +1,4 @@
-6.26.0
+6.27.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -21,7 +21,7 @@
 /usr/libexec/kf6/kpackagehandlers/knshandler
 /usr/lib/libKF6Style.so
 /usr/lib/libKF6Style.so.6
-/usr/lib/libKF6Style.so.6.26.0
+/usr/lib/libKF6Style.so.6.27.0
 /usr/lib/plugins
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/FrameworkIntegrationPlugin.so
