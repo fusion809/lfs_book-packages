@@ -1,31 +1,31 @@
 BUILD_FAILED
 --- ERROR LOG (Last 30 lines) ---
-26:37.00 1058 |     pub fn to_transform(&self) -> Cow<'_, Transform3D<f32, Src, Dst>> {
-26:37.00      |                                       +++
-26:45.08    Compiling webrender_bindings v0.1.0 (/sources/firefox-140.12.0esr.source/gfx/webrender_bindings)
-26:46.12 warning: hiding a lifetime that's elided elsewhere is confusing
-26:46.12    --> gfx/webrender_bindings/src/bindings.rs:430:13
-26:46.12     |
-26:46.12 430 |     fn lock(&mut self, id: ExternalImageId, channel_index: u8) -> ExternalImage {
-26:46.12     |             ^^^^^^^^^ the lifetime is elided here                 ^^^^^^^^^^^^^ the same lifetime is hidden here
-26:46.12     |
-26:46.12     = help: the same lifetime is referred to in inconsistent ways, making the signature confusing
-26:46.12     = note: `#[warn(mismatched_lifetime_syntaxes)]` on by default
-26:46.12 help: use `'_` for type paths
-26:46.12     |
-26:46.12 430 |     fn lock(&mut self, id: ExternalImageId, channel_index: u8) -> ExternalImage<'_> {
-26:46.12     |                                                                                ++++
-26:47.41    Compiling gkrust-shared v0.1.0 (/sources/firefox-140.12.0esr.source/toolkit/library/rust/shared)
-27:08.15 warning: `webrender_bindings` (lib) generated 1 warning (run `cargo fix --lib -p webrender_bindings` to apply 1 suggestion)
-31:26.64 warning: `webrender` (lib) generated 18 warnings (run `cargo fix --lib -p webrender` to apply 15 suggestions)
-31:26.64    Compiling gkrust v0.1.0 (/sources/firefox-140.12.0esr.source/toolkit/library/rust)
-44:05.30     Finished `release` profile [optimized] target(s) in 41m 55s
-44:08.40 toolkit/library/rust/libgkrust.a
-44:08.40 make[2]: *** [/sources/firefox-140.12.0esr.source/config/recurse.mk:34: compile] Error 2
-44:08.40 make[1]: *** [/sources/firefox-140.12.0esr.source/config/rules.mk:359: default] Error 2
-44:08.41 make: *** [client.mk:60: build] Error 2
-44:08.51 W 8 compiler warnings present.
-44:09.49 /usr/bin/notify-send '--app-name=Mozilla Build System' 'Mozilla Build System' 'Build failed'
+19:07.63 1058 |     pub fn to_transform(&self) -> Cow<'_, Transform3D<f32, Src, Dst>> {
+19:07.63      |                                       +++
+19:13.01    Compiling webrender_bindings v0.1.0 (/sources/firefox-140.12.0esr.source/gfx/webrender_bindings)
+19:13.79 warning: hiding a lifetime that's elided elsewhere is confusing
+19:13.79    --> gfx/webrender_bindings/src/bindings.rs:430:13
+19:13.79     |
+19:13.79 430 |     fn lock(&mut self, id: ExternalImageId, channel_index: u8) -> ExternalImage {
+19:13.79     |             ^^^^^^^^^ the lifetime is elided here                 ^^^^^^^^^^^^^ the same lifetime is hidden here
+19:13.79     |
+19:13.79     = help: the same lifetime is referred to in inconsistent ways, making the signature confusing
+19:13.79     = note: `#[warn(mismatched_lifetime_syntaxes)]` on by default
+19:13.79 help: use `'_` for type paths
+19:13.79     |
+19:13.79 430 |     fn lock(&mut self, id: ExternalImageId, channel_index: u8) -> ExternalImage<'_> {
+19:13.79     |                                                                                ++++
+19:14.71    Compiling gkrust-shared v0.1.0 (/sources/firefox-140.12.0esr.source/toolkit/library/rust/shared)
+19:31.32 warning: `webrender_bindings` (lib) generated 1 warning (run `cargo fix --lib -p webrender_bindings` to apply 1 suggestion)
+22:45.23 warning: `webrender` (lib) generated 18 warnings (run `cargo fix --lib -p webrender` to apply 15 suggestions)
+22:45.23    Compiling gkrust v0.1.0 (/sources/firefox-140.12.0esr.source/toolkit/library/rust)
+31:59.08     Finished `release` profile [optimized] target(s) in 30m 19s
+32:01.19 toolkit/library/rust/libgkrust.a
+32:01.19 make[2]: *** [/sources/firefox-140.12.0esr.source/config/recurse.mk:34: compile] Error 2
+32:01.19 make[1]: *** [/sources/firefox-140.12.0esr.source/config/rules.mk:359: default] Error 2
+32:01.19 make: *** [client.mk:60: build] Error 2
+32:01.29 W 8 compiler warnings present.
+32:01.86 /usr/bin/notify-send '--app-name=Mozilla Build System' 'Mozilla Build System' 'Build failed'
  Config object not found by mach.
 Creating the 'build' site at /sources/firefox-140.12.0esr.source/mozbuild/srcdirs/firefox-140.12.0esr.source-ba89a67ae46e/_virtualenvs/build
 Configure complete!
