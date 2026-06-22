@@ -1,4 +1,4 @@
-6.6.5
+6.7.0
 /usr
 /usr/lib
 /usr/lib/libkbolt.so
@@ -161,13 +161,13 @@
 /usr/share/locale/pl/LC_MESSAGES/kcm_bolt.mo
 /usr/share/locale/pl/LC_MESSAGES/kded_bolt.mo
 /usr/share/locale/pt
+/usr/share/locale/pt/LC_MESSAGES
+/usr/share/locale/pt/LC_MESSAGES/kcm_bolt.mo
+/usr/share/locale/pt/LC_MESSAGES/kded_bolt.mo
 /usr/share/locale/pt_BR
 /usr/share/locale/pt_BR/LC_MESSAGES
 /usr/share/locale/pt_BR/LC_MESSAGES/kcm_bolt.mo
 /usr/share/locale/pt_BR/LC_MESSAGES/kded_bolt.mo
-/usr/share/locale/pt/LC_MESSAGES
-/usr/share/locale/pt/LC_MESSAGES/kcm_bolt.mo
-/usr/share/locale/pt/LC_MESSAGES/kded_bolt.mo
 /usr/share/locale/ro
 /usr/share/locale/ro/LC_MESSAGES
 /usr/share/locale/ro/LC_MESSAGES/kcm_bolt.mo

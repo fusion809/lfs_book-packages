@@ -1,39 +1,32 @@
-140.11.0esr.source
-/usr/bin
-/usr/bin/firefox
-/usr/lib/firefox
-/usr/lib/firefox/application.ini
-/usr/lib/firefox/browser
-/usr/lib/firefox/browser/chrome
-/usr/lib/firefox/browser/chrome/icons
-/usr/lib/firefox/browser/chrome/icons/default
-/usr/lib/firefox/browser/omni.ja
-/usr/lib/firefox/defaults
-/usr/lib/firefox/defaults/pref
-/usr/lib/firefox/defaults/pref/channel-prefs.js
-/usr/lib/firefox/dependentlibs.list
-/usr/lib/firefox/firefox
-/usr/lib/firefox/firefox-bin
-/usr/lib/firefox/fonts
-/usr/lib/firefox/glxtest
-/usr/lib/firefox/gmp-clearkey
-/usr/lib/firefox/gmp-clearkey/0.1
-/usr/lib/firefox/gmp-clearkey/0.1/libclearkey.so
-/usr/lib/firefox/gmp-clearkey/0.1/manifest.json
-/usr/lib/firefox/libgkcodecs.so
-/usr/lib/firefox/liblgpllibs.so
-/usr/lib/firefox/libmozavcodec.so
-/usr/lib/firefox/libmozavutil.so
-/usr/lib/firefox/libmozgtk.so
-/usr/lib/firefox/libmozsandbox.so
-/usr/lib/firefox/libmozsqlite3.so
-/usr/lib/firefox/libmozwayland.so
-/usr/lib/firefox/libxul.so
-/usr/lib/firefox/omni.ja
-/usr/lib/firefox/pingsender
-/usr/lib/firefox/platform.ini
-/usr/lib/firefox/removed-files
-/usr/lib/firefox/vaapitest
-/usr/share/applications/firefox.desktop
-/usr/share/pixmaps
-/usr/share/pixmaps/firefox.png
+BUILD_FAILED
+--- ERROR LOG (Last 30 lines) ---
+20:04.51 1058 |     pub fn to_transform(&self) -> Cow<'_, Transform3D<f32, Src, Dst>> {
+20:04.51      |                                       +++
+20:10.41    Compiling webrender_bindings v0.1.0 (/sources/firefox-140.12.0esr.source/gfx/webrender_bindings)
+20:11.12 warning: hiding a lifetime that's elided elsewhere is confusing
+20:11.12    --> gfx/webrender_bindings/src/bindings.rs:430:13
+20:11.12     |
+20:11.12 430 |     fn lock(&mut self, id: ExternalImageId, channel_index: u8) -> ExternalImage {
+20:11.12     |             ^^^^^^^^^ the lifetime is elided here                 ^^^^^^^^^^^^^ the same lifetime is hidden here
+20:11.12     |
+20:11.12     = help: the same lifetime is referred to in inconsistent ways, making the signature confusing
+20:11.12     = note: `#[warn(mismatched_lifetime_syntaxes)]` on by default
+20:11.12 help: use `'_` for type paths
+20:11.12     |
+20:11.13 430 |     fn lock(&mut self, id: ExternalImageId, channel_index: u8) -> ExternalImage<'_> {
+20:11.13     |                                                                                ++++
+20:12.03    Compiling gkrust-shared v0.1.0 (/sources/firefox-140.12.0esr.source/toolkit/library/rust/shared)
+20:30.52 warning: `webrender_bindings` (lib) generated 1 warning (run `cargo fix --lib -p webrender_bindings` to apply 1 suggestion)
+24:32.11 warning: `webrender` (lib) generated 18 warnings (run `cargo fix --lib -p webrender` to apply 15 suggestions)
+24:32.11    Compiling gkrust v0.1.0 (/sources/firefox-140.12.0esr.source/toolkit/library/rust)
+37:40.59     Finished `release` profile [optimized] target(s) in 35m 53s
+37:43.17 toolkit/library/rust/libgkrust.a
+37:43.17 make[2]: *** [/sources/firefox-140.12.0esr.source/config/recurse.mk:34: compile] Error 2
+37:43.18 make[1]: *** [/sources/firefox-140.12.0esr.source/config/rules.mk:359: default] Error 2
+37:43.18 make: *** [client.mk:60: build] Error 2
+37:43.38 W 8 compiler warnings present.
+37:44.18 /usr/bin/notify-send '--app-name=Mozilla Build System' 'Mozilla Build System' 'Build failed'
+ Config object not found by mach.
+Creating the 'build' site at /sources/firefox-140.12.0esr.source/mozbuild/srcdirs/firefox-140.12.0esr.source-ba89a67ae46e/_virtualenvs/build
+Configure complete!
+Be sure to run |mach build| to pick up any changes
