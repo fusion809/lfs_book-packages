@@ -1,4 +1,6 @@
-22.1.0
+22.1.8.src
+/usr
+/usr/share
 /usr/share/clc
 /usr/share/clc/amdgcn-amd-amdhsa.bc
 /usr/share/clc/aruba-r600--.bc

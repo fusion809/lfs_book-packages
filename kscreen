@@ -1,4 +1,4 @@
-6.7.0
+6.7.1
 /usr
 /usr/bin
 /usr/bin/hdrcalibrator
@@ -171,6 +171,7 @@
 /usr/share/locale/hu/LC_MESSAGES/hdrcalibrator.mo
 /usr/share/locale/hu/LC_MESSAGES/kcm_kscreen.mo
 /usr/share/locale/hu/LC_MESSAGES/kscreen_common.mo
+/usr/share/locale/hu/LC_MESSAGES/kscreen_osd.mo
 /usr/share/locale/hu/LC_MESSAGES/plasma_applet_org.kde.kscreen.mo
 /usr/share/locale/ia
 /usr/share/locale/ia/LC_MESSAGES

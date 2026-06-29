@@ -1,4 +1,4 @@
-6.6.5
+6.7.1
 /usr
 /usr/bin
 /usr/bin/plasma-welcome
@@ -16,11 +16,11 @@
 /usr/lib/qml/org/kde/plasma/welcome/ApplicationIcon.qml
 /usr/lib/qml/org/kde/plasma/welcome/GenericPage.qml
 /usr/lib/qml/org/kde/plasma/welcome/KCMPage.qml
-/usr/lib/qml/org/kde/plasma/welcome/kde-qmlmodule.version
 /usr/lib/qml/org/kde/plasma/welcome/Page.qml
+/usr/lib/qml/org/kde/plasma/welcome/ScrollablePage.qml
+/usr/lib/qml/org/kde/plasma/welcome/kde-qmlmodule.version
 /usr/lib/qml/org/kde/plasma/welcome/plasma-welcome-public.qmltypes
 /usr/lib/qml/org/kde/plasma/welcome/qmldir
-/usr/lib/qml/org/kde/plasma/welcome/ScrollablePage.qml
 /usr/share
 /usr/share/applications
 /usr/share/applications/org.kde.plasma-welcome.desktop
@@ -131,11 +131,11 @@
 /usr/share/locale/pl/LC_MESSAGES
 /usr/share/locale/pl/LC_MESSAGES/plasma-welcome.mo
 /usr/share/locale/pt
+/usr/share/locale/pt/LC_MESSAGES
+/usr/share/locale/pt/LC_MESSAGES/plasma-welcome.mo
 /usr/share/locale/pt_BR
 /usr/share/locale/pt_BR/LC_MESSAGES
 /usr/share/locale/pt_BR/LC_MESSAGES/plasma-welcome.mo
-/usr/share/locale/pt/LC_MESSAGES
-/usr/share/locale/pt/LC_MESSAGES/plasma-welcome.mo
 /usr/share/locale/ro
 /usr/share/locale/ro/LC_MESSAGES
 /usr/share/locale/ro/LC_MESSAGES/plasma-welcome.mo
@@ -151,6 +151,9 @@
 /usr/share/locale/sl
 /usr/share/locale/sl/LC_MESSAGES
 /usr/share/locale/sl/LC_MESSAGES/plasma-welcome.mo
+/usr/share/locale/sv
+/usr/share/locale/sv/LC_MESSAGES
+/usr/share/locale/sv/LC_MESSAGES/plasma-welcome.mo
 /usr/share/locale/ta
 /usr/share/locale/ta/LC_MESSAGES
 /usr/share/locale/ta/LC_MESSAGES/plasma-welcome.mo

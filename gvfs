@@ -1,4 +1,4 @@
-1.60.0
+1.61.1
 /usr
 /usr/lib
 /usr/lib/gio
@@ -18,9 +18,6 @@
 /usr/libexec/gvfs-udisks2-volume-monitor
 /usr/libexec/gvfsd
 /usr/libexec/gvfsd-admin
-/usr/libexec/gvfsd-afp
-/usr/libexec/gvfsd-afp-browse
-/usr/libexec/gvfsd-archive
 /usr/libexec/gvfsd-cdda
 /usr/libexec/gvfsd-computer
 /usr/libexec/gvfsd-dav
@@ -47,9 +44,6 @@
 /usr/share/gvfs
 /usr/share/gvfs/mounts
 /usr/share/gvfs/mounts/admin.mount
-/usr/share/gvfs/mounts/afp-browse.mount
-/usr/share/gvfs/mounts/afp.mount
-/usr/share/gvfs/mounts/archive.mount
 /usr/share/gvfs/mounts/cdda.mount
 /usr/share/gvfs/mounts/computer.mount
 /usr/share/gvfs/mounts/dav.mount
@@ -198,6 +192,9 @@
 /usr/share/locale/ku
 /usr/share/locale/ku/LC_MESSAGES
 /usr/share/locale/ku/LC_MESSAGES/gvfs.mo
+/usr/share/locale/lo
+/usr/share/locale/lo/LC_MESSAGES
+/usr/share/locale/lo/LC_MESSAGES/gvfs.mo
 /usr/share/locale/lt
 /usr/share/locale/lt/LC_MESSAGES
 /usr/share/locale/lt/LC_MESSAGES/gvfs.mo

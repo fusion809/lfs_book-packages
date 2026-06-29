@@ -1,5 +1,6 @@
 1.79.2
 /etc/xml/catalog
+/usr/share/doc/docbook-xsl-nons-1.79.2
 /usr/share/doc/docbook-xsl-nons-1.79.2/AUTHORS
 /usr/share/doc/docbook-xsl-nons-1.79.2/COPYING
 /usr/share/doc/docbook-xsl-nons-1.79.2/LICENSE
@@ -1220,7 +1221,9 @@
 /usr/share/doc/docbook-xsl-nons-1.79.2/website/toc.spacer.graphic.html
 /usr/share/doc/docbook-xsl-nons-1.79.2/website/toc.spacer.image.html
 /usr/share/doc/docbook-xsl-nons-1.79.2/website/toc.spacer.text.html
+/usr/share/xml/docbook/xsl-stylesheets-nons-1.79.2
 /usr/share/xml/docbook/xsl-stylesheets-nons-1.79.2/VERSION
+/usr/share/xml/docbook/xsl-stylesheets-nons-1.79.2/VERSION.xsl
 /usr/share/xml/docbook/xsl-stylesheets-nons-1.79.2/assembly/README
 /usr/share/xml/docbook/xsl-stylesheets-nons-1.79.2/assembly/assemble.xsl
 /usr/share/xml/docbook/xsl-stylesheets-nons-1.79.2/assembly/schema/assembly51b7.rnc
@@ -3049,12 +3052,3 @@
 /usr/share/xml/docbook/xsl-stylesheets-nons-1.79.2/xhtml5/xhtml-docbook.xsl
 /usr/share/xml/docbook/xsl-stylesheets-nons-1.79.2/xhtml5/xhtml-profile-docbook.xsl
 /usr/share/xml/docbook/xsl-stylesheets-nons-1.79.2/xhtml5/xhtml2xhtml5.xsl
-VERSION
-removed /usr/share/doc/docbook-xsl-nons-1.79.2/NEWS
-removed /usr/share/doc/docbook-xsl-nons-1.79.2/NEWS.html
-removed /usr/share/doc/docbook-xsl-nons-1.79.2/NEWS.xml
-removed /usr/share/doc/docbook-xsl-nons-1.79.2/README.txt
-removed /usr/share/doc/docbook-xsl-nons-1.79.2/RELEASE-NOTES.html
-removed /usr/share/doc/docbook-xsl-nons-1.79.2/RELEASE-NOTES.pdf
-removed /usr/share/doc/docbook-xsl-nons-1.79.2/RELEASE-NOTES.txt
-removed /usr/share/doc/docbook-xsl-nons-1.79.2/RELEASE-NOTES.xml

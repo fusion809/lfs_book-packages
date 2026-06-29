@@ -1,4 +1,4 @@
-2.1.0
+2.1.1
 /usr
 /usr/bin
 /usr/bin/gnupg-key-manage
@@ -10,7 +10,7 @@
 /usr/lib/libgpgme.la
 /usr/lib/libgpgme.so
 /usr/lib/libgpgme.so.45
-/usr/lib/libgpgme.so.45.1.0
+/usr/lib/libgpgme.so.45.1.1
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/gpgme-glib.pc
 /usr/lib/pkgconfig/gpgme.pc
@@ -20,10 +20,10 @@
 /usr/share/common-lisp
 /usr/share/common-lisp/source
 /usr/share/common-lisp/source/gpgme
-/usr/share/common-lisp/source/gpgme/gpgme.asd
 /usr/share/common-lisp/source/gpgme/gpgme-grovel.lisp
-/usr/share/common-lisp/source/gpgme/gpgme.lisp
 /usr/share/common-lisp/source/gpgme/gpgme-package.lisp
+/usr/share/common-lisp/source/gpgme/gpgme.asd
+/usr/share/common-lisp/source/gpgme/gpgme.lisp
 /usr/share/info
 /usr/share/info/dir
 /usr/share/info/gpgme.info

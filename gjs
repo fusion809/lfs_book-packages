@@ -1,4 +1,4 @@
-1.88.0
+1.89.1
 /usr
 /usr/bin
 /usr/bin/gjs
@@ -173,6 +173,7 @@
 /usr/libexec/installed-tests/gjs/js/testGObjectInterface.js
 /usr/libexec/installed-tests/gjs/js/testGObjectValue.js
 /usr/libexec/installed-tests/gjs/js/testGTypeClass.js
+/usr/libexec/installed-tests/gjs/js/testGdkPixbuf.js
 /usr/libexec/installed-tests/gjs/js/testGettext.js
 /usr/libexec/installed-tests/gjs/js/testGio.js
 /usr/libexec/installed-tests/gjs/js/testGlobal.js
@@ -269,6 +270,7 @@
 /usr/share/installed-tests/gjs/testGObjectInterface.test
 /usr/share/installed-tests/gjs/testGObjectValue.test
 /usr/share/installed-tests/gjs/testGTypeClass.test
+/usr/share/installed-tests/gjs/testGdkPixbuf.test
 /usr/share/installed-tests/gjs/testGettext.test
 /usr/share/installed-tests/gjs/testGio.test
 /usr/share/installed-tests/gjs/testGlobal.test

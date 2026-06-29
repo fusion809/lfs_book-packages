@@ -7,10 +7,6 @@
 /usr/include
 /usr/include/libxml2
 /usr/include/libxml2/libxml
-/usr/include/libxml2/libxml/HTMLparser.h
-/usr/include/libxml2/libxml/HTMLtree.h
-/usr/include/libxml2/libxml/SAX.h
-/usr/include/libxml2/libxml/SAX2.h
 /usr/include/libxml2/libxml/c14n.h
 /usr/include/libxml2/libxml/catalog.h
 /usr/include/libxml2/libxml/chvalid.h
@@ -20,6 +16,8 @@
 /usr/include/libxml2/libxml/entities.h
 /usr/include/libxml2/libxml/globals.h
 /usr/include/libxml2/libxml/hash.h
+/usr/include/libxml2/libxml/HTMLparser.h
+/usr/include/libxml2/libxml/HTMLtree.h
 /usr/include/libxml2/libxml/list.h
 /usr/include/libxml2/libxml/nanoftp.h
 /usr/include/libxml2/libxml/nanohttp.h
@@ -27,6 +25,8 @@
 /usr/include/libxml2/libxml/parserInternals.h
 /usr/include/libxml2/libxml/pattern.h
 /usr/include/libxml2/libxml/relaxng.h
+/usr/include/libxml2/libxml/SAX2.h
+/usr/include/libxml2/libxml/SAX.h
 /usr/include/libxml2/libxml/schemasInternals.h
 /usr/include/libxml2/libxml/schematron.h
 /usr/include/libxml2/libxml/threads.h
@@ -35,10 +35,10 @@
 /usr/include/libxml2/libxml/valid.h
 /usr/include/libxml2/libxml/xinclude.h
 /usr/include/libxml2/libxml/xlink.h
-/usr/include/libxml2/libxml/xmlIO.h
 /usr/include/libxml2/libxml/xmlautomata.h
 /usr/include/libxml2/libxml/xmlerror.h
 /usr/include/libxml2/libxml/xmlexports.h
+/usr/include/libxml2/libxml/xmlIO.h
 /usr/include/libxml2/libxml/xmlmemory.h
 /usr/include/libxml2/libxml/xmlmodule.h
 /usr/include/libxml2/libxml/xmlreader.h

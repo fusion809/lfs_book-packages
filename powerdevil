@@ -1,4 +1,4 @@
-6.7.0
+6.7.1
 /etc
 /etc/xdg
 /etc/xdg/autostart
@@ -7,7 +7,7 @@
 /usr/lib
 /usr/lib/libpowerdevilcore.so
 /usr/lib/libpowerdevilcore.so.2
-/usr/lib/libpowerdevilcore.so.6.7.0
+/usr/lib/libpowerdevilcore.so.6.7.1
 /usr/lib/plugins
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/krunner

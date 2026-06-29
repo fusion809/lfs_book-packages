@@ -1,4 +1,4 @@
-6.7.0
+6.7.1
 /usr
 /usr/bin
 /usr/bin/kwin_wayland
@@ -216,6 +216,7 @@
 /usr/include/kwin/wayland/fifo_v1.h
 /usr/include/kwin/wayland/fractionalscale_v1.h
 /usr/include/kwin/wayland/fractionalscale_v2.h
+/usr/include/kwin/wayland/frog_colormanagement_v1.h
 /usr/include/kwin/wayland/idle.h
 /usr/include/kwin/wayland/idleinhibit_v1.h
 /usr/include/kwin/wayland/idlenotify_v1.h
@@ -249,6 +250,7 @@
 /usr/include/kwin/wayland/qwayland-server-content-type-v1.h
 /usr/include/kwin/wayland/qwayland-server-ext-background-effect-v1.h
 /usr/include/kwin/wayland/qwayland-server-fifo-v1.h
+/usr/include/kwin/wayland/qwayland-server-frog-color-management-v1.h
 /usr/include/kwin/wayland/qwayland-server-kde-external-brightness-v1.h
 /usr/include/kwin/wayland/qwayland-server-linux-drm-syncobj-v1.h
 /usr/include/kwin/wayland/qwayland-server-pointer-warp-v1.h
@@ -280,6 +282,7 @@
 /usr/include/kwin/wayland/wayland-content-type-v1-server-protocol.h
 /usr/include/kwin/wayland/wayland-ext-background-effect-v1-server-protocol.h
 /usr/include/kwin/wayland/wayland-fifo-v1-server-protocol.h
+/usr/include/kwin/wayland/wayland-frog-color-management-v1-server-protocol.h
 /usr/include/kwin/wayland/wayland-kde-external-brightness-v1-server-protocol.h
 /usr/include/kwin/wayland/wayland-linux-drm-syncobj-v1-server-protocol.h
 /usr/include/kwin/wayland/wayland-pointer-warp-v1-server-protocol.h
@@ -327,10 +330,10 @@
 /usr/lib/kconf_update_bin/kwin-6.5-showpaint-changes
 /usr/lib/kconf_update_bin/kwin5_update_default_rules
 /usr/lib/libkcmkwincommon.so.6
-/usr/lib/libkcmkwincommon.so.6.7.0
+/usr/lib/libkcmkwincommon.so.6.7.1
 /usr/lib/libkwin.so
 /usr/lib/libkwin.so.6
-/usr/lib/libkwin.so.6.7.0
+/usr/lib/libkwin.so.6.7.1
 /usr/lib/plugins
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/packagestructure

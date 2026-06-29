@@ -1,4 +1,4 @@
-6.7.0
+6.7.1
 /usr
 /usr/bin
 /usr/bin/plasma-keyboard
@@ -85,6 +85,7 @@
 /usr/share/locale/he/LC_MESSAGES/plasma-keyboard.mo
 /usr/share/locale/hu
 /usr/share/locale/hu/LC_MESSAGES
+/usr/share/locale/hu/LC_MESSAGES/kcm_plasmakeyboard.mo
 /usr/share/locale/hu/LC_MESSAGES/plasma-keyboard.mo
 /usr/share/locale/ia
 /usr/share/locale/ia/LC_MESSAGES
@@ -98,6 +99,9 @@
 /usr/share/locale/it/LC_MESSAGES
 /usr/share/locale/it/LC_MESSAGES/kcm_plasmakeyboard.mo
 /usr/share/locale/it/LC_MESSAGES/plasma-keyboard.mo
+/usr/share/locale/ja
+/usr/share/locale/ja/LC_MESSAGES
+/usr/share/locale/ja/LC_MESSAGES/kcm_plasmakeyboard.mo
 /usr/share/locale/ka
 /usr/share/locale/ka/LC_MESSAGES
 /usr/share/locale/ka/LC_MESSAGES/kcm_plasmakeyboard.mo
