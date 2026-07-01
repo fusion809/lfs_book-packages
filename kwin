@@ -1,4 +1,4 @@
-6.7.1
+6.7.2
 /usr
 /usr/bin
 /usr/bin/kwin_wayland
@@ -330,10 +330,10 @@
 /usr/lib/kconf_update_bin/kwin-6.5-showpaint-changes
 /usr/lib/kconf_update_bin/kwin5_update_default_rules
 /usr/lib/libkcmkwincommon.so.6
-/usr/lib/libkcmkwincommon.so.6.7.1
+/usr/lib/libkcmkwincommon.so.6.7.2
 /usr/lib/libkwin.so
 /usr/lib/libkwin.so.6
-/usr/lib/libkwin.so.6.7.1
+/usr/lib/libkwin.so.6.7.2
 /usr/lib/plugins
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/packagestructure
