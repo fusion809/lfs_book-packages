@@ -1,4 +1,4 @@
-2.42.1
+2.42.2
 /usr
 /usr/bin
 /usr/bin/bits
@@ -279,9 +279,9 @@
 /usr/share/bash-completion/completions/wipefs
 /usr/share/bash-completion/completions/zramctl
 /usr/share/doc
-/usr/share/doc/util-linux-2.42.1
-/usr/share/doc/util-linux-2.42.1/getopt-example.bash
-/usr/share/doc/util-linux-2.42.1/getopt-example.tcsh
+/usr/share/doc/util-linux-2.42.2
+/usr/share/doc/util-linux-2.42.2/getopt-example.bash
+/usr/share/doc/util-linux-2.42.2/getopt-example.tcsh
 /usr/share/locale
 /usr/share/locale/ar
 /usr/share/locale/ar/LC_MESSAGES
