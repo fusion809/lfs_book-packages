@@ -1,11 +1,11 @@
-26.04.2
+26.04.3
 /usr
 /usr/bin
 /usr/bin/konsole
 /usr/bin/konsoleprofile
 /usr/lib
-/usr/lib/libkonsoleapp.so.26.04.2
-/usr/lib/libkonsoleprivate.so.26.04.2
+/usr/lib/libkonsoleapp.so.26.04.3
+/usr/lib/libkonsoleprivate.so.26.04.3
 /usr/lib/plugins
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/parts

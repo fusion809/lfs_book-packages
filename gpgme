@@ -1,4 +1,4 @@
-2.1.1
+2.1.2
 /usr
 /usr/bin
 /usr/bin/gnupg-key-manage
@@ -10,7 +10,7 @@
 /usr/lib/libgpgme.la
 /usr/lib/libgpgme.so
 /usr/lib/libgpgme.so.45
-/usr/lib/libgpgme.so.45.1.1
+/usr/lib/libgpgme.so.45.1.2
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/gpgme-glib.pc
 /usr/lib/pkgconfig/gpgme.pc

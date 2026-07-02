@@ -1,32 +1,32 @@
 BUILD_FAILED
 --- ERROR LOG (Last 30 lines) ---
+[2480/3027] Linking target fuzz-time-util
+[2481/3027] Linking target fuzz-udev-database
+[2482/3027] Linking target fuzz-user-record
+[2483/3027] Linking target fuzz-varlink
+[2484/3027] Linking target fuzz-varlink-idl
+[2485/3027] Linking target fuzz-compress
+[2486/3027] Linking target libcryptsetup-token-systemd-pkcs11.so
 [2487/3027] Linking target pam_systemd_loadkey.so
 [2488/3027] Linking target pam_systemd.so
 [2489/3027] Linking target libnss_mymachines.so.2
 [2490/3027] Linking target libnss_myhostname.so.2
 [2491/3027] Linking target libnss_resolve.so.2
 [2492/3027] Linking target libnss_systemd.so.2
-[2493/3027] Generating rules.d/60-persistent-storage.rules with a custom command
-[2494/3027] Generating rules.d/50-udev-default.rules with a custom command
+[2493/3027] Generating rules.d/50-udev-default.rules with a custom command
+[2494/3027] Generating rules.d/60-persistent-storage.rules with a custom command
 [2495/3027] Generating rules.d/64-btrfs.rules with a custom command
 [2496/3027] Generating rules.d/99-systemd.rules with a custom command
 [2497/3027] Generating rules.d/70-uaccess.rules with a custom command
-[2498/3027] Generating rules.d/90-vconsole.rules with a custom command
-[2499/3027] Generating rules.d/71-seat.rules with a custom command
-[2500/3027] Generating rules.d/73-seat-late.rules with a custom command
-[2501/3027] Generating man/binfmt.d.5 with a custom command
-FAILED: [code=5] man/binfmt.d.5 
-/usr/bin/xsltproc -o man/binfmt.d.5 --nonet --xinclude --maxdepth 9000 --stringparam man.output.quietly 1 --stringparam funcsynopsis.style ansi --stringparam man.authors.section.enabled 0 --stringparam man.copyright.section.enabled 0 --stringparam systemd.version 261.1 --path /sources/systemd-261.1/build/man:/sources/systemd-261.1/man:/sources/systemd-261.1/build/src/shared:/sources/systemd-261.1/build/src/core ../man/custom-man.xsl ../man/binfmt.d.xml
-Catalog error : Unregistered error message
-warning: failed to load external entity "http://docbook.sourceforge.net/release/xsl/current/manpages/docbook.xsl"
-compilation error: file ../man/custom-man.xsl line 12 element import
-xsl:import : unable to load http://docbook.sourceforge.net/release/xsl/current/manpages/docbook.xsl
-[2502/3027] Generating man/SD_ELF_NOTE_DLOPEN.3 with a custom command
+[2498/3027] Generating rules.d/71-seat.rules with a custom command
+[2499/3027] Generating rules.d/73-seat-late.rules with a custom command
+[2500/3027] Generating man/SD_ELF_NOTE_DLOPEN.3 with a custom command
 FAILED: [code=5] man/SD_ELF_NOTE_DLOPEN.3 man/SD_ELF_NOTE_DLOPEN_PRIORITY_RECOMMENDED.3 man/SD_ELF_NOTE_DLOPEN_PRIORITY_REQUIRED.3 man/SD_ELF_NOTE_DLOPEN_PRIORITY_SUGGESTED.3 man/SD_ELF_NOTE_DLOPEN_TYPE.3 man/SD_ELF_NOTE_DLOPEN_VENDOR.3 
 /usr/bin/xsltproc -o man/SD_ELF_NOTE_DLOPEN.3 --nonet --xinclude --maxdepth 9000 --stringparam man.output.quietly 1 --stringparam funcsynopsis.style ansi --stringparam man.authors.section.enabled 0 --stringparam man.copyright.section.enabled 0 --stringparam systemd.version 261.1 --path /sources/systemd-261.1/build/man:/sources/systemd-261.1/man:/sources/systemd-261.1/build/src/shared:/sources/systemd-261.1/build/src/core ../man/custom-man.xsl ../man/SD_ELF_NOTE_DLOPEN.xml
 Catalog error : Unregistered error message
 warning: failed to load external entity "http://docbook.sourceforge.net/release/xsl/current/manpages/docbook.xsl"
 compilation error: file ../man/custom-man.xsl line 12 element import
 xsl:import : unable to load http://docbook.sourceforge.net/release/xsl/current/manpages/docbook.xsl
-[2503/3027] Generating hwdb.d/60-autosuspend-chromiumos.hwdb with a custom command (wrapped by meson to capture output)
+[2501/3027] Generating rules.d/90-vconsole.rules with a custom command
+[2502/3027] Generating hwdb.d/60-autosuspend-chromiumos.hwdb with a custom command (wrapped by meson to capture output)
 ninja: build stopped: subcommand failed.
