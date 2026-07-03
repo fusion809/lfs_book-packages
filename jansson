@@ -1,11 +1,12 @@
-2.15.0
+2.15.1
+/usr
 /usr/include
-/usr/include/jansson.h
 /usr/include/jansson_config.h
+/usr/include/jansson.h
 /usr/lib
 /usr/lib/libjansson.la
 /usr/lib/libjansson.so
 /usr/lib/libjansson.so.4
-/usr/lib/libjansson.so.4.15.0
+/usr/lib/libjansson.so.4.15.1
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/jansson.pc
