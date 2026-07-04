@@ -4,13 +4,13 @@
 /usr/include/gexiv2-0.16
 /usr/include/gexiv2-0.16/gexiv2
 /usr/include/gexiv2-0.16/gexiv2/gexiv2-enums.h
+/usr/include/gexiv2-0.16/gexiv2/gexiv2.h
 /usr/include/gexiv2-0.16/gexiv2/gexiv2-log.h
 /usr/include/gexiv2-0.16/gexiv2/gexiv2-metadata.h
 /usr/include/gexiv2-0.16/gexiv2/gexiv2-preview-image.h
 /usr/include/gexiv2-0.16/gexiv2/gexiv2-preview-properties.h
 /usr/include/gexiv2-0.16/gexiv2/gexiv2-startup.h
 /usr/include/gexiv2-0.16/gexiv2/gexiv2-version.h
-/usr/include/gexiv2-0.16/gexiv2/gexiv2.h
 /usr/lib
 /usr/lib/girepository-1.0
 /usr/lib/girepository-1.0/GExiv2-0.16.typelib

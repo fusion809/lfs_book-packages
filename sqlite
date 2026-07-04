@@ -12,8 +12,6 @@
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/sqlite3.pc
 /usr/share
-/usr/share/doc
-/usr/share/doc/sqlite-3.53.3
 /usr/share/doc/sqlite-3.53.3/34to35.html
 /usr/share/doc/sqlite-3.53.3/35to36.html
 /usr/share/doc/sqlite-3.53.3/about.html
@@ -33,7 +31,6 @@
 /usr/share/doc/sqlite-3.53.3/bindptr.html
 /usr/share/doc/sqlite-3.53.3/books.html
 /usr/share/doc/sqlite-3.53.3/bytecodevtab.html
-/usr/share/doc/sqlite-3.53.3/c3ref
 /usr/share/doc/sqlite-3.53.3/c3ref/aggregate_context.html
 /usr/share/doc/sqlite-3.53.3/c3ref/aggregate_count.html
 /usr/share/doc/sqlite-3.53.3/c3ref/api_routines.html
@@ -321,9 +318,7 @@
 /usr/share/doc/sqlite-3.53.3/howtocompile.html
 /usr/share/doc/sqlite-3.53.3/howtocorrupt.html
 /usr/share/doc/sqlite-3.53.3/hp1.html
-/usr/share/doc/sqlite-3.53.3/images
 /usr/share/doc/sqlite-3.53.3/images/2005osaward.gif
-/usr/share/doc/sqlite-3.53.3/images/ac
 /usr/share/doc/sqlite-3.53.3/images/ac/commit-0.gif
 /usr/share/doc/sqlite-3.53.3/images/ac/commit-1.gif
 /usr/share/doc/sqlite-3.53.3/images/ac/commit-2.gif
@@ -349,7 +344,6 @@
 /usr/share/doc/sqlite-3.53.3/images/ac/rollback-4.gif
 /usr/share/doc/sqlite-3.53.3/images/ac/rollback-5.gif
 /usr/share/doc/sqlite-3.53.3/images/apple-touch-icon.png
-/usr/share/doc/sqlite-3.53.3/images/books
 /usr/share/doc/sqlite-3.53.3/images/books/aditya.jpg
 /usr/share/doc/sqlite-3.53.3/images/books/darocha2016.jpg
 /usr/share/doc/sqlite-3.53.3/images/books/das.jpg
@@ -377,7 +371,6 @@
 /usr/share/doc/sqlite-3.53.3/images/faster-read-sql.jpg
 /usr/share/doc/sqlite-3.53.3/images/faster-write-safe.jpg
 /usr/share/doc/sqlite-3.53.3/images/faster-write-unsafe.jpg
-/usr/share/doc/sqlite-3.53.3/images/fileformat
 /usr/share/doc/sqlite-3.53.3/images/fileformat/db_connection.gif
 /usr/share/doc/sqlite-3.53.3/images/fileformat/examplepop.gif
 /usr/share/doc/sqlite-3.53.3/images/fileformat/fileio_diagrams.odg
@@ -404,7 +397,6 @@
 /usr/share/doc/sqlite-3.53.3/images/fileformat/tabletree.gif
 /usr/share/doc/sqlite-3.53.3/images/fileformat/vfs_role.gif
 /usr/share/doc/sqlite-3.53.3/images/fileformat/write_transaction.gif
-/usr/share/doc/sqlite-3.53.3/images/foreignlogos
 /usr/share/doc/sqlite-3.53.3/images/foreignlogos/adobe.gif
 /usr/share/doc/sqlite-3.53.3/images/foreignlogos/adobe-logo.gif
 /usr/share/doc/sqlite-3.53.3/images/foreignlogos/airbus1.gif
@@ -466,7 +458,6 @@
 /usr/share/doc/sqlite-3.53.3/images/nw.png
 /usr/share/doc/sqlite-3.53.3/images/powered_by_sqlite.gif
 /usr/share/doc/sqlite-3.53.3/images/private_branch.gif
-/usr/share/doc/sqlite-3.53.3/images/qp
 /usr/share/doc/sqlite-3.53.3/images/qp/fqp1.gif
 /usr/share/doc/sqlite-3.53.3/images/qp/fqp1.pikchr
 /usr/share/doc/sqlite-3.53.3/images/qp/fruitobstate0.gif
@@ -591,7 +582,6 @@
 /usr/share/doc/sqlite-3.53.3/quirks.html
 /usr/share/doc/sqlite-3.53.3/rbu.html
 /usr/share/doc/sqlite-3.53.3/recovery.html
-/usr/share/doc/sqlite-3.53.3/releaselog
 /usr/share/doc/sqlite-3.53.3/releaselog/3_0_0.html
 /usr/share/doc/sqlite-3.53.3/releaselog/3_0_1.html
 /usr/share/doc/sqlite-3.53.3/releaselog/3_0_2.html
@@ -862,14 +852,12 @@
 /usr/share/doc/sqlite-3.53.3/rtree.html
 /usr/share/doc/sqlite-3.53.3/schematab.html
 /usr/share/doc/sqlite-3.53.3/search
-/usr/share/doc/sqlite-3.53.3/search.d
 /usr/share/doc/sqlite-3.53.3/search.d/admin
 /usr/share/doc/sqlite-3.53.3/search.d/search.db
 /usr/share/doc/sqlite-3.53.3/security.html
 /usr/share/doc/sqlite-3.53.3/selfcontained.html
 /usr/share/doc/sqlite-3.53.3/series.html
 /usr/share/doc/sqlite-3.53.3/serverless.html
-/usr/share/doc/sqlite-3.53.3/session
 /usr/share/doc/sqlite-3.53.3/session/c_changegroup_config_patchset.html
 /usr/share/doc/sqlite-3.53.3/session/c_changeset_abort.html
 /usr/share/doc/sqlite-3.53.3/session/c_changesetapply_fknoaction.html
@@ -947,7 +935,6 @@
 /usr/share/doc/sqlite-3.53.3/stricttables.html
 /usr/share/doc/sqlite-3.53.3/support.html
 /usr/share/doc/sqlite-3.53.3/swarmvtab.html
-/usr/share/doc/sqlite-3.53.3/syntax
 /usr/share/doc/sqlite-3.53.3/syntax/aggregate-function-invocation.html
 /usr/share/doc/sqlite-3.53.3/syntax/alter-table-stmt.html
 /usr/share/doc/sqlite-3.53.3/syntax/analyze-stmt.html
