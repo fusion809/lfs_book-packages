@@ -1,4 +1,4 @@
-2.8.1
+2.8.2
 /etc
 /etc/geoclue
 /etc/geoclue/conf.d
@@ -53,6 +53,13 @@
 /usr/share/dbus-1/system.d/org.freedesktop.GeoClue2.conf
 /usr/share/gir-1.0
 /usr/share/gir-1.0/Geoclue-2.0.gir
+/usr/share/locale
+/usr/share/locale/ka
+/usr/share/locale/ka/LC_MESSAGES
+/usr/share/locale/ka/LC_MESSAGES/geoclue-2.0.mo
+/usr/share/locale/oc
+/usr/share/locale/oc/LC_MESSAGES
+/usr/share/locale/oc/LC_MESSAGES/geoclue-2.0.mo
 /usr/share/man
 /usr/share/man/man5
 /usr/share/man/man5/geoclue.5
