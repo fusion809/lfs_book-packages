@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -78,7 +78,7 @@
 /usr/lib/cmake/KF6Contacts/KF6ContactsTargets-release.cmake
 /usr/lib/libKF6Contacts.so
 /usr/lib/libKF6Contacts.so.6
-/usr/lib/libKF6Contacts.so.6.27.0
+/usr/lib/libKF6Contacts.so.6.28.0
 /usr/lib/qml
 /usr/lib/qml/org
 /usr/lib/qml/org/kde

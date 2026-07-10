@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -31,7 +31,7 @@
 /usr/libexec/kf6/kdesu_stub
 /usr/lib/libKF6Su.so
 /usr/lib/libKF6Su.so.6
-/usr/lib/libKF6Su.so.6.27.0
+/usr/lib/libKF6Su.so.6.28.0
 /usr/share
 /usr/share/locale
 /usr/share/locale/ar

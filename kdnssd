@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -32,7 +32,7 @@
 /usr/lib/cmake/KF6DNSSD/KF6DNSSDTargets-release.cmake
 /usr/lib/libKF6DNSSD.so
 /usr/lib/libKF6DNSSD.so.6
-/usr/lib/libKF6DNSSD.so.6.27.0
+/usr/lib/libKF6DNSSD.so.6.28.0
 /usr/share
 /usr/share/locale
 /usr/share/locale/af

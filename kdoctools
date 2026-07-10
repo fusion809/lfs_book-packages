@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /usr
 /usr/bin
 /usr/bin/checkXML6
@@ -21,7 +21,7 @@
 /usr/lib/cmake/KF6DocTools/KF6DocToolsToolsTargets-release.cmake
 /usr/lib/libKF6DocTools.so
 /usr/lib/libKF6DocTools.so.6
-/usr/lib/libKF6DocTools.so.6.27.0
+/usr/lib/libKF6DocTools.so.6.28.0
 /usr/share
 /usr/share/doc
 /usr/share/doc/HTML

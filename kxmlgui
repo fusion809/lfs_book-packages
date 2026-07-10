@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -54,7 +54,7 @@
 /usr/lib/cmake/KF6XmlGui/KF6XmlGuiTargets-release.cmake
 /usr/lib/libKF6XmlGui.so
 /usr/lib/libKF6XmlGui.so.6
-/usr/lib/libKF6XmlGui.so.6.27.0
+/usr/lib/libKF6XmlGui.so.6.28.0
 /usr/lib/plugins
 /usr/lib/plugins/designer
 /usr/lib/plugins/designer/kxmlgui6widgets.so
@@ -234,6 +234,9 @@
 /usr/share/locale/lg
 /usr/share/locale/lg/LC_MESSAGES
 /usr/share/locale/lg/LC_MESSAGES/kxmlgui6.mo
+/usr/share/locale/lo
+/usr/share/locale/lo/LC_MESSAGES
+/usr/share/locale/lo/LC_MESSAGES/kxmlgui6.mo
 /usr/share/locale/lt
 /usr/share/locale/lt/LC_MESSAGES
 /usr/share/locale/lt/LC_MESSAGES/kxmlgui6.mo
@@ -258,6 +261,12 @@
 /usr/share/locale/my
 /usr/share/locale/my/LC_MESSAGES
 /usr/share/locale/my/LC_MESSAGES/kxmlgui6.mo
+/usr/share/locale/nan_TW
+/usr/share/locale/nan_TW@latin
+/usr/share/locale/nan_TW@latin/LC_MESSAGES
+/usr/share/locale/nan_TW@latin/LC_MESSAGES/kxmlgui6.mo
+/usr/share/locale/nan_TW/LC_MESSAGES
+/usr/share/locale/nan_TW/LC_MESSAGES/kxmlgui6.mo
 /usr/share/locale/nb
 /usr/share/locale/nb/LC_MESSAGES
 /usr/share/locale/nb/LC_MESSAGES/kxmlgui6.mo

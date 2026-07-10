@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /usr
 /usr/bin
 /usr/bin/knewstuff-dialog6
@@ -68,10 +68,10 @@
 /usr/lib/cmake/KF6NewStuff/KF6NewStuffTargets-release.cmake
 /usr/lib/libKF6NewStuffCore.so
 /usr/lib/libKF6NewStuffCore.so.6
-/usr/lib/libKF6NewStuffCore.so.6.27.0
+/usr/lib/libKF6NewStuffCore.so.6.28.0
 /usr/lib/libKF6NewStuffWidgets.so
 /usr/lib/libKF6NewStuffWidgets.so.6
-/usr/lib/libKF6NewStuffWidgets.so.6.27.0
+/usr/lib/libKF6NewStuffWidgets.so.6.28.0
 /usr/lib/plugins
 /usr/lib/plugins/designer
 /usr/lib/plugins/designer/knewstuff6widgets.so

@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -33,10 +33,10 @@
 /usr/libexec/kf6/purposeprocess
 /usr/lib/libKF6Purpose.so
 /usr/lib/libKF6Purpose.so.6
-/usr/lib/libKF6Purpose.so.6.27.0
+/usr/lib/libKF6Purpose.so.6.28.0
 /usr/lib/libKF6PurposeWidgets.so
 /usr/lib/libKF6PurposeWidgets.so.6
-/usr/lib/libKF6PurposeWidgets.so.6.27.0
+/usr/lib/libKF6PurposeWidgets.so.6.28.0
 /usr/lib/plugins
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/kfileitemaction

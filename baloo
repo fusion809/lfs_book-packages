@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /etc
 /etc/xdg
 /etc/xdg/autostart
@@ -42,10 +42,10 @@
 /usr/libexec/kf6/baloo_file
 /usr/libexec/kf6/baloo_file_extractor
 /usr/lib/libKF6BalooEngine.so.6
-/usr/lib/libKF6BalooEngine.so.6.27.0
+/usr/lib/libKF6BalooEngine.so.6.28.0
 /usr/lib/libKF6Baloo.so
 /usr/lib/libKF6Baloo.so.6
-/usr/lib/libKF6Baloo.so.6.27.0
+/usr/lib/libKF6Baloo.so.6.28.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/KF6Baloo.pc
 /usr/lib/plugins

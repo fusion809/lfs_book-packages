@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -20,7 +20,7 @@
 /usr/lib/cmake/KF6Pty/KF6PtyTargets-release.cmake
 /usr/lib/libKF6Pty.so
 /usr/lib/libKF6Pty.so.6
-/usr/lib/libKF6Pty.so.6.27.0
+/usr/lib/libKF6Pty.so.6.28.0
 /usr/share
 /usr/share/locale
 /usr/share/locale/af

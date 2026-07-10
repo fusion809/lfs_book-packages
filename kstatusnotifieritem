@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -16,7 +16,7 @@
 /usr/lib/cmake/KF6StatusNotifierItem/KF6StatusNotifierItemTargets-release.cmake
 /usr/lib/libKF6StatusNotifierItem.so
 /usr/lib/libKF6StatusNotifierItem.so.6
-/usr/lib/libKF6StatusNotifierItem.so.6.27.0
+/usr/lib/libKF6StatusNotifierItem.so.6.28.0
 /usr/share
 /usr/share/dbus-1
 /usr/share/dbus-1/interfaces

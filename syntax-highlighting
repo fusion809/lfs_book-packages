@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /usr
 /usr/bin
 /usr/bin/ksyntaxhighlighter6
@@ -37,7 +37,7 @@
 /usr/lib/cmake/KF6SyntaxHighlighting/KF6SyntaxHighlightingTargets-release.cmake
 /usr/lib/libKF6SyntaxHighlighting.so
 /usr/lib/libKF6SyntaxHighlighting.so.6
-/usr/lib/libKF6SyntaxHighlighting.so.6.27.0
+/usr/lib/libKF6SyntaxHighlighting.so.6.28.0
 /usr/lib/qml
 /usr/lib/qml/org
 /usr/lib/qml/org/kde

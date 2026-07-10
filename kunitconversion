@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -24,7 +24,7 @@
 /usr/lib/cmake/KF6UnitConversion/KF6UnitConversionTargets-release.cmake
 /usr/lib/libKF6UnitConversion.so
 /usr/lib/libKF6UnitConversion.so.6
-/usr/lib/libKF6UnitConversion.so.6.27.0
+/usr/lib/libKF6UnitConversion.so.6.28.0
 /usr/share
 /usr/share/locale
 /usr/share/locale/ar
@@ -123,6 +123,9 @@
 /usr/share/locale/ko
 /usr/share/locale/ko/LC_MESSAGES
 /usr/share/locale/ko/LC_MESSAGES/kunitconversion6.mo
+/usr/share/locale/lo
+/usr/share/locale/lo/LC_MESSAGES
+/usr/share/locale/lo/LC_MESSAGES/kunitconversion6.mo
 /usr/share/locale/lt
 /usr/share/locale/lt/LC_MESSAGES
 /usr/share/locale/lt/LC_MESSAGES/kunitconversion6.mo

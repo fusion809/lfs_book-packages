@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -85,7 +85,7 @@
 /usr/lib/cmake/KF6CalendarCore/KF6CalendarCoreTargets-release.cmake
 /usr/lib/libKF6CalendarCore.so
 /usr/lib/libKF6CalendarCore.so.6
-/usr/lib/libKF6CalendarCore.so.6.27.0
+/usr/lib/libKF6CalendarCore.so.6.28.0
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/KF6CalendarCore.pc
 /usr/lib/qml

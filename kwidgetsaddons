@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -181,7 +181,7 @@
 /usr/lib/cmake/KF6WidgetsAddons/KF6WidgetsAddonsTargets-release.cmake
 /usr/lib/libKF6WidgetsAddons.so
 /usr/lib/libKF6WidgetsAddons.so.6
-/usr/lib/libKF6WidgetsAddons.so.6.27.0
+/usr/lib/libKF6WidgetsAddons.so.6.28.0
 /usr/lib/plugins
 /usr/lib/plugins/designer
 /usr/lib/plugins/designer/kwidgetsaddons6widgets.so

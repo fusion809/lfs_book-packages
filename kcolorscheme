@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -22,7 +22,7 @@
 /usr/lib/cmake/KF6ColorScheme/KF6ColorSchemeTargets-release.cmake
 /usr/lib/libKF6ColorScheme.so
 /usr/lib/libKF6ColorScheme.so.6
-/usr/lib/libKF6ColorScheme.so.6.27.0
+/usr/lib/libKF6ColorScheme.so.6.28.0
 /usr/share
 /usr/share/locale
 /usr/share/locale/ar

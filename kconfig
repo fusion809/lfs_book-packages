@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /usr
 /usr/bin
 /usr/bin/kreadconfig6
@@ -70,13 +70,13 @@
 /usr/libexec/kf6/kconf_update
 /usr/lib/libKF6ConfigCore.so
 /usr/lib/libKF6ConfigCore.so.6
-/usr/lib/libKF6ConfigCore.so.6.27.0
+/usr/lib/libKF6ConfigCore.so.6.28.0
 /usr/lib/libKF6ConfigGui.so
 /usr/lib/libKF6ConfigGui.so.6
-/usr/lib/libKF6ConfigGui.so.6.27.0
+/usr/lib/libKF6ConfigGui.so.6.28.0
 /usr/lib/libKF6ConfigQml.so
 /usr/lib/libKF6ConfigQml.so.6
-/usr/lib/libKF6ConfigQml.so.6.27.0
+/usr/lib/libKF6ConfigQml.so.6.28.0
 /usr/lib/qml
 /usr/lib/qml/org
 /usr/lib/qml/org/kde
@@ -264,6 +264,12 @@
 /usr/share/locale/ms
 /usr/share/locale/ms/LC_MESSAGES
 /usr/share/locale/ms/LC_MESSAGES/kconfig6_qt.qm
+/usr/share/locale/nan_TW
+/usr/share/locale/nan_TW@latin
+/usr/share/locale/nan_TW@latin/LC_MESSAGES
+/usr/share/locale/nan_TW@latin/LC_MESSAGES/kconfig6_qt.qm
+/usr/share/locale/nan_TW/LC_MESSAGES
+/usr/share/locale/nan_TW/LC_MESSAGES/kconfig6_qt.qm
 /usr/share/locale/nb
 /usr/share/locale/nb/LC_MESSAGES
 /usr/share/locale/nb/LC_MESSAGES/kconfig6_qt.qm

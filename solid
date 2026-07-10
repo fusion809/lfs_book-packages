@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /usr
 /usr/bin
 /usr/bin/solid-hardware6
@@ -52,7 +52,7 @@
 /usr/lib/cmake/KF6Solid/KF6SolidTargets-release.cmake
 /usr/lib/libKF6Solid.so
 /usr/lib/libKF6Solid.so.6
-/usr/lib/libKF6Solid.so.6.27.0
+/usr/lib/libKF6Solid.so.6.28.0
 /usr/share
 /usr/share/locale
 /usr/share/locale/ar

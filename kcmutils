@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /usr
 /usr/bin
 /usr/bin/kcmshell6
@@ -48,13 +48,13 @@
 /usr/libexec/kf6/kcmdesktopfilegenerator
 /usr/lib/libKF6KCMUtilsCore.so
 /usr/lib/libKF6KCMUtilsCore.so.6
-/usr/lib/libKF6KCMUtilsCore.so.6.27.0
+/usr/lib/libKF6KCMUtilsCore.so.6.28.0
 /usr/lib/libKF6KCMUtilsQuick.so
 /usr/lib/libKF6KCMUtilsQuick.so.6
-/usr/lib/libKF6KCMUtilsQuick.so.6.27.0
+/usr/lib/libKF6KCMUtilsQuick.so.6.28.0
 /usr/lib/libKF6KCMUtils.so
 /usr/lib/libKF6KCMUtils.so.6
-/usr/lib/libKF6KCMUtils.so.6.27.0
+/usr/lib/libKF6KCMUtils.so.6.28.0
 /usr/lib/qml
 /usr/lib/qml/org
 /usr/lib/qml/org/kde

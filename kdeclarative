@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -18,9 +18,9 @@
 /usr/lib/cmake/KF6Declarative/KF6DeclarativeTargets-release.cmake
 /usr/lib/libKF6CalendarEvents.so
 /usr/lib/libKF6CalendarEvents.so.6
-/usr/lib/libKF6CalendarEvents.so.6.27.0
+/usr/lib/libKF6CalendarEvents.so.6.28.0
 /usr/lib/libkquickcontrolsprivate.so.0
-/usr/lib/libkquickcontrolsprivate.so.6.27.0
+/usr/lib/libkquickcontrolsprivate.so.6.28.0
 /usr/lib/qml
 /usr/lib/qml/org
 /usr/lib/qml/org/kde

@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /usr
 /usr/bin
 /usr/bin/kfilemetadata_dump6
@@ -50,7 +50,7 @@
 /usr/lib/cmake/KF6FileMetaData/KF6FileMetaDataTargets-release.cmake
 /usr/lib/libKF6FileMetaData.so
 /usr/lib/libKF6FileMetaData.so.3
-/usr/lib/libKF6FileMetaData.so.6.27.0
+/usr/lib/libKF6FileMetaData.so.6.28.0
 /usr/lib/plugins
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/kfilemetadata

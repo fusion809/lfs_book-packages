@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -82,4 +82,4 @@
 /usr/lib/cmake/KF6ThreadWeaver/KF6ThreadWeaverTargets-release.cmake
 /usr/lib/libKF6ThreadWeaver.so
 /usr/lib/libKF6ThreadWeaver.so.6
-/usr/lib/libKF6ThreadWeaver.so.6.27.0
+/usr/lib/libKF6ThreadWeaver.so.6.28.0

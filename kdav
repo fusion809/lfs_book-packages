@@ -1,4 +1,4 @@
-6.27.0
+6.28.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -58,7 +58,7 @@
 /usr/lib/cmake/KF6DAV/KF6DAVTargets-release.cmake
 /usr/lib/libKF6DAV.so
 /usr/lib/libKF6DAV.so.6
-/usr/lib/libKF6DAV.so.6.27.0
+/usr/lib/libKF6DAV.so.6.28.0
 /usr/share
 /usr/share/locale
 /usr/share/locale/ar
