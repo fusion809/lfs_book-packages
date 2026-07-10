@@ -1,11 +1,11 @@
-1.28.4
+1.28.5
 /usr
 /usr/lib
 /usr/lib/gstreamer-1.0
 /usr/lib/gstreamer-1.0/libgstadaptivedemux2.so
 /usr/lib/gstreamer-1.0/libgstalaw.so
-/usr/lib/gstreamer-1.0/libgstalpha.so
 /usr/lib/gstreamer-1.0/libgstalphacolor.so
+/usr/lib/gstreamer-1.0/libgstalpha.so
 /usr/lib/gstreamer-1.0/libgstapetag.so
 /usr/lib/gstreamer-1.0/libgstaudiofx.so
 /usr/lib/gstreamer-1.0/libgstaudioparsers.so
@@ -23,8 +23,8 @@
 /usr/lib/gstreamer-1.0/libgstflv.so
 /usr/lib/gstreamer-1.0/libgstflxdec.so
 /usr/lib/gstreamer-1.0/libgstgdkpixbuf.so
-/usr/lib/gstreamer-1.0/libgstgoom.so
 /usr/lib/gstreamer-1.0/libgstgoom2k1.so
+/usr/lib/gstreamer-1.0/libgstgoom.so
 /usr/lib/gstreamer-1.0/libgstgtk.so
 /usr/lib/gstreamer-1.0/libgsticydemux.so
 /usr/lib/gstreamer-1.0/libgstid3demux.so
@@ -48,8 +48,8 @@
 /usr/lib/gstreamer-1.0/libgstpulseaudio.so
 /usr/lib/gstreamer-1.0/libgstqml6.so
 /usr/lib/gstreamer-1.0/libgstreplaygain.so
-/usr/lib/gstreamer-1.0/libgstrtp.so
 /usr/lib/gstreamer-1.0/libgstrtpmanager.so
+/usr/lib/gstreamer-1.0/libgstrtp.so
 /usr/lib/gstreamer-1.0/libgstrtsp.so
 /usr/lib/gstreamer-1.0/libgstshapewipe.so
 /usr/lib/gstreamer-1.0/libgstsmpte.so
