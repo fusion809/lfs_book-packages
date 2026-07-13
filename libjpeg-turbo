@@ -18,8 +18,8 @@
 /usr/lib/cmake/libjpeg-turbo
 /usr/lib/cmake/libjpeg-turbo/libjpeg-turboConfig.cmake
 /usr/lib/cmake/libjpeg-turbo/libjpeg-turboConfigVersion.cmake
-/usr/lib/cmake/libjpeg-turbo/libjpeg-turboTargets-release.cmake
 /usr/lib/cmake/libjpeg-turbo/libjpeg-turboTargets.cmake
+/usr/lib/cmake/libjpeg-turbo/libjpeg-turboTargets-release.cmake
 /usr/lib/libjpeg.so
 /usr/lib/libjpeg.so.62
 /usr/lib/libjpeg.so.62.4.0
@@ -32,11 +32,11 @@
 /usr/share
 /usr/share/doc
 /usr/share/doc/libjpeg-turbo-3.2.0
+/usr/share/doc/libjpeg-turbo-3.2.0/example.c
+/usr/share/doc/libjpeg-turbo-3.2.0/libjpeg.txt
 /usr/share/doc/libjpeg-turbo-3.2.0/LICENSE.md
 /usr/share/doc/libjpeg-turbo-3.2.0/README.ijg
 /usr/share/doc/libjpeg-turbo-3.2.0/README.md
-/usr/share/doc/libjpeg-turbo-3.2.0/example.c
-/usr/share/doc/libjpeg-turbo-3.2.0/libjpeg.txt
 /usr/share/doc/libjpeg-turbo-3.2.0/structure.txt
 /usr/share/doc/libjpeg-turbo-3.2.0/tjcomp.c
 /usr/share/doc/libjpeg-turbo-3.2.0/tjdecomp.c
