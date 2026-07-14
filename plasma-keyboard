@@ -1,4 +1,4 @@
-6.7.2
+6.7.3
 /usr
 /usr/bin
 /usr/bin/plasma-keyboard
@@ -9,15 +9,6 @@
 /usr/lib/plugins/plasma/kcms/systemsettings
 /usr/lib/plugins/plasma/kcms/systemsettings/kcm_plasmakeyboard.so
 /usr/lib/qml
-/usr/lib/qml/QtQuick
-/usr/lib/qml/QtQuick/VirtualKeyboard
-/usr/lib/qml/QtQuick/VirtualKeyboard/Styles
-/usr/lib/qml/QtQuick/VirtualKeyboard/Styles/Breeze
-/usr/lib/qml/QtQuick/VirtualKeyboard/Styles/Breeze/breezestyle.qmltypes
-/usr/lib/qml/QtQuick/VirtualKeyboard/Styles/Breeze/kde-qmlmodule.version
-/usr/lib/qml/QtQuick/VirtualKeyboard/Styles/Breeze/libbreezestyle.so
-/usr/lib/qml/QtQuick/VirtualKeyboard/Styles/Breeze/qmldir
-/usr/lib/qml/QtQuick/VirtualKeyboard/Styles/Breeze/style.qml
 /usr/lib/qml/org
 /usr/lib/qml/org/kde
 /usr/lib/qml/org/kde/plasma
@@ -30,6 +21,15 @@
 /usr/lib/qml/org/kde/plasma/keyboard/lib/keyboardlib.qmltypes
 /usr/lib/qml/org/kde/plasma/keyboard/lib/libkeyboardlib.so
 /usr/lib/qml/org/kde/plasma/keyboard/lib/qmldir
+/usr/lib/qml/QtQuick
+/usr/lib/qml/QtQuick/VirtualKeyboard
+/usr/lib/qml/QtQuick/VirtualKeyboard/Styles
+/usr/lib/qml/QtQuick/VirtualKeyboard/Styles/Breeze
+/usr/lib/qml/QtQuick/VirtualKeyboard/Styles/Breeze/breezestyle.qmltypes
+/usr/lib/qml/QtQuick/VirtualKeyboard/Styles/Breeze/kde-qmlmodule.version
+/usr/lib/qml/QtQuick/VirtualKeyboard/Styles/Breeze/libbreezestyle.so
+/usr/lib/qml/QtQuick/VirtualKeyboard/Styles/Breeze/qmldir
+/usr/lib/qml/QtQuick/VirtualKeyboard/Styles/Breeze/style.qml
 /usr/share
 /usr/share/applications
 /usr/share/applications/kcm_plasmakeyboard.desktop
