@@ -1,4 +1,4 @@
-3.6.0
+3.7.1
 /usr
 /usr/include
 /usr/include/ffi.h
@@ -7,7 +7,7 @@
 /usr/lib/libffi.la
 /usr/lib/libffi.so
 /usr/lib/libffi.so.8
-/usr/lib/libffi.so.8.3.1
+/usr/lib/libffi.so.8.4.1
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/libffi.pc
 /usr/share
