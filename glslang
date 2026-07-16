@@ -1,4 +1,4 @@
-16.3.0
+16.4.0
 /usr
 /usr/bin
 /usr/bin/glslang
@@ -32,10 +32,10 @@
 /usr/lib/cmake/glslang/glslang-targets-release.cmake
 /usr/lib/libglslang-default-resource-limits.so
 /usr/lib/libglslang-default-resource-limits.so.16
-/usr/lib/libglslang-default-resource-limits.so.16.3.0
+/usr/lib/libglslang-default-resource-limits.so.16.4.0
 /usr/lib/libglslang.so
 /usr/lib/libglslang.so.16
-/usr/lib/libglslang.so.16.3.0
+/usr/lib/libglslang.so.16.4.0
 /usr/lib/libSPIRV.so
 /usr/lib/libSPIRV.so.16
-/usr/lib/libSPIRV.so.16.3.0
+/usr/lib/libSPIRV.so.16.4.0
