@@ -1,4 +1,4 @@
-0.22.1
+0.22.2
 /usr
 /usr/bin
 /usr/bin/4channels
@@ -35,8 +35,8 @@
 /usr/lib/pkgconfig/libraw_r.pc
 /usr/share
 /usr/share/doc
-/usr/share/doc/libraw-0.22.1
-/usr/share/doc/libraw-0.22.1/Changelog.txt
-/usr/share/doc/libraw-0.22.1/COPYRIGHT
-/usr/share/doc/libraw-0.22.1/LICENSE.CDDL
-/usr/share/doc/libraw-0.22.1/LICENSE.LGPL
+/usr/share/doc/libraw-0.22.2
+/usr/share/doc/libraw-0.22.2/Changelog.txt
+/usr/share/doc/libraw-0.22.2/COPYRIGHT
+/usr/share/doc/libraw-0.22.2/LICENSE.CDDL
+/usr/share/doc/libraw-0.22.2/LICENSE.LGPL
