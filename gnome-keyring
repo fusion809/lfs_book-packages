@@ -320,11 +320,6 @@
 /usr/share/locale/zh_TW
 /usr/share/locale/zh_TW/LC_MESSAGES
 /usr/share/locale/zh_TW/LC_MESSAGES/gnome-keyring.mo
-/usr/share/man
-/usr/share/man/man1
-/usr/share/man/man1/gnome-keyring.1
-/usr/share/man/man1/gnome-keyring-3.1
-/usr/share/man/man1/gnome-keyring-daemon.1
 /usr/share/p11-kit
 /usr/share/p11-kit/modules
 /usr/share/p11-kit/modules/gnome-keyring.module

@@ -26,7 +26,6 @@
 /usr/bin/xzmore
 /usr/include
 /usr/include/lzma
-/usr/include/lzma.h
 /usr/include/lzma/base.h
 /usr/include/lzma/bcj.h
 /usr/include/lzma/block.h
@@ -34,6 +33,7 @@
 /usr/include/lzma/container.h
 /usr/include/lzma/delta.h
 /usr/include/lzma/filter.h
+/usr/include/lzma.h
 /usr/include/lzma/hardware.h
 /usr/include/lzma/index.h
 /usr/include/lzma/index_hash.h
@@ -55,9 +55,6 @@
 /usr/share/doc/xz-5.8.3/COPYING
 /usr/share/doc/xz-5.8.3/COPYING.0BSD
 /usr/share/doc/xz-5.8.3/COPYING.GPLv2
-/usr/share/doc/xz-5.8.3/NEWS
-/usr/share/doc/xz-5.8.3/README
-/usr/share/doc/xz-5.8.3/THANKS
 /usr/share/doc/xz-5.8.3/examples
 /usr/share/doc/xz-5.8.3/examples/00_README.txt
 /usr/share/doc/xz-5.8.3/examples/01_compress_easy.c
@@ -69,6 +66,9 @@
 /usr/share/doc/xz-5.8.3/faq.txt
 /usr/share/doc/xz-5.8.3/history.txt
 /usr/share/doc/xz-5.8.3/lzma-file-format.txt
+/usr/share/doc/xz-5.8.3/NEWS
+/usr/share/doc/xz-5.8.3/README
+/usr/share/doc/xz-5.8.3/THANKS
 /usr/share/doc/xz-5.8.3/xz-file-format.txt
 /usr/share/locale
 /usr/share/locale/ca
@@ -117,11 +117,11 @@
 /usr/share/locale/pl/LC_MESSAGES
 /usr/share/locale/pl/LC_MESSAGES/xz.mo
 /usr/share/locale/pt
-/usr/share/locale/pt/LC_MESSAGES
-/usr/share/locale/pt/LC_MESSAGES/xz.mo
 /usr/share/locale/pt_BR
 /usr/share/locale/pt_BR/LC_MESSAGES
 /usr/share/locale/pt_BR/LC_MESSAGES/xz.mo
+/usr/share/locale/pt/LC_MESSAGES
+/usr/share/locale/pt/LC_MESSAGES/xz.mo
 /usr/share/locale/ro
 /usr/share/locale/ro/LC_MESSAGES
 /usr/share/locale/ro/LC_MESSAGES/xz.mo

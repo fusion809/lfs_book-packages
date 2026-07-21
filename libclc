@@ -12,8 +12,8 @@
 /usr/share/clc/carrizo-amdgcn-mesa-mesa3d.bc
 /usr/share/clc/cayman-r600--.bc
 /usr/share/clc/cedar-r600--.bc
-/usr/share/clc/clspv--.bc
 /usr/share/clc/clspv64--.bc
+/usr/share/clc/clspv--.bc
 /usr/share/clc/cypress-r600--.bc
 /usr/share/clc/fiji-amdgcn--.bc
 /usr/share/clc/fiji-amdgcn-mesa-mesa3d.bc
@@ -116,12 +116,12 @@
 /usr/share/clc/polaris11-amdgcn--.bc
 /usr/share/clc/polaris11-amdgcn-mesa-mesa3d.bc
 /usr/share/clc/redwood-r600--.bc
-/usr/share/clc/spirv-mesa3d-.spv
 /usr/share/clc/spirv64-mesa3d-.spv
+/usr/share/clc/spirv-mesa3d-.spv
 /usr/share/clc/stoney-amdgcn--.bc
 /usr/share/clc/stoney-amdgcn-mesa-mesa3d.bc
-/usr/share/clc/sumo-r600--.bc
 /usr/share/clc/sumo2-r600--.bc
+/usr/share/clc/sumo-r600--.bc
 /usr/share/clc/tahiti-amdgcn--.bc
 /usr/share/clc/tahiti-amdgcn-mesa-mesa3d.bc
 /usr/share/clc/tonga-amdgcn--.bc

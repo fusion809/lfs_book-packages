@@ -5,7 +5,6 @@
 /usr/bin/cmake
 /usr/bin/cpack
 /usr/bin/ctest
-/usr/bin/iceauth
 /usr/share
 /usr/share/aclocal
 /usr/share/aclocal/cmake.m4
@@ -279,34 +278,24 @@
 /usr/share/cmake-4.4/Help/envvar/SWIFTC.rst
 /usr/share/cmake-4.4/Help/envvar/VERBOSE.rst
 /usr/share/cmake-4.4/Help/generator
-/usr/share/cmake-4.4/Help/generator/Borland
 /usr/share/cmake-4.4/Help/generator/Borland Makefiles.rst
 /usr/share/cmake-4.4/Help/generator/CodeBlocks.rst
 /usr/share/cmake-4.4/Help/generator/CodeLite.rst
-/usr/share/cmake-4.4/Help/generator/Eclipse
 /usr/share/cmake-4.4/Help/generator/Eclipse CDT4.rst
 /usr/share/cmake-4.4/Help/generator/FASTBuild.rst
-/usr/share/cmake-4.4/Help/generator/Green
 /usr/share/cmake-4.4/Help/generator/Green Hills MULTI.rst
 /usr/share/cmake-4.4/Help/generator/include
 /usr/share/cmake-4.4/Help/generator/include/VS_TOOLSET_HOST_ARCH_LEGACY.rst
 /usr/share/cmake-4.4/Help/generator/include/VS_TOOLSET_HOST_ARCH.rst
 /usr/share/cmake-4.4/Help/generator/Kate.rst
-/usr/share/cmake-4.4/Help/generator/MinGW
 /usr/share/cmake-4.4/Help/generator/MinGW Makefiles.rst
-/usr/share/cmake-4.4/Help/generator/MSYS
 /usr/share/cmake-4.4/Help/generator/MSYS Makefiles.rst
-/usr/share/cmake-4.4/Help/generator/Ninja
 /usr/share/cmake-4.4/Help/generator/Ninja Multi-Config.rst
 /usr/share/cmake-4.4/Help/generator/Ninja.rst
-/usr/share/cmake-4.4/Help/generator/NMake
 /usr/share/cmake-4.4/Help/generator/NMake Makefiles JOM.rst
 /usr/share/cmake-4.4/Help/generator/NMake Makefiles.rst
-/usr/share/cmake-4.4/Help/generator/Sublime
 /usr/share/cmake-4.4/Help/generator/Sublime Text 2.rst
-/usr/share/cmake-4.4/Help/generator/Unix
 /usr/share/cmake-4.4/Help/generator/Unix Makefiles.rst
-/usr/share/cmake-4.4/Help/generator/Visual
 /usr/share/cmake-4.4/Help/generator/Visual Studio 10 2010.rst
 /usr/share/cmake-4.4/Help/generator/Visual Studio 11 2012.rst
 /usr/share/cmake-4.4/Help/generator/Visual Studio 12 2013.rst
@@ -320,7 +309,6 @@
 /usr/share/cmake-4.4/Help/generator/Visual Studio 7.rst
 /usr/share/cmake-4.4/Help/generator/Visual Studio 8 2005.rst
 /usr/share/cmake-4.4/Help/generator/Visual Studio 9 2008.rst
-/usr/share/cmake-4.4/Help/generator/Watcom
 /usr/share/cmake-4.4/Help/generator/Watcom WMake.rst
 /usr/share/cmake-4.4/Help/generator/Xcode.rst
 /usr/share/cmake-4.4/Help/include
@@ -4238,8 +4226,6 @@
 /usr/share/emacs
 /usr/share/emacs/site-lisp
 /usr/share/emacs/site-lisp/cmake-mode.el
-/usr/share/man/man1
-/usr/share/man/man1/iceauth.1
 /usr/share/vim
 /usr/share/vim/vimfiles
 /usr/share/vim/vimfiles/indent

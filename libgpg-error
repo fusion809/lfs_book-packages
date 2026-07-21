@@ -25,7 +25,6 @@
 /usr/share/common-lisp/source/gpg-error/gpg-error-codes.lisp
 /usr/share/common-lisp/source/gpg-error/gpg-error.lisp
 /usr/share/common-lisp/source/gpg-error/gpg-error-package.lisp
-/usr/share/doc
 /usr/share/doc/libgpg-error-1.61
 /usr/share/doc/libgpg-error-1.61/README
 /usr/share/info

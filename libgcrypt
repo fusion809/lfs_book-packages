@@ -16,3 +16,11 @@
 /usr/share
 /usr/share/aclocal
 /usr/share/aclocal/libgcrypt.m4
+/usr/share/info
+/usr/share/info/dir
+/usr/share/info/gcrypt.info
+/usr/share/info/gcrypt.info-1
+/usr/share/info/gcrypt.info-2
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/hmac256.1
