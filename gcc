@@ -1864,7 +1864,6 @@
 /usr/share/gcc-16.1.0/python/libstdcxx/v6/printers.py
 /usr/share/gcc-16.1.0/python/libstdcxx/v6/xmethods.py
 /usr/share/gdb/auto-load/usr/lib
-/usr/share/gdb/auto-load/usr/lib/libstdc++.so.6.0.34-gdb.py
 /usr/share/gdb/auto-load/usr/lib/libstdc++.so.6.0.35-gdb.py
 /usr/share/info
 /usr/share/info/cpp.info
