@@ -1,4 +1,4 @@
-1.48
+1.49
 /usr
 /usr/bin
 /usr/bin/rescan-scsi-bus.sh
@@ -98,14 +98,15 @@
 /usr/include/scsi/sg_lib.h
 /usr/include/scsi/sg_lib_names.h
 /usr/include/scsi/sg_linux_inc.h
+/usr/include/scsi/sg_nvme.h
 /usr/include/scsi/sg_pr2serr.h
 /usr/include/scsi/sg_pt.h
 /usr/include/scsi/sg_pt_linux.h
-/usr/include/scsi/sg_pt_nvme.h
+/usr/include/scsi/sg_snt.h
 /usr/include/scsi/sg_unaligned.h
 /usr/lib
-/usr/lib/libsgutils2-1.48.so.2
-/usr/lib/libsgutils2-1.48.so.2.0.0
+/usr/lib/libsgutils2-1.49.so.2
+/usr/lib/libsgutils2-1.49.so.2.0.0
 /usr/lib/libsgutils2.la
 /usr/lib/libsgutils2.so
 /usr/share
@@ -116,6 +117,7 @@
 /usr/share/man/man8/scsi_mandat.8
 /usr/share/man/man8/scsi_readcap.8
 /usr/share/man/man8/scsi_ready.8
+/usr/share/man/man8/scsi-rescan.8
 /usr/share/man/man8/scsi_satl.8
 /usr/share/man/man8/scsi_start.8
 /usr/share/man/man8/scsi_stop.8

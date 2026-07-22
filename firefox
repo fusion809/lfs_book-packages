@@ -1,4 +1,4 @@
-140.12.0esr.source
+153.0esr.source
 /usr/bin
 /usr/bin/firefox
 /usr/lib/firefox
@@ -31,6 +31,7 @@
 /usr/lib/firefox/libmozavcodec.so
 /usr/lib/firefox/libmozavutil.so
 /usr/lib/firefox/libmozgtk.so
+/usr/lib/firefox/libmozinference.so
 /usr/lib/firefox/libmozsandbox.so
 /usr/lib/firefox/libmozsqlite3.so
 /usr/lib/firefox/libmozwayland.so
@@ -40,6 +41,7 @@
 /usr/lib/firefox/platform.ini
 /usr/lib/firefox/removed-files
 /usr/lib/firefox/vaapitest
+/usr/lib/firefox/vulkantest
 /usr/share/applications/firefox.desktop
 /usr/share/pixmaps
 /usr/share/pixmaps/firefox.png
