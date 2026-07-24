@@ -1,4 +1,4 @@
-2.8.6
+2.8.7
 /usr
 /usr/include
 /usr/include/libcryptsetup.h
@@ -48,6 +48,9 @@
 /usr/share/locale/ka
 /usr/share/locale/ka/LC_MESSAGES
 /usr/share/locale/ka/LC_MESSAGES/cryptsetup.mo
+/usr/share/locale/ko
+/usr/share/locale/ko/LC_MESSAGES
+/usr/share/locale/ko/LC_MESSAGES/cryptsetup.mo
 /usr/share/locale/nl
 /usr/share/locale/nl/LC_MESSAGES
 /usr/share/locale/nl/LC_MESSAGES/cryptsetup.mo
