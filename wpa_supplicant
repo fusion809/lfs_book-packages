@@ -1,14 +1,12 @@
 2.11
-/etc
 /etc/dbus-1/system.d
 /etc/dbus-1/system.d/wpa_supplicant.conf
-/etc/wpa_supplicant
 /etc/wpa_supplicant/wpa_supplicant-wifi0.conf
 /usr/lib/systemd/system
 /usr/lib/systemd/system/wpa_supplicant-nl80211@.service
-/usr/lib/systemd/system/wpa_supplicant-wired@.service
 /usr/lib/systemd/system/wpa_supplicant.service
 /usr/lib/systemd/system/wpa_supplicant@.service
+/usr/lib/systemd/system/wpa_supplicant-wired@.service
 /usr/sbin
 /usr/sbin/wpa_cli
 /usr/sbin/wpa_passphrase

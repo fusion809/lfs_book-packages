@@ -1,4 +1,12 @@
 6.7.3
+/opt
+/opt/qt6
+/opt/qt6/plugins
+/opt/qt6/plugins/kf6
+/opt/qt6/plugins/kf6/kscreen
+/opt/qt6/plugins/kf6/kscreen/KSC_Fake.so
+/opt/qt6/plugins/kf6/kscreen/KSC_KWayland.so
+/opt/qt6/plugins/kf6/kscreen/KSC_XRandR.so
 /usr
 /usr/bin
 /usr/bin/kscreen-doctor
@@ -55,12 +63,6 @@
 /usr/lib/libKF6Screen.so.8
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/KF6Screen.pc
-/usr/lib/plugins
-/usr/lib/plugins/kf6
-/usr/lib/plugins/kf6/kscreen
-/usr/lib/plugins/kf6/kscreen/KSC_Fake.so
-/usr/lib/plugins/kf6/kscreen/KSC_KWayland.so
-/usr/lib/plugins/kf6/kscreen/KSC_XRandR.so
 /usr/lib/systemd
 /usr/lib/systemd/user
 /usr/lib/systemd/user/plasma-kscreen.service
