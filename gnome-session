@@ -4,6 +4,7 @@
 /usr/bin/gnome-session
 /usr/bin/gnome-session-inhibit
 /usr/bin/gnome-session-quit
+/usr/bin/gnome-session-sddm-wrapper
 /usr/lib
 /usr/libexec
 /usr/libexec/gnome-session-ctl
@@ -392,5 +393,6 @@
 /usr/share/locale/zu/LC_MESSAGES/gnome-session.mo
 /usr/share/wayland-sessions
 /usr/share/wayland-sessions/gnome.desktop
+/usr/share/wayland-sessions/gnome-wayland.desktop
 /usr/share/xdg-desktop-portal
 /usr/share/xdg-desktop-portal/gnome-portals.conf

@@ -1,8 +1,6 @@
 1.28.5
 /usr
 /usr/bin
-/usr/bin/fastfetch
-/usr/bin/flashfetch
 /usr/bin/gst-inspect-1.0
 /usr/bin/gst-launch-1.0
 /usr/bin/gst-stats-1.0
@@ -191,8 +189,6 @@
 /usr/share/bash-completion/helpers/gst
 /usr/share/cmake
 /usr/share/cmake/FindGStreamer.cmake
-/usr/share/fastfetch/presets/examples
-/usr/share/fastfetch/presets/examples/10.jsonc
 /usr/share/gdb
 /usr/share/gdb/auto-load
 /usr/share/gdb/auto-load/usr
@@ -349,7 +345,6 @@
 /usr/share/locale/zh_TW/LC_MESSAGES/gstreamer-1.0.mo
 /usr/share/man
 /usr/share/man/man1
-/usr/share/man/man1/fastfetch.1
 /usr/share/man/man1/gst-inspect-1.0.1
 /usr/share/man/man1/gst-launch-1.0.1
 /usr/share/man/man1/gst-stats-1.0.1

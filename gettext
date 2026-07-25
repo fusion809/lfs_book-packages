@@ -58,6 +58,8 @@
 /usr/lib/libgettextsrc-1.0.so
 /usr/lib/libgettextsrc.la
 /usr/lib/libgettextsrc.so
+/usr/lib/libgtk-4.so.1
+/usr/lib/libsoup-3.0.so.0
 /usr/lib/libtextstyle.la
 /usr/lib/libtextstyle.so
 /usr/lib/libtextstyle.so.0

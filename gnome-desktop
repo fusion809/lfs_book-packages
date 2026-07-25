@@ -1,5 +1,6 @@
 44.5
 /usr
+/usr/bin/gnome-session-sddm-wrapper
 /usr/include
 /usr/include/gnome-desktop-3.0
 /usr/include/gnome-desktop-3.0/libgnome-desktop
