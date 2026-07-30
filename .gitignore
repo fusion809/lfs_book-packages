@@ -5,3 +5,5 @@ plasma-all
 frameworks6
 xorg-lib*
 xorg-font
+.Rhistory
+.RData
