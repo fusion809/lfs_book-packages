@@ -1,4 +1,4 @@
-1.69.0
+1.70.0
 /usr
 /usr/bin
 /usr/include
@@ -6,16 +6,17 @@
 /usr/include/nghttp2/nghttp2.h
 /usr/include/nghttp2/nghttp2ver.h
 /usr/lib
+/usr/lib/libhdf5_hl_cpp.so.320
 /usr/lib/libnghttp2.la
 /usr/lib/libnghttp2.so
 /usr/lib/libnghttp2.so.14
-/usr/lib/libnghttp2.so.14.29.4
+/usr/lib/libnghttp2.so.14.29.5
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/libnghttp2.pc
 /usr/share
 /usr/share/doc
-/usr/share/doc/nghttp2-1.69.0
-/usr/share/doc/nghttp2-1.69.0/README.rst
+/usr/share/doc/nghttp2-1.70.0
+/usr/share/doc/nghttp2-1.70.0/README.rst
 /usr/share/man
 /usr/share/man/man1
 /usr/share/man/man1/h2load.1
