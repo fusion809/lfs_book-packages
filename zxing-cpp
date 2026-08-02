@@ -1,4 +1,4 @@
-3.1.0
+3.1.1
 /usr
 /usr/include
 /usr/include/ZXing
@@ -31,7 +31,7 @@
 /usr/lib/cmake/ZXing/ZXingTargets.cmake
 /usr/lib/cmake/ZXing/ZXingTargets-release.cmake
 /usr/lib/libZXing.so
-/usr/lib/libZXing.so.3.1.0
+/usr/lib/libZXing.so.3.1.1
 /usr/lib/libZXing.so.4
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/zxing.pc
