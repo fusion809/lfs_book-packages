@@ -1,4 +1,4 @@
-6.7.3
+6.7.4
 /usr
 /usr/bin
 /usr/bin/kwin_x11
@@ -302,10 +302,10 @@
 /usr/lib/kconf_update_bin/kwin-6.1-remove-gridview-expose-shortcuts-x11
 /usr/lib/kconf_update_bin/kwin-6.5-showpaint-changes-x11
 /usr/lib/libkcmkwincommon-x11.so.6
-/usr/lib/libkcmkwincommon-x11.so.6.7.3
+/usr/lib/libkcmkwincommon-x11.so.6.7.4
 /usr/lib/libkwin-x11.so
 /usr/lib/libkwin-x11.so.6
-/usr/lib/libkwin-x11.so.6.7.3
+/usr/lib/libkwin-x11.so.6.7.4
 /usr/lib/plugins
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/packagestructure

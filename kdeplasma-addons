@@ -1,4 +1,4 @@
-6.7.3
+6.7.4
 /usr
 /usr/include
 /usr/include/plasma
@@ -35,10 +35,10 @@
 /usr/lib/libplasmapotdprovidercore.so.2.0.0
 /usr/lib/libplasmaweatherdata.so
 /usr/lib/libplasmaweatherdata.so.6
-/usr/lib/libplasmaweatherdata.so.6.7.3
+/usr/lib/libplasmaweatherdata.so.6.7.4
 /usr/lib/libplasmaweatherion.so
 /usr/lib/libplasmaweatherion.so.6
-/usr/lib/libplasmaweatherion.so.6.7.3
+/usr/lib/libplasmaweatherion.so.6.7.4
 /usr/lib/plugins
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/krunner
@@ -1178,6 +1178,7 @@
 /usr/share/locale/ja/LC_MESSAGES/plasma_runner_krunner_dictionary.mo
 /usr/share/locale/ja/LC_MESSAGES/plasma_runner_spellcheckrunner.mo
 /usr/share/locale/ja/LC_MESSAGES/plasma_wallpaper_org.kde.potd.mo
+/usr/share/locale/ja/LC_MESSAGES/plasma_wallpaper_org.kde.tiled.mo
 /usr/share/locale/ka
 /usr/share/locale/ka/LC_MESSAGES
 /usr/share/locale/ka/LC_MESSAGES/kwin_effect_cube.mo

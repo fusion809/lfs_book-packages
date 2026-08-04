@@ -1,4 +1,4 @@
-6.7.3
+6.7.4
 /usr
 /usr/bin
 /usr/bin/kwindowprop
@@ -336,10 +336,10 @@
 /usr/lib/kconf_update_bin/kwin-6.1-remove-gridview-expose-shortcuts
 /usr/lib/kconf_update_bin/kwin-6.5-showpaint-changes
 /usr/lib/libkcmkwincommon.so.6
-/usr/lib/libkcmkwincommon.so.6.7.3
+/usr/lib/libkcmkwincommon.so.6.7.4
 /usr/lib/libkwin.so
 /usr/lib/libkwin.so.6
-/usr/lib/libkwin.so.6.7.3
+/usr/lib/libkwin.so.6.7.4
 /usr/lib/plugins
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/packagestructure
