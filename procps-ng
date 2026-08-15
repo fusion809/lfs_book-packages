@@ -1,4 +1,4 @@
-4.0.6
+4.0.7
 /usr
 /usr/bin
 /usr/bin/free
@@ -31,17 +31,17 @@
 /usr/lib/libproc2.la
 /usr/lib/libproc2.so
 /usr/lib/libproc2.so.1
-/usr/lib/libproc2.so.1.0.1
+/usr/lib/libproc2.so.1.0.2
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/libproc2.pc
 /usr/sbin
 /usr/sbin/sysctl
 /usr/share
 /usr/share/doc
-/usr/share/doc/procps-ng-4.0.6
-/usr/share/doc/procps-ng-4.0.6/bugs.md
-/usr/share/doc/procps-ng-4.0.6/FAQ
-/usr/share/doc/procps-ng-4.0.6/libproc.supp
+/usr/share/doc/procps-ng-4.0.7
+/usr/share/doc/procps-ng-4.0.7/bugs.md
+/usr/share/doc/procps-ng-4.0.7/FAQ
+/usr/share/doc/procps-ng-4.0.7/libproc.supp
 /usr/share/locale
 /usr/share/locale/de
 /usr/share/locale/de/LC_MESSAGES
@@ -120,6 +120,7 @@
 /usr/share/man/man1/pgrep.1
 /usr/share/man/man1/pidof.1
 /usr/share/man/man1/pidwait.1
+/usr/share/man/man1/pkill.1
 /usr/share/man/man1/pmap.1
 /usr/share/man/man1/ps.1
 /usr/share/man/man1/pwdx.1
