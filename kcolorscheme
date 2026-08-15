@@ -1,4 +1,4 @@
-6.28.0
+6.29.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -22,7 +22,7 @@
 /usr/lib/cmake/KF6ColorScheme/KF6ColorSchemeTargets-release.cmake
 /usr/lib/libKF6ColorScheme.so
 /usr/lib/libKF6ColorScheme.so.6
-/usr/lib/libKF6ColorScheme.so.6.28.0
+/usr/lib/libKF6ColorScheme.so.6.29.0
 /usr/share
 /usr/share/locale
 /usr/share/locale/ar
@@ -109,6 +109,9 @@
 /usr/share/locale/lv
 /usr/share/locale/lv/LC_MESSAGES
 /usr/share/locale/lv/LC_MESSAGES/kcolorscheme6.mo
+/usr/share/locale/nan_TW@latin
+/usr/share/locale/nan_TW@latin/LC_MESSAGES
+/usr/share/locale/nan_TW@latin/LC_MESSAGES/kcolorscheme6.mo
 /usr/share/locale/nl
 /usr/share/locale/nl/LC_MESSAGES
 /usr/share/locale/nl/LC_MESSAGES/kcolorscheme6.mo

@@ -1,4 +1,4 @@
-6.28.0
+6.29.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -32,7 +32,7 @@
 /usr/lib/cmake/KF6DNSSD/KF6DNSSDTargets-release.cmake
 /usr/lib/libKF6DNSSD.so
 /usr/lib/libKF6DNSSD.so.6
-/usr/lib/libKF6DNSSD.so.6.28.0
+/usr/lib/libKF6DNSSD.so.6.29.0
 /usr/share
 /usr/share/locale
 /usr/share/locale/af
@@ -218,6 +218,9 @@
 /usr/share/locale/ms
 /usr/share/locale/ms/LC_MESSAGES
 /usr/share/locale/ms/LC_MESSAGES/kdnssd6_qt.qm
+/usr/share/locale/nan_TW@latin
+/usr/share/locale/nan_TW@latin/LC_MESSAGES
+/usr/share/locale/nan_TW@latin/LC_MESSAGES/kdnssd6_qt.qm
 /usr/share/locale/nb
 /usr/share/locale/nb/LC_MESSAGES
 /usr/share/locale/nb/LC_MESSAGES/kdnssd6_qt.qm

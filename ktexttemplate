@@ -1,4 +1,4 @@
-6.28.0
+6.29.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -64,7 +64,7 @@
 /usr/lib/cmake/KF6TextTemplate/KF6TextTemplateTargets-release.cmake
 /usr/lib/libKF6TextTemplate.so
 /usr/lib/libKF6TextTemplate.so.6
-/usr/lib/libKF6TextTemplate.so.6.28.0
+/usr/lib/libKF6TextTemplate.so.6.29.0
 /usr/lib/plugins
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/ktexttemplate
@@ -72,6 +72,7 @@
 /usr/lib/plugins/kf6/ktexttemplate/ktexttemplate_defaulttags.so
 /usr/lib/plugins/kf6/ktexttemplate/ktexttemplate_i18ntags.so
 /usr/lib/plugins/kf6/ktexttemplate/ktexttemplate_loadertags.so
+/usr/lib/plugins/kf6/ktexttemplate/ktexttemplate_scriptabletags.so
 /usr/share
 /usr/share/qlogging-categories6
 /usr/share/qlogging-categories6/ktexttemplate.categories

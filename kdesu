@@ -1,4 +1,4 @@
-6.28.0
+6.29.0
 /usr
 /usr/include
 /usr/include/KF6
@@ -31,7 +31,7 @@
 /usr/libexec/kf6/kdesu_stub
 /usr/lib/libKF6Su.so
 /usr/lib/libKF6Su.so.6
-/usr/lib/libKF6Su.so.6.28.0
+/usr/lib/libKF6Su.so.6.29.0
 /usr/share
 /usr/share/locale
 /usr/share/locale/ar
@@ -103,6 +103,9 @@
 /usr/share/locale/hi
 /usr/share/locale/hi/LC_MESSAGES
 /usr/share/locale/hi/LC_MESSAGES/kdesud6.mo
+/usr/share/locale/hr
+/usr/share/locale/hr/LC_MESSAGES
+/usr/share/locale/hr/LC_MESSAGES/kdesud6.mo
 /usr/share/locale/hu
 /usr/share/locale/hu/LC_MESSAGES
 /usr/share/locale/hu/LC_MESSAGES/kdesud6.mo

@@ -1,4 +1,4 @@
-6.28.0
+6.29.0
 /usr
 /usr/lib
 /usr/lib/cmake
@@ -17,7 +17,6 @@
 /usr/lib/plugins/imageformats/kimg_jp2.so
 /usr/lib/plugins/imageformats/kimg_jxl.so
 /usr/lib/plugins/imageformats/kimg_kra.so
-/usr/lib/plugins/imageformats/kimg_ora.so
 /usr/lib/plugins/imageformats/kimg_pcx.so
 /usr/lib/plugins/imageformats/kimg_pfm.so
 /usr/lib/plugins/imageformats/kimg_pic.so
