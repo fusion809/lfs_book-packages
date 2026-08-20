@@ -1,4 +1,4 @@
-26.04.3
+26.08.0
 /usr
 /usr/bin
 /usr/bin/dolphin
@@ -20,10 +20,10 @@
 /usr/lib/kconf_update_bin
 /usr/lib/kconf_update_bin/dolphin_25.04_update_statusandlocationbarssettings
 /usr/lib/kconf_update_bin/dolphin_update_splitviewsettings
-/usr/lib/libdolphinprivate.so.26.04.3
+/usr/lib/libdolphinprivate.so.26.08.0
 /usr/lib/libdolphinprivate.so.6
 /usr/lib/libdolphinvcs.so
-/usr/lib/libdolphinvcs.so.26.04.3
+/usr/lib/libdolphinvcs.so.26.08.0
 /usr/lib/libdolphinvcs.so.6
 /usr/lib/plugins
 /usr/lib/plugins/dolphin
@@ -279,6 +279,8 @@
 /usr/share/kconf_update/dolphin_replace_view_mode_with_view_settings_in_toolbar.py
 /usr/share/kconf_update/dolphin_replace_view_mode_with_view_settings_in_toolbar.upd
 /usr/share/kconf_update/dolphin_statusandlocationbarssettings.upd
+/usr/share/kconf_update/dolphin_tab_key_shortcut_for_focus_other_view.py
+/usr/share/kconf_update/dolphin_tab_key_shortcut_for_focus_other_view.upd
 /usr/share/kglobalaccel
 /usr/share/kglobalaccel/org.kde.dolphin.desktop
 /usr/share/knsrcfiles
@@ -586,6 +588,7 @@
 /usr/share/locale/ug
 /usr/share/locale/ug/LC_MESSAGES
 /usr/share/locale/ug/LC_MESSAGES/dolphin.mo
+/usr/share/locale/ug/LC_MESSAGES/dolphin_servicemenuinstaller.mo
 /usr/share/locale/uk
 /usr/share/locale/uk/LC_MESSAGES
 /usr/share/locale/uk/LC_MESSAGES/dolphin.mo

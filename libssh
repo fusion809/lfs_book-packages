@@ -1,4 +1,9 @@
 1.11.1
+/etc
+/etc/blfs-release
+/etc/lfs-release
+/etc/lsb-release
+/etc/os-release
 /usr
 /usr/include
 /usr/include/libssh2.h
