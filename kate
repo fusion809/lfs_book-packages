@@ -1,11 +1,11 @@
-26.04.1
+26.04.3
 /usr
 /usr/bin
 /usr/bin/exec_inspect.sh
 /usr/bin/kate
 /usr/bin/kwrite
 /usr/lib
-/usr/lib/libkateprivate.so.26.04.1
+/usr/lib/libkateprivate.so.26.04.3
 /usr/lib/plugins
 /usr/lib/plugins/kf6
 /usr/lib/plugins/kf6/kio
@@ -105,17 +105,6 @@
 /usr/share/doc/HTML/de/kate/index.cache.bz2
 /usr/share/doc/HTML/de/kate/index.docbook
 /usr/share/doc/HTML/de/kate/menus.docbook
-/usr/share/doc/HTML/de/katepart
-/usr/share/doc/HTML/de/katepart/advanced.docbook
-/usr/share/doc/HTML/de/katepart/configuring.docbook
-/usr/share/doc/HTML/de/katepart/development.docbook
-/usr/share/doc/HTML/de/katepart/fundamentals.docbook
-/usr/share/doc/HTML/de/katepart/index.cache.bz2
-/usr/share/doc/HTML/de/katepart/index.docbook
-/usr/share/doc/HTML/de/katepart/menus.docbook
-/usr/share/doc/HTML/de/katepart/part.docbook
-/usr/share/doc/HTML/de/katepart/regular-expressions.docbook
-/usr/share/doc/HTML/de/katepart/vi.docbook
 /usr/share/doc/HTML/de/kate/plugins.docbook
 /usr/share/doc/HTML/de/kwrite
 /usr/share/doc/HTML/de/kwrite/index.cache.bz2
@@ -1512,6 +1501,7 @@
 /usr/share/locale/ko/LC_MESSAGES/katefiletree.mo
 /usr/share/locale/ko/LC_MESSAGES/kategdbplugin.mo
 /usr/share/locale/ko/LC_MESSAGES/kategitblameplugin.mo
+/usr/share/locale/ko/LC_MESSAGES/kategpgplugin.mo
 /usr/share/locale/ko/LC_MESSAGES/katekeyboardmacros.mo
 /usr/share/locale/ko/LC_MESSAGES/katekonsoleplugin.mo
 /usr/share/locale/ko/LC_MESSAGES/kate.mo
@@ -1802,6 +1792,7 @@
 /usr/share/locale/nn/LC_MESSAGES/katexmltools.mo
 /usr/share/locale/nn/LC_MESSAGES/ktexteditorpreviewplugin.mo
 /usr/share/locale/nn/LC_MESSAGES/lspclient.mo
+/usr/share/locale/nn/LC_MESSAGES/rainbowparens.mo
 /usr/share/locale/nn/LC_MESSAGES/tabswitcherplugin.mo
 /usr/share/locale/oc
 /usr/share/locale/oc/LC_MESSAGES
