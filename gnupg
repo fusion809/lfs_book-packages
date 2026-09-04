@@ -1,4 +1,4 @@
-2.5.21
+2.5.22
 /usr
 /usr/bin
 /usr/bin/dirmngr
@@ -7,17 +7,17 @@
 /usr/bin/gpg-agent
 /usr/bin/gpg-authcode-sign.sh
 /usr/bin/gpg-card
+/usr/bin/gpgconf
 /usr/bin/gpg-connect-agent
 /usr/bin/gpg-mail-tube
-/usr/bin/gpg-wks-client
-/usr/bin/gpg-wks-server
-/usr/bin/gpgconf
 /usr/bin/gpgparsemail
 /usr/bin/gpgscm
 /usr/bin/gpgsm
 /usr/bin/gpgsplit
 /usr/bin/gpgtar
 /usr/bin/gpgv
+/usr/bin/gpg-wks-client
+/usr/bin/gpg-wks-server
 /usr/bin/kbxutil
 /usr/bin/watchgnupg
 /usr/libexec
@@ -35,8 +35,8 @@
 /usr/sbin/applygnupgdefaults
 /usr/share
 /usr/share/doc
-/usr/share/doc/gnupg-2.5.21
-/usr/share/doc/gnupg-2.5.21/README
+/usr/share/doc/gnupg-2.5.22
+/usr/share/doc/gnupg-2.5.22/README
 /usr/share/gnupg
 /usr/share/gnupg/distsigkey.gpg
 /usr/share/locale
