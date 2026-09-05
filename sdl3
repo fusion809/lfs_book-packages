@@ -1,4 +1,4 @@
-3.4.14
+3.4.16
 /usr
 /usr/include
 /usr/include/SDL3
@@ -230,7 +230,7 @@
 /usr/libexec/installed-tests/SDL3/utf8.txt
 /usr/lib/libSDL3.so
 /usr/lib/libSDL3.so.0
-/usr/lib/libSDL3.so.0.4.14
+/usr/lib/libSDL3.so.0.4.16
 /usr/lib/libSDL3_test.a
 /usr/lib/pkgconfig
 /usr/lib/pkgconfig/sdl3.pc
